@@ -14,14 +14,17 @@ namespace ConsoleRPG2
     {
         static Battlefield bf = new Battlefield();
 
+        static Random rnd = new Random();
+
         static void Main(string[] args)
         {
-            Console.SetWindowSize(220, 84);
+            Console.SetWindowSize(Console.LargestWindowWidth, Console.LargestWindowHeight);
+            Console.SetWindowPosition(0, 0);
 
-            int charCount = 500;
-            while (--charCount > 0)
+            int charCount = 50;
+            while (charCount-- > 0)
             {
-                ProfPriest nu = new ProfPriest(new Point(charCount % 20 + 4, charCount / 20));
+                ProfPriest nu = new ProfPriest(new Point(charCount % 20 + 4, rnd.Next(Calculator.FieldSize)));
                 nu.TeamID = charCount % 2 + 1;
                 bf.addUnit(nu);
             }
