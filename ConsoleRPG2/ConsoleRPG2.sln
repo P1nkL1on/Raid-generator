@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleRPG2", "ConsoleRPG2\ConsoleRPG2.csproj", "{49A3BE28-C820-4FEF-9D76-B098A1F105AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibRPG", "LibRPHG\LibRPG.csproj", "{6ACA5E28-34F1-4E09-A1FD-049A13F3B53C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatrixFields", "MatrixFields\MatrixFields.csproj", "{EBC5BDAA-379D-4352-B811-7725A45B8752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A3BE28-C820-4FEF-9D76-B098A1F105AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A3BE28-C820-4FEF-9D76-B098A1F105AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A3BE28-C820-4FEF-9D76-B098A1F105AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A3BE28-C820-4FEF-9D76-B098A1F105AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ACA5E28-34F1-4E09-A1FD-049A13F3B53C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ACA5E28-34F1-4E09-A1FD-049A13F3B53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ACA5E28-34F1-4E09-A1FD-049A13F3B53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ACA5E28-34F1-4E09-A1FD-049A13F3B53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC5BDAA-379D-4352-B811-7725A45B8752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC5BDAA-379D-4352-B811-7725A45B8752}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC5BDAA-379D-4352-B811-7725A45B8752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC5BDAA-379D-4352-B811-7725A45B8752}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

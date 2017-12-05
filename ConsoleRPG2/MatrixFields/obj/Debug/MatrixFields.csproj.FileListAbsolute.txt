@@ -1,0 +1,5 @@
+D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\bin\Debug\MatrixFields.dll
+D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\bin\Debug\MatrixFields.pdb
+D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.dll
+D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.pdb

@@ -1,0 +1,7 @@
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\bin\Debug\LibRPHG.dll
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\bin\Debug\LibRPHG.pdb
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.dll
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.pdb
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\obj\Debug\LibRPG.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\bin\Debug\MatrixFields.dll
+D:\microsoft visual studio projects\ConsoleRPG2\LibRPHG\bin\Debug\MatrixFields.pdb
