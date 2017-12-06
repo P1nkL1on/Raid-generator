@@ -3,3 +3,9 @@ D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\bin\Debug\MatrixFie
 D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.csprojResolveAssemblyReference.cache
 D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.dll
 D:\microsoft visual studio projects\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.pdb
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\bin\Debug\MatrixFields.dll
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\bin\Debug\MatrixFields.pdb
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.csprojResolveAssemblyReference.cache
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.csproj.CoreCompileInputs.cache
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.dll
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\MatrixFields\obj\Debug\MatrixFields.pdb

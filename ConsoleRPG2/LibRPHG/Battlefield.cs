@@ -40,6 +40,7 @@ namespace LibRPHG
                 currentUnitPoses[i] = decided;
                 _units[i].MoveTo(decided);
             }
+            Console.Clear();
             Calculator.TraceBattlefieldToConsole(currentUnitPoses);
         }
     }

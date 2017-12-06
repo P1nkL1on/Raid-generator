@@ -177,16 +177,27 @@ namespace LibRPHG
 
         public virtual List<Prio> CalculateSituation(Battlefield bf)
         {
+            bool inverse = (GetTeamNumber % 2) == 0;
             List<IUnit> units = bf.getUnits;
 
             List<Prio> res = new List<Prio>();
             for (int i = 0; i < units.Count; i++)
                 if (units[i] != this)
                 {
-                    if (units[i].GetTeamNumber != GetTeamNumber)
-                        res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, 2, true, true), -5.0f));
+                    if (inverse)
+                    {   
+                        // victim
+                        if (units[i].GetTeamNumber != GetTeamNumber)
+                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, units[i].GetSpd * 2 - GetSpd, true, true), -5.0f));
+                        else
+                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, 2, true, true), 1.0f)); // 1.0f
+                    }
                     else
-                        res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, 2, true, true), 1.0f));
+                    {
+                        // hunter
+                        if (units[i].GetTeamNumber != GetTeamNumber)
+                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, units[i].GetSpd * 2 - GetSpd, true, true), 5.0f));
+                    }
                 }
             return res;
         }

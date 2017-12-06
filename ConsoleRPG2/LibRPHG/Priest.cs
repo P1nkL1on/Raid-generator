@@ -10,7 +10,7 @@ namespace LibRPHG
     {
         public ProfPriest(System.Drawing.Point startPoint)
         {
-            base.SetDefault(Namegen.GenerateRandomName(), startPoint, 2, 1, 30.0f, 3, 150.0f, 80.0f);
+            base.SetDefault(Namegen.GenerateRandomName(), startPoint, 3, 1, 30.0f, 3, 150.0f, 80.0f);
             base.SetDefault();
         }
 

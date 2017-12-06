@@ -41,10 +41,9 @@ namespace ConsoleRPG2
 
                 //Calculator.Foo();
                 bf.CalculateMovementForEachCharacter();
-                //LOGS.Trace();
+                LOGS.Trace();
 
                 Console.ReadKey();
-                Console.Clear();
             } while (true);
         }
     }

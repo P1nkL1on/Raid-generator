@@ -18,3 +18,14 @@ D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\D
 D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\LibRPHG.pdb
 D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\MatrixFields.pdb
 D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\ConsoleRPG2\obj\Debug\ConsoleRPG2.csprojResolveAssemblyReference.cache
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\ConsoleRPG2.exe.config
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\ConsoleRPG2.exe
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\ConsoleRPG2.pdb
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\LibRPHG.dll
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\MatrixFields.dll
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\LibRPHG.pdb
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\bin\Debug\MatrixFields.pdb
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\obj\Debug\ConsoleRPG2.csprojResolveAssemblyReference.cache
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\obj\Debug\ConsoleRPG2.csproj.CoreCompileInputs.cache
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\obj\Debug\ConsoleRPG2.exe
+C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\ConsoleRPG2\obj\Debug\ConsoleRPG2.pdb
