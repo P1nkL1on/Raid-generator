@@ -15,6 +15,6 @@ namespace LibRPHG
             base.SetDefault();
         }
 
-        public override string Prof { get { return (_level == 5) ? "High priest" : "Priest"; } }
+        public override string Prof { get { return "Testman"; } }
     }
 }
