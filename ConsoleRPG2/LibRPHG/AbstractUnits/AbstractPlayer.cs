@@ -100,7 +100,7 @@ namespace LibRPHG
             int spd, int attpoints, int attdamage, int attdist, int def, int acc)
         {
             _isDead = false; _hp_shield = _hp_regen_mod = _hp_regen_per_turn = _mp_regen_per_turn = _mp_regen_mod = 0;
-            _atp_mod = _mvp_mod = _def_mod = _acc_mod = _att_dmg_mod = _hp_regen_mod = _mp_regen_mod = 1;
+            _atp_mod = _mvp_mod = _def_mod = _acc_mod = _att_dmg_mod = _hp_regen_mod = _mp_regen_mod = 0;
             description = "Abstract unit as itself.";
 
             _level = level;

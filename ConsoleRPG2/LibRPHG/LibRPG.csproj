@@ -45,7 +45,8 @@
     <Compile Include="AbstractUnits\IUnit.cs" />
     <Compile Include="Enviropment\LOGS.cs" />
     <Compile Include="Enviropment\Namegen.cs" />
-    <Compile Include="PlayerClasses\TestPlayer.cs" />
+    <Compile Include="PlayerClasses\Rangers.cs" />
+    <Compile Include="PlayerClasses\zTestPlayer.cs" />
     <Compile Include="PlayerClasses\Warriors.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
