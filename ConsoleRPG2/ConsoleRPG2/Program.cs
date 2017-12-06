@@ -21,28 +21,24 @@ namespace ConsoleRPG2
             Console.SetWindowSize(Console.LargestWindowWidth, Console.LargestWindowHeight);
             Console.SetWindowPosition(0, 0);
 
-            int charCount = 50;
+            int charCount = 50; 
             while (charCount-- > 0)
             {
-                ProfPriest nu = new ProfPriest(new Point(charCount % 20 + 4, rnd.Next(Calculator.FieldSize)));
-                nu.TeamID = charCount % 2 + 1;
+                PTest nu = new PTest(new Point(charCount % 20 + 4, rnd.Next(Calculator.FieldSize)));
+                nu.TeamNumber = charCount % 2 + 1;
                 bf.addUnit(nu);
             }
-            LOGS.Trace();
+            PTest lastPriest = bf.getUnits[0] as PTest;
+            while (true) if (lastPriest.Level < 5) lastPriest.RecieveExp(20); else break;
 
+            LOGS.Trace(); Console.WriteLine(lastPriest.TraceMoveStats());
+
+
+            Console.ReadKey();
+            
             do
             {
-                //ProfPriest serega = new ProfPriest();
-                //serega.TeamID = 1;
-                //serega.TraceBars();
-                //for (int i = 0; i < 100; i++)
-                //    serega.RecieveExp(10);
-                //LOGS.Trace();
-
-                //Calculator.Foo();
                 bf.CalculateMovementForEachCharacter();
-                LOGS.Trace();
-
                 Console.ReadKey();
             } while (true);
         }

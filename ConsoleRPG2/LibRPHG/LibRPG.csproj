@@ -40,12 +40,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AbstractPlayer.cs" />
-    <Compile Include="Battlefield.cs" />
-    <Compile Include="IUnit.cs" />
-    <Compile Include="LOGS.cs" />
-    <Compile Include="Namegen.cs" />
-    <Compile Include="Priest.cs" />
+    <Compile Include="AbstractUnits\AbstractPlayer.cs" />
+    <Compile Include="Enviropment\Battlefield.cs" />
+    <Compile Include="AbstractUnits\IUnit.cs" />
+    <Compile Include="Enviropment\LOGS.cs" />
+    <Compile Include="Enviropment\Namegen.cs" />
+    <Compile Include="PlayerClasses\TestPlayer.cs" />
+    <Compile Include="PlayerClasses\Warriors.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

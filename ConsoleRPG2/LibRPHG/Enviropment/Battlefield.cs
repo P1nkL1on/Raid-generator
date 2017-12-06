@@ -11,15 +11,15 @@ namespace LibRPHG
 {
     public class Battlefield
     {
-        List<IUnit> _units;
+        List<Iunit> _units;
 
         public Battlefield()
         {
-            _units = new List<IUnit>();
+            _units = new List<Iunit>();
         }
-        public List<IUnit> getUnits { get { return _units; } }
+        public List<Iunit> getUnits { get { return _units; } }
 
-        public void addUnit(IUnit newUnit) { _units.Add(newUnit); LOGS.Add(String.Format("{0} joined the battle\t(for team {1})", newUnit.NameFull, newUnit.GetTeamNumber)); }
+        public void addUnit(Iunit newUnit) { _units.Add(newUnit); LOGS.Add(String.Format("{0} joined the battle\t(for team {1})", newUnit.NameFull, newUnit.getTeamNumber)); }
 
         public void CalculateMovementForEachCharacter()
         {
@@ -29,7 +29,7 @@ namespace LibRPHG
 
             for (int i = 0; i < _units.Count; i++)
             {
-                IUnit unit = _units[i];
+                Iunit unit = _units[i];
                 List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
                 if (unitCanGo.Count == 0)
                     continue;
