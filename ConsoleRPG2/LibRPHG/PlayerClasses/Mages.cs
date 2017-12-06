@@ -20,7 +20,7 @@ namespace LibRPHG.PlayerClasses
     }
     class PPriest : Abstractplayer
     {
-        public PArcher(Point startPoint)
+        public PPriest(Point startPoint)
         {
             base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
                 1, 150, 100, 2, 1, 30, 3, 5, 30);
@@ -70,7 +70,7 @@ namespace LibRPHG.PlayerClasses
     }
     class PSorcerer : Abstractplayer
     {
-        public PArcher(Point startPoint)
+        public PSorcerer(Point startPoint)
         {
             base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
                 1, 80, 150, 4, 2, 20, 4, 10, 35);

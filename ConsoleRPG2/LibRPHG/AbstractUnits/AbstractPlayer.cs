@@ -125,7 +125,7 @@ namespace LibRPHG
             return String.Format("\n{0} (lvl.{1})\n{8}\nHP: {2} / {3}\t +{4}\nMP: {5} / {6}\t +{7}\nATT: {9}x{10} at range {11}\nMV: {12}\tDEF: {13}\tACC: {14}\n"
                 , NameFull, Level, StrPlus(_hp, _hp_shield), _hpmax, StrPlus(_hp_regen_per_turn, _hp_regen_mod),
                  _mp, _mpmax, StrPlus(_mp_regen_per_turn, _mp_regen_mod), description, StrPlus(_atpmax, _atp_mod),
-                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), StrPlus(_acc, _acc_mod));
+                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1)? "no" : StrPlus(_acc, _acc_mod));
         }
         public virtual int Level { get { return _level; } }
         public virtual string Name { get { return _name; } }

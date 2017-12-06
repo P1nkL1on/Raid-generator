@@ -18,6 +18,16 @@ namespace LibRPHG.PlayerClasses
         }
         public override string Prof { get { return "Archer"; } }
     }
+    public class PDeadarcher : Abstractplayer
+    {
+        public PDeadarcher(Point startPoint)
+        {
+            base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
+                1, 50, 120, 5, 2, 40, 6, 20, 55);
+            base.SetDefault();
+        }
+        public override string Prof { get { return "Dead archer"; } }
+    }
 
     public class PHunter : Abstractplayer
     {
