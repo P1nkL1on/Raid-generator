@@ -8,7 +8,7 @@ using System.Drawing;
 
 namespace LibRPHG.PlayerClasses
 {
-    
+
     public class CharacterSelect
     {
         // TANK DPS SUPPORT CONTROL
@@ -40,24 +40,27 @@ namespace LibRPHG.PlayerClasses
             new int[]{ 9,0,1,0}
         };
 
-        public static void generateTeam (int howMuch)
+        public static void generateTeam(int howMuch)
         {
             Abstractplayer d;
             string tst = "/:-#";
             for (int i = 0; i < 25; i++)
             {
                 d = getPlayerByIndex(i, new Point(0, 0));
-                Console.WriteLine(d.TraceBars() +"\n" + d.TraceMoveStats());
-                Console.WriteLine();
+                //d.DamageFor(23);
+                //d.SpendManaFor(40);
+                Console.WriteLine(d.TraceBars() + "\n" + d.TraceMoveStats());
+                Console.WriteLine(); 
                 for (int j = 0; j < 4; j++)
                     for (int k = 0; k < whowhat[i][j]; k++)
-                        Console.Write(tst[j]);
+                        for (int a = 0; a < 2; a++)
+                            Console.Write(tst[j]);
                 Console.ReadKey();
                 Console.Clear();
             }
             //return new List<IUnit>();
         }
-        static Abstractplayer getPlayerByIndex(int index, Point start )
+        public static Abstractplayer getPlayerByIndex(int index, Point start)
         {
             switch (index)
             {

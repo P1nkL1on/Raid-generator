@@ -13,6 +13,8 @@ namespace LibRPHG
         static string soglasLetters = "qwrtpsdfghjklzxcvbnm";
         static string[] ends = new string[]{"alias", "ondor","or", "enier", "an", "silii", "ya", "on", "arield", "ald",
                                             "om","ous","ey","od" };
+        static string[] femaleEnds = new string[] { "iya","ella", "ina", "ora", "asha", "eisha", "ina", "iliya", "ena"
+                                                   ,"ola","y","a"};
         static string randomGlas()
         {
             return glasLetters[rnd.Next(glasLetters.Length)] + "";
@@ -21,18 +23,25 @@ namespace LibRPHG
         {
             return soglasLetters[rnd.Next(soglasLetters.Length)] + "";
         }
-        static string randomEnd()
+        static string randomEnd(bool isFemale)
         {
-            return ends[rnd.Next(ends.Length)];
+            if (!isFemale)
+                return ends[rnd.Next(ends.Length)];
+            return femaleEnds[rnd.Next(femaleEnds.Length)];
         }
 
         public static string GenerateRandomName()
         {
+            return GenerateRandomName(false);
+        }
+
+        public static string GenerateRandomName(bool isFemale)
+        {
             string resName = "";
             int slogCountVer = rnd.Next(100), slogCount = -1;
-            if (slogCountVer < 40)
+            if (slogCountVer < 60)
                 slogCount = 1;
-            if (slogCountVer >= 40 && slogCountVer < 90)
+            if (slogCountVer >= 60 && slogCountVer < 90)
                 slogCount = 2;
             if (slogCountVer >= 90)
                 slogCount = 3;
@@ -43,7 +52,7 @@ namespace LibRPHG
                 if (i > 0 && rnd.Next(101) < 5)
                     resName += resName[resName.Length - 1];
             }
-            resName += randomEnd();
+            resName += randomEnd(isFemale);
             // first later
             if (rnd.Next(101) < 60)
                 resName = randomSoglas().ToUpper() + resName;

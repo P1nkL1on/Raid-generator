@@ -24,6 +24,8 @@ namespace LibRPHG
 
         void HealFor(int x);
         void DamageFor(int x);
+        void FillManaFor(int x);
+        bool SpendManaFor(int x);
         void Die();
         bool isDead { get; }
 

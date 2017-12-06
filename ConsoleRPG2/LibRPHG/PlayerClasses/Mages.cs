@@ -52,7 +52,7 @@ namespace LibRPHG.PlayerClasses
     {
         public PPixie(Point startPoint)
         {
-            base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
+            base.SetDefaultStats(Namegen.GenerateRandomName(true), startPoint,
                 1, 75, 100, 4, 1, 35, 6, 0, 60);
             base.SetDefault();
         }
@@ -62,7 +62,7 @@ namespace LibRPHG.PlayerClasses
     {
         public PDriad(Point startPoint)
         {
-            base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
+            base.SetDefaultStats(Namegen.GenerateRandomName(true), startPoint,
                 1, 50, 100, 3, 2, 25, 5, 5, 40);
             base.SetDefault();
         }

@@ -46,14 +46,29 @@ namespace LibRPHG
 
         public override void DamageFor(int x)
         {
-            float defPercent = .1f * (_def + _def_mod);
+            float defPercent = 1.0f - .01f * (_def + _def_mod);
             int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
-            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {3}/{4} hp. left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP));
+            _hp = Math.Max(0, _hp - recievedDamage);
+            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP));
         }
 
         public override void HealFor(int x)
         {
+            _hp = Math.Min(_hpmax, _hp + x);
             LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", Name, x, getCurrentHP, getMaxHP));
+        }
+        public override void FillManaFor(int x)
+        {
+            _mp = Math.Min(_mpmax, _mp + x);
+            LOGS.Add(String.Format("{0} refilled mana for {1} up to {2}/{3}", Name, x, getCurrentMP, getMaxMP));
+        }
+        public override bool SpendManaFor(int x)
+        {
+            if (_mp < x)
+                return false;
+            _mp = _mp - x;
+            LOGS.Add(String.Format("{0} spend {1} mana, {2}/{3} MP left", Name, x, getCurrentMP, getMaxMP));
+            return true;
         }
     }
 
@@ -125,7 +140,8 @@ namespace LibRPHG
             return String.Format("\n{0} (lvl.{1})\n{8}\nHP: {2} / {3}\t +{4}\nMP: {5} / {6}\t +{7}\nATT: {9}x{10} at range {11}\nMV: {12}\tDEF: {13}\tACC: {14}\n"
                 , NameFull, Level, StrPlus(_hp, _hp_shield), _hpmax, StrPlus(_hp_regen_per_turn, _hp_regen_mod),
                  _mp, _mpmax, StrPlus(_mp_regen_per_turn, _mp_regen_mod), description, StrPlus(_atpmax, _atp_mod),
-                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1)? "no" : StrPlus(_acc, _acc_mod));
+                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1)? "no" 
+                 : StrPlus(_acc, _acc_mod));
         }
         public virtual int Level { get { return _level; } }
         public virtual string Name { get { return _name; } }
@@ -171,6 +187,8 @@ namespace LibRPHG
             LOGS.Add(String.Format("{0} died.", NameFull));
         }
         public abstract void HealFor(int x);
+        public abstract void FillManaFor(int x);
+        public abstract bool SpendManaFor(int x);
         public virtual bool isDead { get { return _isDead; } }
         public void MoveTo(Point where)
         {
