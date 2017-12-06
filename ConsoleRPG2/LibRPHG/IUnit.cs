@@ -9,6 +9,34 @@ using MatrixFields;
 
 namespace LibRPHG
 {
+    public interface Iunit
+    {
+        int Level { get; }
+        string Name { get; }
+        string NameFull { get; }
+        int getCurrentHP { get; }
+        int getMaxHP { get; }
+        int getCurrentMP { get; }
+        int getMaxMP { get; }
+        Point GetPosition { get; }
+        void MoveTo(Point where);
+        int GetSpd { get; }
+
+        void HealFor(int x);
+        void DamageFor(int x);
+        void Die();
+        bool isDead { get; }
+
+        void SetDefaultStats(string name, Point location,
+            int level, int hpmax, int mpmax,
+            int spd, int attpoints, int attdamage, int attdist, int def, int acc);
+
+        string TraceMoveStats();
+        string TraceBars();
+        int getTeamNumber { get; }
+        List<Prio> CalculateSituation(Battlefield bf);
+    }
+
     public interface IUnit
     {
         int Level { get; }
@@ -32,7 +60,6 @@ namespace LibRPHG
         void TraceMoreStats();
 
         void TraceBars();
-
         int GetTeamNumber { get; }
         List<Prio> CalculateSituation(Battlefield bf);
     }
