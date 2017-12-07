@@ -15,6 +15,7 @@ namespace LibRPHG.PlayerClasses
             base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
                 1, 120, 40, 4, 1, 80, 1, 45, -1);
             base.SetDefault();
+            AddBuff(new LibRPHG.BuffsDebuffs.KnightArmor(this, this));
         }
         public override string Prof { get { return "Knight"; } }
     }

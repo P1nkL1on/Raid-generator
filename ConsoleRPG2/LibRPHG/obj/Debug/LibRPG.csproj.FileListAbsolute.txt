@@ -13,3 +13,10 @@ C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug
 C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPG.csproj.CoreCompileInputs.cache
 C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.dll
 C:\Users\lion6_000\Documents\GitHub\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.pdb
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\bin\Debug\LibRPHG.dll
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\bin\Debug\LibRPHG.pdb
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\bin\Debug\MatrixFields.dll
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\bin\Debug\MatrixFields.pdb
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPG.csprojResolveAssemblyReference.cache
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.dll
+D:\microsoft visual studio projects\Raid-generator\ConsoleRPG2\LibRPHG\obj\Debug\LibRPHG.pdb

@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbstractUnits\AbstractPlayer.cs" />
+    <Compile Include="AbstractUnits\AbstractBuff.cs" />
+    <Compile Include="BuffsDebuffs\HeroBuffs.cs" />
     <Compile Include="Enviropment\Battlefield.cs" />
     <Compile Include="AbstractUnits\IUnit.cs" />
     <Compile Include="Enviropment\LOGS.cs" />

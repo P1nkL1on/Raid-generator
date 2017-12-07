@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 using System.Drawing;
 using MatrixFields;
+using LibRPHG.AbstractUnits;
 
 namespace LibRPHG
 {
@@ -37,32 +38,18 @@ namespace LibRPHG
         string TraceBars();
         int getTeamNumber { get; }
         List<Prio> CalculateSituation(Battlefield bf);
-    }
 
-    public interface IUnit
-    {
-        int Level { get; }
-        string Name { get; }
-        string NameFull { get; }
-        float Health { get; set; }
-        float Mana { get; set; }
-        Point GetPosition { get; }
-        void MoveTo(Point where);
+        // buffs
+        void AddBuff(Ibuff buff);
+        void TickBuffs();
+        // trigger spells
 
-        int GetSpd { get; }
+        void OnHitRecievedEvent(int damage);
+        void OnHealthChangedEvent();
+        void OnAttacking(Iunit who);
+        void OnKillUnit(Iunit who);
+        void OnDie();
+        void OnAttacked(Iunit bywho);
 
-        void HealFor(float x);
-        void DamageFor(float x);
-        void Die();
-        bool isDead();
-
-        void SetDefault(string nam, Point location, int spd, int att_spd, float dmg, int dist, float hpmax, float mpmax);
-
-        void TraceStats();
-        void TraceMoreStats();
-
-        void TraceBars();
-        int GetTeamNumber { get; }
-        List<Prio> CalculateSituation(Battlefield bf);
     }
 }

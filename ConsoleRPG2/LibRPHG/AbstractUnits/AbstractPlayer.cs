@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading;
 
 using MatrixFields;
+using LibRPHG.AbstractUnits;
 
 namespace LibRPHG
 {
@@ -26,7 +27,6 @@ namespace LibRPHG
         }
         public void RecieveExp(int exp)
         {
-
             _expirience += Math.Max(1, (int)(exp * _exp_mod));
             LOGS.Add(String.Format("{0} gain {1} exp", Name, (int)(exp * _exp_mod)));
             int _level_prev = _level;
@@ -48,13 +48,18 @@ namespace LibRPHG
         {
             float defPercent = 1.0f - .01f * (_def + _def_mod);
             int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
+            OnHitRecievedEvent(x);
             _hp = Math.Max(0, _hp - recievedDamage);
+            OnHealthChangedEvent();
             LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP));
         }
 
         public override void HealFor(int x)
         {
+            int _hpwas = _hp;
             _hp = Math.Min(_hpmax, _hp + x);
+            if (_hp != _hpwas)
+                OnHealthChangedEvent();
             LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", Name, x, getCurrentHP, getMaxHP));
         }
         public override void FillManaFor(int x)
@@ -102,13 +107,15 @@ namespace LibRPHG
         protected int _def;
         protected int _acc;
 
-        protected int _atp_mod;
-        protected int _mvp_mod;
-        protected int _def_mod;
-        protected int _acc_mod;
-        protected int _att_dmg_mod;
-        protected int _hp_regen_mod;
-        protected int _mp_regen_mod;
+        public int _atp_mod;
+        public int _mvp_mod;
+        public int _def_mod;
+        public int _acc_mod;
+        public int _att_dmg_mod;
+        public int _hp_regen_mod;
+        public int _mp_regen_mod;
+
+        protected List<Abstractbuff> buffs;
         public string description;
 
         public virtual void SetDefaultStats(string name, Point location, int level, int hpmax, int mpmax,
@@ -117,6 +124,7 @@ namespace LibRPHG
             _isDead = false; _hp_shield = _hp_regen_mod = _hp_regen_per_turn = _mp_regen_per_turn = _mp_regen_mod = 0;
             _atp_mod = _mvp_mod = _def_mod = _acc_mod = _att_dmg_mod = _hp_regen_mod = _mp_regen_mod = 0;
             description = "Abstract unit as itself.";
+            buffs = new List<Abstractbuff>();
 
             _level = level;
             _name = name;
@@ -140,7 +148,7 @@ namespace LibRPHG
             return String.Format("\n{0} (lvl.{1})\n{8}\nHP: {2} / {3}\t +{4}\nMP: {5} / {6}\t +{7}\nATT: {9}x{10} at range {11}\nMV: {12}\tDEF: {13}\tACC: {14}\n"
                 , NameFull, Level, StrPlus(_hp, _hp_shield), _hpmax, StrPlus(_hp_regen_per_turn, _hp_regen_mod),
                  _mp, _mpmax, StrPlus(_mp_regen_per_turn, _mp_regen_mod), description, StrPlus(_atpmax, _atp_mod),
-                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1)? "no" 
+                 StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1) ? "no"
                  : StrPlus(_acc, _acc_mod));
         }
         public virtual int Level { get { return _level; } }
@@ -184,6 +192,7 @@ namespace LibRPHG
         public abstract void DamageFor(int x);
         public void Die()
         {
+            OnDie();
             LOGS.Add(String.Format("{0} died.", NameFull));
         }
         public abstract void HealFor(int x);
@@ -200,5 +209,36 @@ namespace LibRPHG
         {
             return (String.Format("\n  {0}:\n  HP:{1}\n  MP:{2}", NameFull, LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), LOGS.TraceBar(_mp, _mpmax)));
         }
+
+        public virtual void AddBuff(Ibuff buff)
+        {
+            //
+            buffs.Add((Abstractbuff)buff);
+        }
+
+        public void TickBuffs()
+        {
+            for (int i = 0; i < buffs.Count; i++)
+                if (buffs[i].TurnsLeft <= 0)
+                {
+                    buffs[i].Dissaply();
+                    buffs.RemoveAt(i);
+                    i--;
+                }
+                else
+                    buffs[i].Tick();
+        }
+
+        public virtual void OnHitRecievedEvent(int damage) { }
+
+        public virtual void OnHealthChangedEvent() { }
+
+        public virtual void OnAttacking(Iunit who) { }
+
+        public virtual void OnKillUnit(Iunit who) { }
+
+        public virtual void OnDie() { }
+
+        public virtual void OnAttacked(Iunit bywho) { }
     }
 }
