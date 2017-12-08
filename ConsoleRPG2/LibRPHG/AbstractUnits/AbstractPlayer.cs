@@ -166,7 +166,7 @@ namespace LibRPHG
         public virtual List<Prio> CalculateSituation(Battlefield bf)
         {
             bool inverse = (TeamNumber % 2) == 0;
-            List<Iunit> units = bf.getUnits;
+            List<Abstraceunit> units = bf.getUnits;
 
             List<Prio> res = new List<Prio>();
             for (int i = 0; i < units.Count; i++)
@@ -240,5 +240,24 @@ namespace LibRPHG
         public virtual void OnDie() { }
 
         public virtual void OnAttacked(Iunit bywho) { }
+
+        public int DistanceTo(Abstraceunit another, bool isMovement)
+        {
+            if (isMovement)
+                return Math.Abs(GetPosition.X - another.GetPosition.X) + Math.Abs(GetPosition.Y - another.GetPosition.Y);
+            return Math.Max(Math.Abs(GetPosition.X - another.GetPosition.X), Math.Abs(GetPosition.Y - another.GetPosition.Y));
+        }
+
+        public int DistanceTo(Point where, bool isMovement)
+        {
+            if (isMovement)
+                return Math.Abs(GetPosition.X - where.X) + Math.Abs(GetPosition.Y - where.Y);
+            return Math.Max(Math.Abs(GetPosition.X - where.X), Math.Abs(GetPosition.Y - where.Y));
+        }
+
+        public int CurrentDamage
+        {
+            get { return _att_dmg + _att_dmg_mod; }
+        }
     }
 }

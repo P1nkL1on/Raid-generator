@@ -15,7 +15,7 @@ namespace LibRPHG.PlayerClasses
             base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
                 1, 120, 40, 4, 1, 80, 1, 45, -1);
             base.SetDefault();
-            AddBuff(new LibRPHG.BuffsDebuffs.KnightArmor(this, this));
+            AddBuff(new LibRPHG.BuffsDebuffs.KnightPassive(this, this));
         }
         public override string Prof { get { return "Knight"; } }
     }
@@ -50,6 +50,24 @@ namespace LibRPHG.PlayerClasses
             base.SetDefault();
         }
         public override string Prof { get { return "Druid"; } }
+
+        public void PartyRegen(Battlefield bf)
+        {
+            if (!this.SpendManaFor(40))
+                return;
+            LOGS.Add(String.Format("{0} uses ACTIVE ABILITY \"Party HP MP regen\"", NameFull));
+            foreach (Abstraceunit ab in bf.getUnitsInObl(this.GetPosition, 4, false, this.getTeamNumber))
+                ab.AddBuff(new LibRPHG.BuffsDebuffs.DruidSplash(ab, this));
+        }
+
+        public void SelfHeal()
+        {
+            if (!this.SpendManaFor(10))
+                return;
+            LOGS.Add(String.Format("{0} uses ACTIVE ABILITY \"Self heal + DMG buff\"", NameFull));
+            this.HealFor(LibRPHG.BuffsDebuffs.BuffsConsts.DruidSelfHeal);
+            this.AddBuff(new LibRPHG.BuffsDebuffs.DruidDamageBuff(this, this));
+        }
     }
 
     public class PSpearman : Abstractplayer

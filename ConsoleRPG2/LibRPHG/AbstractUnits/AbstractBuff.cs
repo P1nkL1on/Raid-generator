@@ -24,6 +24,7 @@ namespace LibRPHG.AbstractUnits
         protected int _turnsleft;
 
         public virtual string Name { get { return _buffname; } }
+        public virtual string NameFull { get { return String.Format("{0} ( casted on {1} by {2})\n", Name, _bufftarget.NameFull, _buffhost.NameFull); } }
         public int TurnsLeft { get { return _turnsleft; } }
         public virtual void ApplyFor(Abstraceunit who, Abstraceunit bywho)
         {
