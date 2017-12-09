@@ -24,31 +24,45 @@ namespace ConsoleRPG2
 
             //LibRPHG.PlayerClasses.CharacterSelect.generateTeam(0);
 
-            int charCount = 40;
-            while (charCount-- > 0)
+            //int charCount = 40;
+            //while (charCount-- > 0)
+            //{
+            //    Abstractplayer nu =
+            //        LibRPHG.PlayerClasses.CharacterSelect.getPlayerByIndex(rnd.Next(25),
+            //        new Point(rnd.Next(Calculator.FieldSize), rnd.Next(Calculator.FieldSize)));
+            //    nu.TeamNumber = 1;
+            //    bf.addUnit(nu);
+            //}
+            int raidCount = 20;
+            while (true)
             {
-                Abstractplayer nu =
-                    LibRPHG.PlayerClasses.CharacterSelect.getPlayerByIndex(rnd.Next(25),
-                    new Point(rnd.Next(Calculator.FieldSize), rnd.Next(Calculator.FieldSize)));
-                nu.TeamNumber = 1;
-                bf.addUnit(nu);
-            }
-            Abstraceunit dm = new EBigDummy(new Point(Calculator.FieldSize / 2, Calculator.FieldSize / 2));
-            dm.TeamNumber = 0;
-            bf.addUnit(dm);
-
-            LOGS.Trace();
-            Console.ReadKey();
-            do
-            {
-                bf.CalculateMovementForEachCharacter();
-                string S = Console.ReadLine();
-                if (S.Length > 0)
+                for (int i = 0; i < raidCount; i++)
                 {
-                    LOGS.Trace(S);
-                    Console.ReadKey();
+                    Abstraceunit dm = CharacterSelect.getPlayerByIndex(rnd.Next(25), new Point(Calculator.FieldSize / 2, Calculator.FieldSize / 2));
+                    dm.TeamNumber = 1;
+                    bf.addUnit(dm);
                 }
-            } while (true);
+                LOGS.Trace();
+                Console.ReadLine();
+
+                do
+                {
+                    while (bf.getUnits.Count < raidCount * 3 / 2)
+                        bf.addUnit(new ESkeleton(
+                                    (rnd.Next(2) == 0) ?
+                                    new Point(rnd.Next(Calculator.FieldSize), rnd.Next(2) * (Calculator.FieldSize - 2) + 1)
+                                    : new Point(rnd.Next(2) * (Calculator.FieldSize - 2) + 1, rnd.Next(Calculator.FieldSize))));
+
+                    bf.CalculateMovementForEachCharacter();
+                    bf.TraceHealth();
+                    //for (int i = 0; i < bf.getUnits.Count; i++, Console.WriteLine(bf.getUnits[i-1].TraceBars())) ;
+                    LOGS.Trace("died|joined");
+                    string S = Console.ReadLine();
+                    
+                } while (bf.SummHPteam(1) > 0);
+                LOGS.Trace();
+                Console.ReadLine();
+            }
         }
     }
 }

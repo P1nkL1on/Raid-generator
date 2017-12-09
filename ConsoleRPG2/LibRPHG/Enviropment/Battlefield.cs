@@ -9,6 +9,8 @@ using System.Drawing;
 
 namespace LibRPHG
 {
+
+
     public class Battlefield
     {
         List<Abstraceunit> _units;
@@ -66,7 +68,11 @@ namespace LibRPHG
                 _units[i].OnTurnEnd();
 
             Console.Clear();
-            Calculator.TraceBattlefieldToConsole(currentUnitPoses);
+            List<MapPicture> mp = new List<MapPicture>();
+            for (int i = 0; i < _units.Count; i++)
+                mp.Add(new MapPicture(_units[i].GetType().Name.ToString()[1], (_units[i].getTeamNumber == 0) ? ConsoleColor.Red : ConsoleColor.Green, _units[i].GetPosition));
+
+            Calculator.TraceBattlefieldToConsole(mp);
         }
 
         public List<Abstraceunit> getUnitsInObl(Point center, int rad, bool isAttack, int teamNumber)
@@ -84,6 +90,53 @@ namespace LibRPHG
                 if ((_units[i]).DistanceTo(center, !isAttack) <= rad && _units[i].getTeamNumber != friendTeamNumber)
                     res.Add(_units[i]);
             return res;
+        }
+
+        public int SummHPteam(int team)
+        {
+            int res = 0;
+            for (int i = 0; i < _units.Count; i++)
+                if (_units[i].getTeamNumber == team)
+                    res += _units[i].getCurrentHP;
+            return res;
+        }
+
+        public void TraceHealth()
+        {
+            int Pad = 30,
+                maxWidCount = (Console.WindowWidth - 20) / Pad;
+            
+            for (int T = 1; T > 0; T--)
+            {
+                Console.WriteLine(); //if (T == 1) Console.ForegroundColor = ConsoleColor.DarkGreen; else Console.ForegroundColor = ConsoleColor.DarkRed;
+                int curUnit = 0;
+                List<Abstraceunit> team = new List<Abstraceunit>();
+                for (int j = 0; j < _units.Count; j++)
+                    if (_units[j].getTeamNumber == T)
+                        team.Add(_units[j]);
+
+
+                for (int j = 0; j <= team.Count / maxWidCount; j++)
+                {
+                    int need = Math.Min(team.Count - curUnit, maxWidCount);
+                    //Console.WriteLine(need);
+                    string resLine = "";
+                    for (int i = 0; i < need; i++)
+                        resLine += team[curUnit + i].NameFull.PadRight(Pad);
+                    Console.WriteLine(resLine);
+                    resLine = "";
+                    for (int i = 0; i < need; i++)
+                        resLine += team[curUnit + i].TraceBar(true).PadRight(Pad);
+                    Console.WriteLine(resLine);
+                    resLine = "";
+                    for (int i = 0; i < need; i++)
+                        resLine += team[curUnit + i].TraceBar(false).PadRight(Pad);
+                    Console.WriteLine(resLine);
+
+                    curUnit += maxWidCount;
+                }
+            }
+            Console.WriteLine();
         }
     }
 }

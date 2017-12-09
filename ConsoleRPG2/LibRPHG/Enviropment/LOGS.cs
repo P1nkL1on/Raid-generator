@@ -27,10 +27,16 @@ namespace LibRPHG
         }
         public static void Trace(string Filter)
         {
+            string[] Filters = Filter.Split('|');
             while (nowOnLog < logs.Count - 1)
             {
                 string what = logs[++nowOnLog];
-                if (what.IndexOf(Filter) >= 0 || Filter == "")
+                bool need = (Filter == "");
+                if (!need)
+                    for (int i = 0; i < Filters.Length; i++)
+                        if (what.IndexOf(Filters[i]) >= 0) { need = true; break; }
+
+                if (need)
                 {
                     Console.ForegroundColor = ConsoleColor.Gray;
                     if (what.IndexOf("attack") > 0 || what.IndexOf("hit") > 0)

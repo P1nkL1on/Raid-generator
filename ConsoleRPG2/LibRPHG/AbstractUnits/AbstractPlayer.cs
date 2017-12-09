@@ -43,8 +43,6 @@ namespace LibRPHG
             _exp_mod = 1.0f;
             _expirience = 0;
         }
-
-        
         
     }
 
@@ -119,7 +117,9 @@ namespace LibRPHG
             _acc = acc;
 
             // 
-            _hp_regen_per_turn = _mp_regen_per_turn = 1;
+            _hp_regen_per_turn = 1;
+            // automaticly enemy
+            TeamNumber = 0;
         }
         protected string StrPlus(int X, int Y)
         {
@@ -247,6 +247,12 @@ namespace LibRPHG
         public virtual string TraceBars()
         {
             return (String.Format("\n  {0}:\n  HP:{1}\n  MP:{2}", NameFull, LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), LOGS.TraceBar(_mp, _mpmax)));
+        }
+        public string TraceBar(bool health)
+        {
+            if (health)
+                return String.Format("{0}  {1}/{2}",LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), _hp+_hp_shield, _hpmax + _hp_shield);
+            return String.Format("{0}  {1}/{2}",LOGS.TraceBar(_mp, _mpmax), _mp, _mpmax);
         }
 
         public virtual void AddBuff(Ibuff buff)

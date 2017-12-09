@@ -6,8 +6,22 @@ using System.Threading.Tasks;
 
 using System.Drawing;
 
+
 namespace MatrixFields
 {
+    public struct MapPicture
+    {
+        public char letter;
+        public ConsoleColor clr;
+        public Point pos;
+
+        public MapPicture(char letter, ConsoleColor clr, Point pos)
+        {
+            this.letter = letter;
+            this.clr = clr;
+            this.pos = pos;
+        }
+    }
     public static class Calculator
     {
 
@@ -48,7 +62,7 @@ namespace MatrixFields
             Console.ResetColor();
         }
 
-        public static void TraceBattlefieldToConsole(List<Point> who)
+        public static void TraceBattlefieldToConsole(List<MapPicture> who)
         {
             //DarkMagenta;
             for (int i = 0; i < FieldSize; i++, Console.WriteLine())
@@ -57,10 +71,10 @@ namespace MatrixFields
                     string S = " ";
                     if (i == 0 || j == 0 || i == FieldSize - 1 || j == FieldSize - 1) { S = "."; Console.ForegroundColor = ConsoleColor.Gray; }
                     for (int k = 0; k < who.Count; k++)
-                        if (who[k].X == i && who[k].Y == j)
+                        if (who[k].pos.X == i && who[k].pos.Y == j)
                         {
-                            S = heroesNames[k % (heroesNames.Length)] + "";
-                            Console.ForegroundColor = (k < who.Count - 1) ? ConsoleColor.Green : ConsoleColor.Red;
+                            S = who[k].letter+ "";
+                            Console.ForegroundColor = who[k].clr;
                         }
                     Console.Write(S.PadLeft(2));
                 }
