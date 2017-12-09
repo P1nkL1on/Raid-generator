@@ -38,7 +38,7 @@ namespace LibRPHG
         string TraceBars();
         int getTeamNumber { get; }
         List<Prio> CalculateSituation(Battlefield bf);
-
+        Abstraceunit CalculateAttack(List<Abstraceunit> whocan);
         // buffs
         void AddBuff(Ibuff buff);
         void TickBuffs();
@@ -50,6 +50,6 @@ namespace LibRPHG
         void OnKillUnit(Iunit who);
         void OnDie();
         void OnAttacked(Iunit bywho);
-
+        void OnTurnEnd();
     }
 }

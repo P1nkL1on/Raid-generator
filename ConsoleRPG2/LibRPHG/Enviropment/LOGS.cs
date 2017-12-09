@@ -24,7 +24,15 @@ namespace LibRPHG
         public static void Trace()
         {
             while (nowOnLog < logs.Count - 1)
-                Console.WriteLine(logs[++nowOnLog]);
+            {
+                string what = logs[++nowOnLog];
+                Console.ForegroundColor = ConsoleColor.Gray;
+                if (what.IndexOf("attack") >0 || what.IndexOf("hit") > 0)
+                    Console.ForegroundColor = ConsoleColor.DarkRed;
+                if (what.ToUpper().IndexOf("HP") > 0 || what.IndexOf("die") > 0)
+                    Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine(what);
+            }
         }
 
         public static string TraceBar(float now, float max)
@@ -40,7 +48,7 @@ namespace LibRPHG
             string res = "";
             for (int i = 0; i < to; i++)
                 res += ((i < t) ? "■" : "-");//"█" : "░");
-            return String.Format("{0}\t{1}/{2}", res, Math.Round(now * 10) / 10.0f, Math.Round(max * 10) / 10.0f);
+            return String.Format("{0}", res);
         }
     }
 }

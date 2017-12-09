@@ -18,6 +18,14 @@ namespace LibRPHG.PlayerClasses
             AddBuff(new LibRPHG.BuffsDebuffs.KnightPassive(this, this));
         }
         public override string Prof { get { return "Knight"; } }
+
+        public override void OnHitRecievedEvent(int damage)
+        {
+            base.OnHitRecievedEvent(damage);
+
+            foreach (BuffsDebuffs.KnightPassive kp in this.GetBuffs("sturdy armor"))
+                kp.GetHit();
+        }
     }
     public class PBarbarian : Abstractplayer
     {
@@ -26,8 +34,17 @@ namespace LibRPHG.PlayerClasses
             base.SetDefaultStats(Namegen.GenerateRandomName(), startPoint,
                 1, 100, 20, 5, 2, 60, 1, 35, -1);
             base.SetDefault();
+            AddBuff(new LibRPHG.BuffsDebuffs.BarbarianPassive(this, this));
         }
         public override string Prof { get { return "Barbarian"; } }
+
+        public override void OnHealthChangedEvent()
+        {
+            base.OnHealthChangedEvent();
+
+            foreach (BuffsDebuffs.BarbarianPassive bp in this.GetBuffs("blood rage"))
+                bp.OnHealthChange();
+        }
     }
 
     public class PPaladin : Abstractplayer

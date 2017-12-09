@@ -8,6 +8,8 @@ namespace LibRPHG
 {
     public static class Namegen
     {
+        static string kost = "QWERTYUIOPASDFGHJKLZXCVBNM";
+
         static Random rnd = new Random();
         static string glasLetters = "eyuioa";
         static string soglasLetters = "qwrtpsdfghjklzxcvbnm";
@@ -37,6 +39,8 @@ namespace LibRPHG
 
         public static string GenerateRandomName(bool isFemale)
         {
+            //return kost[rnd.Next(kost.Length)] + "";
+
             string resName = "";
             int slogCountVer = rnd.Next(100), slogCount = -1;
             if (slogCountVer < 60)

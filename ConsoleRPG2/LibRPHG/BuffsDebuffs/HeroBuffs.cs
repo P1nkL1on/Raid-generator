@@ -216,7 +216,9 @@ namespace LibRPHG.BuffsDebuffs
         {
             int newDamageGiven = (_bufftarget.getMaxHP - _bufftarget.getCurrentHP) * BuffsConsts.BarbarianDamagePerHPmiss;
             _bufftarget._att_dmg_mod += newDamageGiven - _currentDamageGiven;
+            LOGS.Add(String.Format("{0} get +{1} DMG buff from \"blood rage\"", _bufftarget.NameFull, newDamageGiven - _currentDamageGiven));
             _currentDamageGiven = newDamageGiven;
+            
         }
         public BarbarianPassive(Abstraceunit who, Abstraceunit bywho)
         {
@@ -254,7 +256,7 @@ namespace LibRPHG.BuffsDebuffs
         {
             _nothit++;
             // do nothing
-            if (_nothit >= 2 && _currentDefenseBuff < BuffsConsts.KnightArmor[0])
+            if (_nothit >= 4 && _currentDefenseBuff < BuffsConsts.KnightArmor[0])
             {
                 _currentDefenseBuff += BuffsConsts.KnightArmor[2];
                 _bufftarget._def_mod += BuffsConsts.KnightArmor[2];
@@ -284,7 +286,7 @@ namespace LibRPHG.BuffsDebuffs
         {
             get
             {
-                return base.NameFull + String.Format("This unit has +{1} DEF (up to +{0}), but each taken hit remove {2} DEF down to {3} DEF\n", BuffsConsts.KnightArmor[0], _currentDefenseBuff, BuffsConsts.KnightArmor[2], BuffsConsts.KnightArmor[1]);
+                return base.NameFull + String.Format("This unit has +{1} DEF (up to +{0}), but each taken hit remove {2} DEF down to {3} DEF", BuffsConsts.KnightArmor[0], _currentDefenseBuff, BuffsConsts.KnightArmor[2], BuffsConsts.KnightArmor[1]);
             }
         }
         

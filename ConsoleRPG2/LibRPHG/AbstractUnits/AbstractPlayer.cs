@@ -47,11 +47,12 @@ namespace LibRPHG
         public override void DamageFor(int x)
         {
             float defPercent = 1.0f - .01f * (_def + _def_mod);
+            int wasHP = getCurrentHP;
             int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
             OnHitRecievedEvent(x);
             _hp = Math.Max(0, _hp - recievedDamage);
+            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {5} -> {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP, wasHP));
             OnHealthChangedEvent();
-            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP));
         }
 
         public override void HealFor(int x)
@@ -118,6 +119,15 @@ namespace LibRPHG
         protected List<Abstractbuff> buffs;
         public string description;
 
+        protected List<Abstractbuff> GetBuffs(string name)
+        {
+            List<Abstractbuff> res = new List<Abstractbuff>();
+            for (int i = 0; i < buffs.Count; i++)
+                if ((buffs[i].Name == name))
+                    res.Add(buffs[i]);
+            return res;
+        }
+
         public virtual void SetDefaultStats(string name, Point location, int level, int hpmax, int mpmax,
             int spd, int attpoints, int attdamage, int attdist, int def, int acc)
         {
@@ -137,6 +147,9 @@ namespace LibRPHG
             _att_dist = attdist;
             _def = def;
             _acc = acc;
+
+            // 
+            _hp_regen_per_turn = _mp_regen_per_turn = 1;
         }
         protected string StrPlus(int X, int Y)
         {
@@ -145,11 +158,14 @@ namespace LibRPHG
 
         public virtual string TraceMoveStats()
         {
-            return String.Format("\n{0} (lvl.{1})\n{8}\nHP: {2} / {3}\t +{4}\nMP: {5} / {6}\t +{7}\nATT: {9}x{10} at range {11}\nMV: {12}\tDEF: {13}\tACC: {14}\n"
+            string s = String.Format("\n{0} (lvl.{1})\n{8}\nHP: {15}  {2} / {3}\t +{4}\nMP: {16}  {5} / {6}\t +{7}\nATT: {9}x{10} at range {11}\nMV: {12}\tDEF: {13}\tACC: {14}\n"
                 , NameFull, Level, StrPlus(_hp, _hp_shield), _hpmax, StrPlus(_hp_regen_per_turn, _hp_regen_mod),
                  _mp, _mpmax, StrPlus(_mp_regen_per_turn, _mp_regen_mod), description, StrPlus(_atpmax, _atp_mod),
                  StrPlus(_att_dmg, _att_dmg_mod), _att_dist, StrPlus(_mvpmax, _mvp_mod), StrPlus(_def, _def_mod), (_acc == -1) ? "no"
-                 : StrPlus(_acc, _acc_mod));
+                 : StrPlus(_acc, _acc_mod), LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), LOGS.TraceBar(_mp, _mpmax));
+            for (int i = 0; i < buffs.Count; i++)
+                s += buffs[i].NameFull + "\n";
+            return s;
         }
         public virtual int Level { get { return _level; } }
         public virtual string Name { get { return _name; } }
@@ -163,9 +179,21 @@ namespace LibRPHG
         public virtual int GetSpd { get { return _mvpmax; } }
         public virtual int getTeamNumber { get { return TeamNumber; } }
 
+        public virtual Abstraceunit CalculateAttack(List<Abstraceunit> whocan)
+        {
+            //
+            if (whocan.Count == 0)
+                return null;
+            int minHealh = int.MaxValue; int maxInd = -1;
+            for (int i = 0; i < whocan.Count; i++)
+                if (whocan[i].getCurrentHP < minHealh)
+                { minHealh = whocan[i].getCurrentHP; maxInd = i; }
+            return whocan[maxInd];
+        }
+
         public virtual List<Prio> CalculateSituation(Battlefield bf)
         {
-            bool inverse = (TeamNumber % 2) == 0;
+            bool inverse = false;// (TeamNumber % 2) == 0;
             List<Abstraceunit> units = bf.getUnits;
 
             List<Prio> res = new List<Prio>();
@@ -192,8 +220,11 @@ namespace LibRPHG
         public abstract void DamageFor(int x);
         public void Die()
         {
+            for (int i = 0; i < buffs.Count; i++)
+                buffs[i].Dissaply();
             OnDie();
             LOGS.Add(String.Format("{0} died.", NameFull));
+            _isDead = true;
         }
         public abstract void HealFor(int x);
         public abstract void FillManaFor(int x);
@@ -203,6 +234,11 @@ namespace LibRPHG
         {
             LOGS.Add(String.Format("{0} moves {1},{2} -> {3},{4}", Name, _pos.X, _pos.Y, where.X, where.Y));
             _pos = where;
+        }
+        public void Attack(Abstraceunit who)
+        {
+            LOGS.Add(String.Format("{0} attacks {1}", this.NameFull, who.NameFull));
+            who.DamageFor(this.CurrentDamage);
         }
 
         public virtual string TraceBars()
@@ -229,17 +265,37 @@ namespace LibRPHG
                     buffs[i].Tick();
         }
 
-        public virtual void OnHitRecievedEvent(int damage) { }
+        public virtual void OnHitRecievedEvent(int damage)
+        {
+            LOGS.Add(String.Format("{0} was hited", this.Name));
+        }
 
-        public virtual void OnHealthChangedEvent() { }
+        public virtual void OnHealthChangedEvent()
+        {
+            LOGS.Add(String.Format("{0}'s HP changed", this.Name));
+            if (this.getCurrentHP <= 0)
+                Die();
+        }
 
-        public virtual void OnAttacking(Iunit who) { }
+        public virtual void OnTurnEnd()
+        {
+            int regenHP = _hp_regen_mod + _hp_regen_per_turn,
+                regenMP = _mp_regen_mod + _mp_regen_per_turn;
 
-        public virtual void OnKillUnit(Iunit who) { }
+            if (regenHP > 0) HealFor(regenHP);
+            if (regenHP < 0) DamageFor(regenHP);
+            if (regenMP > 0) FillManaFor(regenMP);
 
-        public virtual void OnDie() { }
+            TickBuffs();
+        }
 
-        public virtual void OnAttacked(Iunit bywho) { }
+        public virtual void OnAttacking(Iunit who) { LOGS.Add(String.Format("{0} will attack {1} in a second", this.Name, who.Name)); }
+
+        public virtual void OnKillUnit(Iunit who) { LOGS.Add(String.Format("{0} fragged {1}", this.Name, who.Name)); }
+
+        public virtual void OnDie() { LOGS.Add(String.Format("{0} will die", this.Name)); }
+
+        public virtual void OnAttacked(Iunit bywho) { LOGS.Add(String.Format("{0} was attacked by {1}", this.Name, bywho.Name)); }
 
         public int DistanceTo(Abstraceunit another, bool isMovement)
         {
@@ -258,6 +314,16 @@ namespace LibRPHG
         public int CurrentDamage
         {
             get { return _att_dmg + _att_dmg_mod; }
+        }
+
+        public int CurrentAttackRange
+        {
+            get { return _att_dist; }
+        }
+
+        public int CurrentATP
+        {
+            get { return _atpmax + _atp_mod; }
         }
     }
 }

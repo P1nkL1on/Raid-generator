@@ -28,18 +28,39 @@ namespace LibRPHG
                 currentUnitPoses.Add(_units[i].GetPosition);
 
             for (int i = 0; i < _units.Count; i++)
-            {
-                Abstraceunit unit = _units[i];
-                List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
-                if (unitCanGo.Count == 0)
-                    continue;
-                List<Prio> unitThinks = unit.CalculateSituation(this);
-                ///
-                Point decided = Calculator.CalculateMovement(unitCanGo, unitThinks);
-                
-                currentUnitPoses[i] = decided;
-                _units[i].MoveTo(decided);
-            }
+                try
+                {
+                    Abstraceunit unit = _units[i];
+                    List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
+                    if (unitCanGo.Count == 0)
+                        continue;
+                    List<Prio> unitThinks = unit.CalculateSituation(this);
+                    /// movement
+                    Point decided = Calculator.CalculateMovement(unitCanGo, unitThinks);
+
+                    currentUnitPoses[i] = decided;
+                    _units[i].MoveTo(decided);
+
+                    // attack
+                    for (int att = 0; att < _units[i].CurrentATP; att++)
+                    {
+                        Abstraceunit decideAttack = _units[i].CalculateAttack(getEnemyesInObl(_units[i].GetPosition, _units[i].CurrentAttackRange, true, _units[i].getTeamNumber));
+                        if (decideAttack != null)
+                        {
+                            _units[i].Attack(decideAttack);
+                            if (decideAttack.isDead)
+                                _units.Remove(decideAttack);
+                        }
+                    }
+                }
+                catch (Exception e)
+                {
+                    LOGS.Add("Unit can't do anything - he is dead. (" + e.Message + ")");
+                }
+            // end turn
+            for (int i = 0; i < _units.Count; i++)
+                _units[i].OnTurnEnd();
+
             Console.Clear();
             Calculator.TraceBattlefieldToConsole(currentUnitPoses);
         }
