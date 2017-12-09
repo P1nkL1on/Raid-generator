@@ -44,38 +44,8 @@ namespace LibRPHG
             _expirience = 0;
         }
 
-        public override void DamageFor(int x)
-        {
-            float defPercent = 1.0f - .01f * (_def + _def_mod);
-            int wasHP = getCurrentHP;
-            int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
-            OnHitRecievedEvent(x);
-            _hp = Math.Max(0, _hp - recievedDamage);
-            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {5} -> {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP, wasHP));
-            OnHealthChangedEvent();
-        }
-
-        public override void HealFor(int x)
-        {
-            int _hpwas = _hp;
-            _hp = Math.Min(_hpmax, _hp + x);
-            if (_hp != _hpwas)
-                OnHealthChangedEvent();
-            LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", Name, x, getCurrentHP, getMaxHP));
-        }
-        public override void FillManaFor(int x)
-        {
-            _mp = Math.Min(_mpmax, _mp + x);
-            LOGS.Add(String.Format("{0} refilled mana for {1} up to {2}/{3}", Name, x, getCurrentMP, getMaxMP));
-        }
-        public override bool SpendManaFor(int x)
-        {
-            if (_mp < x)
-                return false;
-            _mp = _mp - x;
-            LOGS.Add(String.Format("{0} spend {1} mana, {2}/{3} MP left", Name, x, getCurrentMP, getMaxMP));
-            return true;
-        }
+        
+        
     }
 
 
@@ -212,12 +182,14 @@ namespace LibRPHG
                     {
                         // hunter
                         if (units[i].getTeamNumber != getTeamNumber)
-                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, units[i].GetSpd * 2 - GetSpd, true, true), 5.0f));
+                        {
+                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, _att_dist - 1, true, true), -2.0f));
+                            res.Add(new Prio(Calculator.GetOblast(units[i].GetPosition, _att_dist - 1, true, false), 8.0f));
+                        }
                     }
                 }
             return res;
         }
-        public abstract void DamageFor(int x);
         public void Die()
         {
             for (int i = 0; i < buffs.Count; i++)
@@ -226,9 +198,40 @@ namespace LibRPHG
             LOGS.Add(String.Format("{0} died.", NameFull));
             _isDead = true;
         }
-        public abstract void HealFor(int x);
-        public abstract void FillManaFor(int x);
-        public abstract bool SpendManaFor(int x);
+        public virtual void DamageFor(int x)
+        {
+            float defPercent = 1.0f - .01f * (_def + _def_mod);
+            int wasHP = getCurrentHP;
+            int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
+            OnHitRecievedEvent(x);
+            _hp = Math.Max(0, _hp - recievedDamage);
+            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {5} -> {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP, wasHP));
+            OnHealthChangedEvent();
+        }
+
+        public virtual void HealFor(int x)
+        {
+            int _hpwas = _hp;
+            _hp = Math.Min(_hpmax, _hp + x);
+            if (_hp != _hpwas)
+            {
+                OnHealthChangedEvent();
+                LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", Name, _hp - _hpwas, getCurrentHP, getMaxHP));
+            }
+        }
+        public virtual void FillManaFor(int x)
+        {
+            _mp = Math.Min(_mpmax, _mp + x);
+            LOGS.Add(String.Format("{0} refilled mana for {1} up to {2}/{3}", Name, x, getCurrentMP, getMaxMP));
+        }
+        public virtual bool SpendManaFor(int x)
+        {
+            if (_mp < x)
+                return false;
+            _mp = _mp - x;
+            LOGS.Add(String.Format("{0} spend {1} mana, {2}/{3} MP left", Name, x, getCurrentMP, getMaxMP));
+            return true;
+        }
         public virtual bool isDead { get { return _isDead; } }
         public void MoveTo(Point where)
         {

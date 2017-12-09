@@ -32,6 +32,8 @@ namespace LibRPHG
                 {
                     Abstraceunit unit = _units[i];
                     List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
+                    unitCanGo.Add(_units[i].GetPosition);
+
                     if (unitCanGo.Count == 0)
                         continue;
                     List<Prio> unitThinks = unit.CalculateSituation(this);
@@ -44,6 +46,8 @@ namespace LibRPHG
                     // attack
                     for (int att = 0; att < _units[i].CurrentATP; att++)
                     {
+                        if (i == _units.Count - 1)
+                            Console.WriteLine(_units[i].NameFull);
                         Abstraceunit decideAttack = _units[i].CalculateAttack(getEnemyesInObl(_units[i].GetPosition, _units[i].CurrentAttackRange, true, _units[i].getTeamNumber));
                         if (decideAttack != null)
                         {

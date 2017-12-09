@@ -24,11 +24,12 @@ namespace MatrixFields
 
 
                     Console.ForegroundColor = ConsoleColor.Black;
+                    //if (false)
                     for (int k = 0; k < prioretyze.Count; k++)
                         if (prioretyze[k].X == i && prioretyze[k].Y == j)
                         {
                             Console.ForegroundColor = ConsoleColor.DarkMagenta;
-                            S = heroesNames[k % (heroesNames.Length)] + "";
+                            //S = heroesNames[k % (heroesNames.Length)] + "";
                         }
 
 
@@ -42,7 +43,7 @@ namespace MatrixFields
                     if (sw >= 1.1f)
                         Console.BackgroundColor = ConsoleColor.Green;
 
-                    Console.Write(S.PadLeft(2));
+                    Console.Write(S.PadLeft(4));
                 }
             Console.ResetColor();
         }
@@ -59,7 +60,7 @@ namespace MatrixFields
                         if (who[k].X == i && who[k].Y == j)
                         {
                             S = heroesNames[k % (heroesNames.Length)] + "";
-                            Console.ForegroundColor = (k % 2 == 0) ? ConsoleColor.Green : ConsoleColor.Red;
+                            Console.ForegroundColor = (k < who.Count - 1) ? ConsoleColor.Green : ConsoleColor.Red;
                         }
                     Console.Write(S.PadLeft(2));
                 }
@@ -143,14 +144,14 @@ namespace MatrixFields
         static Point WhereToGo(float[,] mat, List<Point> canGo)
         {
             List<float> prioritet = new List<float>();
-            bool isAttack = false;
+            bool isAttack = true;
             for (int c = 0; c < canGo.Count; c++)
             {
                 float newP = 0.0f;
                 for (int i = 0; i < mat.GetLength(0); i++)
                     for (int j = 0; j < mat.GetLength(1); j++)
-                        if (canGo[c].X != i && canGo[c].Y != j)
-                            newP += (mat[i, j] > 0.0f) ?
+                        if (!(canGo[c].X == i && canGo[c].Y == j))
+                            newP += (mat[i, j] >= 0.0f) ?
                                         mat[i, j] / (float)(PointsDist(new Point(i, j), canGo[c], isAttack))
                                         : ((PointsDist(new Point(i, j), canGo[c], isAttack) <= 1) ? mat[i, j] : 0.0f);
                 prioritet.Add(newP + ((mat[canGo[c].X, canGo[c].Y] < 0) ? -5.0f : 0f));
@@ -162,6 +163,12 @@ namespace MatrixFields
             for (int i = 0; i < prioritet.Count; i++)
                 if (prioritet[i] > maxP)
                 { maxP = prioritet[i]; maxInd = i; }
+
+            float[,] mat2 = GenerateZeroMatrix(FieldSize);
+            for (int i = 0; i < canGo.Count; i++)
+                mat2[canGo[i].X, canGo[i].Y] = prioritet[i];
+            //TraceMatrixToConsole(mat2, canGo);
+
             return canGo[maxInd];
         }
 
@@ -198,6 +205,7 @@ namespace MatrixFields
             float[,] mat = GenerateZeroMatrix(FieldSize);
             for (int i = 0; i < prios.Count; i++)
                 changePoints(ref mat, prios[i].oblast, prios[i].offset);
+            //TraceMatrixToConsole(mat, canGoTo);
             return WhereToGo(mat, canGoTo);
         }
     }

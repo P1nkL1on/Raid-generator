@@ -24,30 +24,28 @@ namespace ConsoleRPG2
 
             //LibRPHG.PlayerClasses.CharacterSelect.generateTeam(0);
 
-            int charCount = 4;
+            int charCount = 40;
             while (charCount-- > 0)
             {
                 Abstractplayer nu =
-                    LibRPHG.PlayerClasses.CharacterSelect.getPlayerByIndex(rnd.Next(2),
-                    new Point(charCount % 20 + 4, rnd.Next(Calculator.FieldSize)));
-
-                nu.TeamNumber = charCount % 2 + 1;
+                    LibRPHG.PlayerClasses.CharacterSelect.getPlayerByIndex(rnd.Next(25),
+                    new Point(rnd.Next(Calculator.FieldSize), rnd.Next(Calculator.FieldSize)));
+                nu.TeamNumber = 1;
                 bf.addUnit(nu);
             }
-            Abstractplayer lastPriest = bf.getUnits[0] as Abstractplayer;
+            Abstraceunit dm = new EBigDummy(new Point(Calculator.FieldSize / 2, Calculator.FieldSize / 2));
+            dm.TeamNumber = 0;
+            bf.addUnit(dm);
 
             LOGS.Trace();
             Console.ReadKey();
-
             do
             {
                 bf.CalculateMovementForEachCharacter();
-                if (Console.ReadKey().KeyChar == 't')
+                string S = Console.ReadLine();
+                if (S.Length > 0)
                 {
-                    Console.ResetColor();
-                    for (int i = 0; i < bf.getUnits.Count; i++)
-                        Console.WriteLine(bf.getUnits[i].TraceMoveStats());
-                    LOGS.Trace();
+                    LOGS.Trace(S);
                     Console.ReadKey();
                 }
             } while (true);

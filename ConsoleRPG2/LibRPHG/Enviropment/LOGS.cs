@@ -23,15 +23,22 @@ namespace LibRPHG
 
         public static void Trace()
         {
+            Trace("");
+        }
+        public static void Trace(string Filter)
+        {
             while (nowOnLog < logs.Count - 1)
             {
                 string what = logs[++nowOnLog];
-                Console.ForegroundColor = ConsoleColor.Gray;
-                if (what.IndexOf("attack") >0 || what.IndexOf("hit") > 0)
-                    Console.ForegroundColor = ConsoleColor.DarkRed;
-                if (what.ToUpper().IndexOf("HP") > 0 || what.IndexOf("die") > 0)
-                    Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine(what);
+                if (what.IndexOf(Filter) >= 0 || Filter == "")
+                {
+                    Console.ForegroundColor = ConsoleColor.Gray;
+                    if (what.IndexOf("attack") > 0 || what.IndexOf("hit") > 0)
+                        Console.ForegroundColor = ConsoleColor.DarkRed;
+                    if (what.ToUpper().IndexOf("HP") > 0 || what.IndexOf("die") > 0)
+                        Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine(what);
+                }
             }
         }
 
