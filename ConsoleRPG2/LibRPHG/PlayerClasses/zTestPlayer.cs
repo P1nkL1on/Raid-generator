@@ -26,7 +26,7 @@ namespace LibRPHG
                 5, 1000000, 10, 2, 1, 80, 2, 90, -1);
         }
 
-        public override string NameFull { get { return String.Format("{0}, the dummy", Name); } }
+        public override string NameFull { get { return String.Format("{0}, the dummy", _name); } }
 
 
         //public override Abstraceunit CalculateAttack(List<Abstraceunit> whocan)

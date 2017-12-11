@@ -28,7 +28,7 @@ namespace LibRPHG
         public void RecieveExp(int exp)
         {
             _expirience += Math.Max(1, (int)(exp * _exp_mod));
-            LOGS.Add(String.Format("{0} gain {1} exp", Name, (int)(exp * _exp_mod)));
+            LOGS.Add(String.Format("{0} gain {1} exp", NameFull, (int)(exp * _exp_mod)));
             int _level_prev = _level;
             _level = Math.Min(5, _expirience / 100 + 1);
             if (_level != _level_prev)
@@ -36,7 +36,7 @@ namespace LibRPHG
         }
         public abstract string Prof { get; }
 
-        public override string NameFull { get { return String.Format("{0}, the {1}", Name, Prof); } }
+        public override string NameFull { get { return String.Format("{2}\"{0}, the {1}\"", _name, Prof, NameID); } }
 
         public void SetDefault()
         {
@@ -99,6 +99,7 @@ namespace LibRPHG
         public virtual void SetDefaultStats(string name, Point location, int level, int hpmax, int mpmax,
             int spd, int attpoints, int attdamage, int attdist, int def, int acc)
         {
+            _unitID = ++BFConst.currentUnitID;
             _isDead = false; _hp_shield = _hp_regen_mod = _hp_regen_per_turn = _mp_regen_per_turn = _mp_regen_mod = 0;
             _atp_mod = _mvp_mod = _def_mod = _acc_mod = _att_dmg_mod = _hp_regen_mod = _mp_regen_mod = 0;
             description = "Abstract unit as itself.";
@@ -138,7 +139,7 @@ namespace LibRPHG
             return s;
         }
         public virtual int Level { get { return _level; } }
-        public virtual string Name { get { return _name; } }
+        //public virtual string Name { get { return _name; } }
         public abstract string NameFull { get; }
         //
         public int getCurrentHP { get { return _hp + _hp_shield; } }
@@ -205,7 +206,7 @@ namespace LibRPHG
             int recievedDamage = (int)Math.Max(1.0f, defPercent * x);
             OnHitRecievedEvent(x);
             _hp = Math.Max(0, _hp - recievedDamage);
-            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {5} -> {3}/{4} HP left", Name, x, x - recievedDamage, getCurrentHP, getMaxHP, wasHP));
+            LOGS.Add(String.Format("{0} was damaged for {1} (blocked {2}), {5} -> {3}/{4} HP left", NameFull, x, x - recievedDamage, getCurrentHP, getMaxHP, wasHP));
             OnHealthChangedEvent();
         }
 
@@ -216,26 +217,26 @@ namespace LibRPHG
             if (_hp != _hpwas)
             {
                 OnHealthChangedEvent();
-                LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", Name, _hp - _hpwas, getCurrentHP, getMaxHP));
+                LOGS.Add(String.Format("{0} was healed for {1} health up to {2}/{3}", NameFull, _hp - _hpwas, getCurrentHP, getMaxHP));
             }
         }
         public virtual void FillManaFor(int x)
         {
             _mp = Math.Min(_mpmax, _mp + x);
-            LOGS.Add(String.Format("{0} refilled mana for {1} up to {2}/{3}", Name, x, getCurrentMP, getMaxMP));
+            LOGS.Add(String.Format("{0} refilled mana for {1} up to {2}/{3}", NameFull, x, getCurrentMP, getMaxMP));
         }
         public virtual bool SpendManaFor(int x)
         {
             if (_mp < x)
                 return false;
             _mp = _mp - x;
-            LOGS.Add(String.Format("{0} spend {1} mana, {2}/{3} MP left", Name, x, getCurrentMP, getMaxMP));
+            LOGS.Add(String.Format("{0} spend {1} mana, {2}/{3} MP left", NameFull, x, getCurrentMP, getMaxMP));
             return true;
         }
         public virtual bool isDead { get { return _isDead; } }
         public void MoveTo(Point where)
         {
-            LOGS.Add(String.Format("{0} moves {1},{2} -> {3},{4}", Name, _pos.X, _pos.Y, where.X, where.Y));
+            LOGS.Add(String.Format("{0} moves ({1},{2}) -> ({3},{4})", NameFull, _pos.X, _pos.Y, where.X, where.Y));
             _pos = where;
         }
         public void Attack(Abstraceunit who)
@@ -276,12 +277,12 @@ namespace LibRPHG
 
         public virtual void OnHitRecievedEvent(int damage)
         {
-            LOGS.Add(String.Format("{0} was hited", this.Name));
+            LOGS.Add(String.Format("{0} was hited", this.NameFull));
         }
 
         public virtual void OnHealthChangedEvent()
         {
-            LOGS.Add(String.Format("{0}'s HP changed", this.Name));
+            LOGS.Add(String.Format("{0}'s HP changed", this.NameFull));
             if (this.getCurrentHP <= 0)
                 Die();
         }
@@ -298,13 +299,13 @@ namespace LibRPHG
             TickBuffs();
         }
 
-        public virtual void OnAttacking(Iunit who) { LOGS.Add(String.Format("{0} will attack {1} in a second", this.Name, who.Name)); }
+        public virtual void OnAttacking(Iunit who) { LOGS.Add(String.Format("{0} will attack {1} in a second", this.NameFull, who.NameFull)); }
 
-        public virtual void OnKillUnit(Iunit who) { LOGS.Add(String.Format("{0} fragged {1}", this.Name, who.Name)); }
+        public virtual void OnKillUnit(Iunit who) { LOGS.Add(String.Format("{0} fragged {1}", this.NameFull, who.NameFull)); }
 
-        public virtual void OnDie() { LOGS.Add(String.Format("{0} will die", this.Name)); }
+        public virtual void OnDie() { LOGS.Add(String.Format("{0} will die", this.NameFull)); }
 
-        public virtual void OnAttacked(Iunit bywho) { LOGS.Add(String.Format("{0} was attacked by {1}", this.Name, bywho.Name)); }
+        public virtual void OnAttacked(Iunit bywho) { LOGS.Add(String.Format("{0} was attacked by {1}", this.NameFull, bywho.NameFull)); }
 
         public int DistanceTo(Abstraceunit another, bool isMovement)
         {
@@ -325,6 +326,11 @@ namespace LibRPHG
             get { return _att_dmg + _att_dmg_mod; }
         }
 
+        public int CurrentMVP
+        {
+            get { return _mvpmax + _mvp_mod; }
+        }
+
         public int CurrentAttackRange
         {
             get { return _att_dist; }
@@ -333,6 +339,17 @@ namespace LibRPHG
         public int CurrentATP
         {
             get { return _atpmax + _atp_mod; }
+        }
+
+        int _unitID;
+        public int UnitID
+        {
+            get { return _unitID; }
+        }
+
+        public string NameID
+        {
+            get { return "[" + _unitID + "]"; }
         }
     }
 }

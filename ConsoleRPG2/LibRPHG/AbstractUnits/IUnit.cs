@@ -12,9 +12,11 @@ namespace LibRPHG
 {
     public interface Iunit
     {
+        int UnitID { get; }
         int Level { get; }
-        string Name { get; }
+        //string Name { get; }
         string NameFull { get; }
+        string NameID { get; }
         int getCurrentHP { get; }
         int getMaxHP { get; }
         int getCurrentMP { get; }

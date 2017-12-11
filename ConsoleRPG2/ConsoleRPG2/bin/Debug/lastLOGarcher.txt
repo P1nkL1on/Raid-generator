@@ -1,0 +1,3166 @@
+[1]"Tecovald, the Archer" joined the battle	(for team 1)
+[2]"Skeleton, the undead" joined the battle	(for team 0)
+[3]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,10) -> (14,12)
+[2]"Skeleton, the undead" moves (18,19) -> (17,16)
+[3]"Skeleton, the undead" moves (15,19) -> (15,15)
+[1]"Tecovald, the Archer" attacks [2]"Skeleton, the undead"
+[2]"Skeleton, the undead" was hited
+[2]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[2]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [2]"Skeleton, the undead"
+[2]"Skeleton, the undead" was hited
+[2]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[2]"Skeleton, the undead"'s HP changed
+[2]"Skeleton, the undead" will die
+[2]"Skeleton, the undead" died.
+[4]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,12) -> (12,8)
+[3]"Skeleton, the undead" moves (15,15) -> (15,11)
+[4]"Skeleton, the undead" moves (12,1) -> (12,5)
+[1]"Tecovald, the Archer" attacks [3]"Skeleton, the undead"
+[3]"Skeleton, the undead" was hited
+[3]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[3]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [3]"Skeleton, the undead"
+[3]"Skeleton, the undead" was hited
+[3]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[3]"Skeleton, the undead"'s HP changed
+[3]"Skeleton, the undead" will die
+[3]"Skeleton, the undead" died.
+[5]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,8) -> (12,12)
+[4]"Skeleton, the undead" moves (12,5) -> (12,9)
+[5]"Skeleton, the undead" moves (19,11) -> (15,11)
+[1]"Tecovald, the Archer" attacks [4]"Skeleton, the undead"
+[4]"Skeleton, the undead" was hited
+[4]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[4]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [4]"Skeleton, the undead"
+[4]"Skeleton, the undead" was hited
+[4]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[4]"Skeleton, the undead"'s HP changed
+[4]"Skeleton, the undead" will die
+[4]"Skeleton, the undead" died.
+[6]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,12) -> (10,8)
+[5]"Skeleton, the undead" moves (15,11) -> (12,10)
+[6]"Skeleton, the undead" moves (9,1) -> (9,5)
+[1]"Tecovald, the Archer" attacks [5]"Skeleton, the undead"
+[5]"Skeleton, the undead" was hited
+[5]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[5]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [5]"Skeleton, the undead"
+[5]"Skeleton, the undead" was hited
+[5]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[5]"Skeleton, the undead"'s HP changed
+[5]"Skeleton, the undead" will die
+[5]"Skeleton, the undead" died.
+[7]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,8) -> (9,12)
+[6]"Skeleton, the undead" moves (9,5) -> (9,9)
+[7]"Skeleton, the undead" moves (9,19) -> (9,15)
+[1]"Tecovald, the Archer" attacks [6]"Skeleton, the undead"
+[6]"Skeleton, the undead" was hited
+[6]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[6]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [6]"Skeleton, the undead"
+[6]"Skeleton, the undead" was hited
+[6]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[6]"Skeleton, the undead"'s HP changed
+[6]"Skeleton, the undead" will die
+[6]"Skeleton, the undead" died.
+[8]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,12) -> (14,12)
+[7]"Skeleton, the undead" moves (9,15) -> (12,14)
+[8]"Skeleton, the undead" moves (15,19) -> (15,15)
+[1]"Tecovald, the Archer" attacks [7]"Skeleton, the undead"
+[7]"Skeleton, the undead" was hited
+[7]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[7]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [7]"Skeleton, the undead"
+[7]"Skeleton, the undead" was hited
+[7]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[7]"Skeleton, the undead"'s HP changed
+[7]"Skeleton, the undead" will die
+[7]"Skeleton, the undead" died.
+[9]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,12) -> (8,12)
+[8]"Skeleton, the undead" moves (15,15) -> (11,15)
+[9]"Skeleton, the undead" moves (19,19) -> (15,19)
+[1]"Tecovald, the Archer" attacks [8]"Skeleton, the undead"
+[8]"Skeleton, the undead" was hited
+[8]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[8]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [8]"Skeleton, the undead"
+[8]"Skeleton, the undead" was hited
+[8]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[8]"Skeleton, the undead"'s HP changed
+[8]"Skeleton, the undead" will die
+[8]"Skeleton, the undead" died.
+[10]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,12) -> (9,8)
+[9]"Skeleton, the undead" moves (15,19) -> (15,15)
+[10]"Skeleton, the undead" moves (6,1) -> (6,5)
+[1]"Tecovald, the Archer" attacks [9]"Skeleton, the undead"
+[9]"Skeleton, the undead" was hited
+[9]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[9]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [9]"Skeleton, the undead"
+[9]"Skeleton, the undead" was hited
+[9]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[9]"Skeleton, the undead"'s HP changed
+[9]"Skeleton, the undead" will die
+[9]"Skeleton, the undead" died.
+[11]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,8) -> (13,8)
+[10]"Skeleton, the undead" moves (6,5) -> (10,5)
+[11]"Skeleton, the undead" moves (12,1) -> (12,5)
+[1]"Tecovald, the Archer" attacks [10]"Skeleton, the undead"
+[10]"Skeleton, the undead" was hited
+[10]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[10]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [10]"Skeleton, the undead"
+[10]"Skeleton, the undead" was hited
+[10]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[10]"Skeleton, the undead"'s HP changed
+[10]"Skeleton, the undead" will die
+[10]"Skeleton, the undead" died.
+[12]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,8) -> (7,8)
+[11]"Skeleton, the undead" moves (12,5) -> (9,6)
+[12]"Skeleton, the undead" moves (2,1) -> (3,4)
+[1]"Tecovald, the Archer" attacks [11]"Skeleton, the undead"
+[11]"Skeleton, the undead" was hited
+[11]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[11]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [11]"Skeleton, the undead"
+[11]"Skeleton, the undead" was hited
+[11]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[11]"Skeleton, the undead"'s HP changed
+[11]"Skeleton, the undead" will die
+[11]"Skeleton, the undead" died.
+[13]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,8) -> (10,6)
+[12]"Skeleton, the undead" moves (3,4) -> (7,4)
+[13]"Skeleton, the undead" moves (19,3) -> (15,3)
+[1]"Tecovald, the Archer" attacks [12]"Skeleton, the undead"
+[12]"Skeleton, the undead" was hited
+[12]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[12]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [12]"Skeleton, the undead"
+[12]"Skeleton, the undead" was hited
+[12]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[12]"Skeleton, the undead"'s HP changed
+[12]"Skeleton, the undead" will die
+[12]"Skeleton, the undead" died.
+[14]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,6) -> (7,5)
+[13]"Skeleton, the undead" moves (15,3) -> (11,3)
+[14]"Skeleton, the undead" moves (0,1) -> (3,1)
+[1]"Tecovald, the Archer" attacks [13]"Skeleton, the undead"
+[13]"Skeleton, the undead" was hited
+[13]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[13]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [13]"Skeleton, the undead"
+[13]"Skeleton, the undead" was hited
+[13]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[13]"Skeleton, the undead"'s HP changed
+[13]"Skeleton, the undead" will die
+[13]"Skeleton, the undead" died.
+[15]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,5) -> (6,8)
+[14]"Skeleton, the undead" moves (3,1) -> (3,5)
+[15]"Skeleton, the undead" moves (3,19) -> (3,15)
+[1]"Tecovald, the Archer" attacks [14]"Skeleton, the undead"
+[14]"Skeleton, the undead" was hited
+[14]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[14]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [14]"Skeleton, the undead"
+[14]"Skeleton, the undead" was hited
+[14]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[14]"Skeleton, the undead"'s HP changed
+[14]"Skeleton, the undead" will die
+[14]"Skeleton, the undead" died.
+[16]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,8) -> (10,10)
+[15]"Skeleton, the undead" moves (3,15) -> (6,14)
+[16]"Skeleton, the undead" moves (19,11) -> (15,11)
+[1]"Tecovald, the Archer" attacks [15]"Skeleton, the undead"
+[15]"Skeleton, the undead" was hited
+[15]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[15]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [15]"Skeleton, the undead"
+[15]"Skeleton, the undead" was hited
+[15]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[15]"Skeleton, the undead"'s HP changed
+[15]"Skeleton, the undead" will die
+[15]"Skeleton, the undead" died.
+[17]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,10) -> (8,11)
+[16]"Skeleton, the undead" moves (15,11) -> (11,11)
+[17]"Skeleton, the undead" moves (1,14) -> (5,14)
+[1]"Tecovald, the Archer" attacks [16]"Skeleton, the undead"
+[16]"Skeleton, the undead" was hited
+[16]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[16]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [16]"Skeleton, the undead"
+[16]"Skeleton, the undead" was hited
+[16]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[16]"Skeleton, the undead"'s HP changed
+[16]"Skeleton, the undead" will die
+[16]"Skeleton, the undead" died.
+[18]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (8,7)
+[17]"Skeleton, the undead" moves (5,14) -> (5,10)
+[18]"Skeleton, the undead" moves (1,8) -> (5,8)
+[1]"Tecovald, the Archer" attacks [17]"Skeleton, the undead"
+[17]"Skeleton, the undead" was hited
+[17]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[17]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [17]"Skeleton, the undead"
+[17]"Skeleton, the undead" was hited
+[17]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[17]"Skeleton, the undead"'s HP changed
+[17]"Skeleton, the undead" will die
+[17]"Skeleton, the undead" died.
+[19]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,7) -> (8,13)
+[18]"Skeleton, the undead" moves (5,8) -> (6,11)
+[19]"Skeleton, the undead" moves (1,17) -> (4,16)
+[1]"Tecovald, the Archer" attacks [18]"Skeleton, the undead"
+[18]"Skeleton, the undead" was hited
+[18]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[18]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [18]"Skeleton, the undead"
+[18]"Skeleton, the undead" was hited
+[18]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[18]"Skeleton, the undead"'s HP changed
+[18]"Skeleton, the undead" will die
+[18]"Skeleton, the undead" died.
+[20]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,13) -> (8,9)
+[19]"Skeleton, the undead" moves (4,16) -> (4,12)
+[20]"Skeleton, the undead" moves (1,4) -> (4,5)
+[1]"Tecovald, the Archer" attacks [19]"Skeleton, the undead"
+[19]"Skeleton, the undead" was hited
+[19]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[19]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [19]"Skeleton, the undead"
+[19]"Skeleton, the undead" was hited
+[19]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[19]"Skeleton, the undead"'s HP changed
+[19]"Skeleton, the undead" will die
+[19]"Skeleton, the undead" died.
+[21]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,9) -> (11,8)
+[20]"Skeleton, the undead" moves (4,5) -> (8,5)
+[21]"Skeleton, the undead" moves (19,9) -> (15,9)
+[1]"Tecovald, the Archer" attacks [20]"Skeleton, the undead"
+[20]"Skeleton, the undead" was hited
+[20]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[20]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [20]"Skeleton, the undead"
+[20]"Skeleton, the undead" was hited
+[20]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[20]"Skeleton, the undead"'s HP changed
+[20]"Skeleton, the undead" will die
+[20]"Skeleton, the undead" died.
+[22]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (12,3)
+[21]"Skeleton, the undead" moves (15,9) -> (14,6)
+[22]"Skeleton, the undead" moves (19,0) -> (15,0)
+[1]"Tecovald, the Archer" attacks [21]"Skeleton, the undead"
+[21]"Skeleton, the undead" was hited
+[21]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[21]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [21]"Skeleton, the undead"
+[21]"Skeleton, the undead" was hited
+[21]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[21]"Skeleton, the undead"'s HP changed
+[21]"Skeleton, the undead" will die
+[21]"Skeleton, the undead" died.
+[23]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,3) -> (12,7)
+[22]"Skeleton, the undead" moves (15,0) -> (15,4)
+[23]"Skeleton, the undead" moves (19,13) -> (16,12)
+[1]"Tecovald, the Archer" attacks [22]"Skeleton, the undead"
+[22]"Skeleton, the undead" was hited
+[22]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[22]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [22]"Skeleton, the undead"
+[22]"Skeleton, the undead" was hited
+[22]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[22]"Skeleton, the undead"'s HP changed
+[22]"Skeleton, the undead" will die
+[22]"Skeleton, the undead" died.
+[24]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,7) -> (14,5)
+[23]"Skeleton, the undead" moves (16,12) -> (16,8)
+[24]"Skeleton, the undead" moves (19,11) -> (17,9)
+[1]"Tecovald, the Archer" attacks [23]"Skeleton, the undead"
+[23]"Skeleton, the undead" was hited
+[23]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[23]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [23]"Skeleton, the undead"
+[23]"Skeleton, the undead" was hited
+[23]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[23]"Skeleton, the undead"'s HP changed
+[23]"Skeleton, the undead" will die
+[23]"Skeleton, the undead" died.
+[25]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,5) -> (10,5)
+[24]"Skeleton, the undead" moves (17,9) -> (13,9)
+[25]"Skeleton, the undead" moves (17,1) -> (13,1)
+[1]"Tecovald, the Archer" attacks [24]"Skeleton, the undead"
+[24]"Skeleton, the undead" was hited
+[24]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[24]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [24]"Skeleton, the undead"
+[24]"Skeleton, the undead" was hited
+[24]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[24]"Skeleton, the undead"'s HP changed
+[24]"Skeleton, the undead" will die
+[24]"Skeleton, the undead" died.
+[26]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,5) -> (12,8)
+[25]"Skeleton, the undead" moves (13,1) -> (13,5)
+[26]"Skeleton, the undead" moves (19,11) -> (15,11)
+[1]"Tecovald, the Archer" attacks [25]"Skeleton, the undead"
+[25]"Skeleton, the undead" was hited
+[25]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[25]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [25]"Skeleton, the undead"
+[25]"Skeleton, the undead" was hited
+[25]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[25]"Skeleton, the undead"'s HP changed
+[25]"Skeleton, the undead" will die
+[25]"Skeleton, the undead" died.
+[27]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,8) -> (8,10)
+[26]"Skeleton, the undead" moves (15,11) -> (11,11)
+[27]"Skeleton, the undead" moves (1,16) -> (3,14)
+[1]"Tecovald, the Archer" attacks [26]"Skeleton, the undead"
+[26]"Skeleton, the undead" was hited
+[26]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[26]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [26]"Skeleton, the undead"
+[26]"Skeleton, the undead" was hited
+[26]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[26]"Skeleton, the undead"'s HP changed
+[26]"Skeleton, the undead" will die
+[26]"Skeleton, the undead" died.
+[28]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,10) -> (8,8)
+[27]"Skeleton, the undead" moves (3,14) -> (4,11)
+[28]"Skeleton, the undead" moves (9,1) -> (9,5)
+[1]"Tecovald, the Archer" attacks [27]"Skeleton, the undead"
+[27]"Skeleton, the undead" was hited
+[27]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[27]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [27]"Skeleton, the undead"
+[27]"Skeleton, the undead" was hited
+[27]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[27]"Skeleton, the undead"'s HP changed
+[27]"Skeleton, the undead" will die
+[27]"Skeleton, the undead" died.
+[29]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (10,12)
+[28]"Skeleton, the undead" moves (9,5) -> (9,9)
+[29]"Skeleton, the undead" moves (14,19) -> (13,16)
+[1]"Tecovald, the Archer" attacks [28]"Skeleton, the undead"
+[28]"Skeleton, the undead" was hited
+[28]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[28]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [28]"Skeleton, the undead"
+[28]"Skeleton, the undead" was hited
+[28]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[28]"Skeleton, the undead"'s HP changed
+[28]"Skeleton, the undead" will die
+[28]"Skeleton, the undead" died.
+[30]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (6,12)
+[29]"Skeleton, the undead" moves (13,16) -> (9,16)
+[30]"Skeleton, the undead" moves (1,17) -> (3,15)
+[1]"Tecovald, the Archer" attacks [29]"Skeleton, the undead"
+[29]"Skeleton, the undead" was hited
+[29]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[29]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [29]"Skeleton, the undead"
+[29]"Skeleton, the undead" was hited
+[29]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[29]"Skeleton, the undead"'s HP changed
+[29]"Skeleton, the undead" will die
+[29]"Skeleton, the undead" died.
+[31]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,12) -> (10,13)
+[30]"Skeleton, the undead" moves (3,15) -> (7,15)
+[31]"Skeleton, the undead" moves (0,19) -> (4,19)
+[1]"Tecovald, the Archer" attacks [30]"Skeleton, the undead"
+[30]"Skeleton, the undead" was hited
+[30]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[30]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [30]"Skeleton, the undead"
+[30]"Skeleton, the undead" was hited
+[30]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[30]"Skeleton, the undead"'s HP changed
+[30]"Skeleton, the undead" will die
+[30]"Skeleton, the undead" died.
+[32]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,13) -> (6,12)
+[31]"Skeleton, the undead" moves (4,19) -> (4,15)
+[32]"Skeleton, the undead" moves (1,2) -> (1,6)
+[1]"Tecovald, the Archer" attacks [31]"Skeleton, the undead"
+[31]"Skeleton, the undead" was hited
+[31]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[31]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [31]"Skeleton, the undead"
+[31]"Skeleton, the undead" was hited
+[31]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[31]"Skeleton, the undead"'s HP changed
+[31]"Skeleton, the undead" will die
+[31]"Skeleton, the undead" died.
+[33]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,12) -> (8,8)
+[32]"Skeleton, the undead" moves (1,6) -> (5,6)
+[33]"Skeleton, the undead" moves (1,4) -> (4,4)
+[1]"Tecovald, the Archer" attacks [32]"Skeleton, the undead"
+[32]"Skeleton, the undead" was hited
+[32]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[32]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [32]"Skeleton, the undead"
+[32]"Skeleton, the undead" was hited
+[32]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[32]"Skeleton, the undead"'s HP changed
+[32]"Skeleton, the undead" will die
+[32]"Skeleton, the undead" died.
+[34]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (11,5)
+[33]"Skeleton, the undead" moves (4,4) -> (8,4)
+[34]"Skeleton, the undead" moves (19,0) -> (15,0)
+[1]"Tecovald, the Archer" attacks [33]"Skeleton, the undead"
+[33]"Skeleton, the undead" was hited
+[33]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[33]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [33]"Skeleton, the undead"
+[33]"Skeleton, the undead" was hited
+[33]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[33]"Skeleton, the undead"'s HP changed
+[33]"Skeleton, the undead" will die
+[33]"Skeleton, the undead" died.
+[35]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,5) -> (8,5)
+[34]"Skeleton, the undead" moves (15,0) -> (12,1)
+[35]"Skeleton, the undead" moves (1,9) -> (4,8)
+[1]"Tecovald, the Archer" attacks [34]"Skeleton, the undead"
+[34]"Skeleton, the undead" was hited
+[34]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[34]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [34]"Skeleton, the undead"
+[34]"Skeleton, the undead" was hited
+[34]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[34]"Skeleton, the undead"'s HP changed
+[34]"Skeleton, the undead" will die
+[34]"Skeleton, the undead" died.
+[36]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,5) -> (11,8)
+[35]"Skeleton, the undead" moves (4,8) -> (8,8)
+[36]"Skeleton, the undead" moves (10,1) -> (10,5)
+[1]"Tecovald, the Archer" attacks [35]"Skeleton, the undead"
+[35]"Skeleton, the undead" was hited
+[35]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[35]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [35]"Skeleton, the undead"
+[35]"Skeleton, the undead" was hited
+[35]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[35]"Skeleton, the undead"'s HP changed
+[35]"Skeleton, the undead" will die
+[35]"Skeleton, the undead" died.
+[37]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (12,12)
+[36]"Skeleton, the undead" moves (10,5) -> (10,9)
+[37]"Skeleton, the undead" moves (19,6) -> (16,7)
+[1]"Tecovald, the Archer" attacks [36]"Skeleton, the undead"
+[36]"Skeleton, the undead" was hited
+[36]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[36]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [36]"Skeleton, the undead"
+[36]"Skeleton, the undead" was hited
+[36]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[36]"Skeleton, the undead"'s HP changed
+[36]"Skeleton, the undead" will die
+[36]"Skeleton, the undead" died.
+[38]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,12) -> (9,9)
+[37]"Skeleton, the undead" moves (16,7) -> (12,7)
+[38]"Skeleton, the undead" moves (19,1) -> (16,2)
+[1]"Tecovald, the Archer" attacks [37]"Skeleton, the undead"
+[37]"Skeleton, the undead" was hited
+[37]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[37]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [37]"Skeleton, the undead"
+[37]"Skeleton, the undead" was hited
+[37]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[37]"Skeleton, the undead"'s HP changed
+[37]"Skeleton, the undead" will die
+[37]"Skeleton, the undead" died.
+[39]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,9) -> (11,8)
+[38]"Skeleton, the undead" moves (16,2) -> (14,4)
+[39]"Skeleton, the undead" moves (10,1) -> (10,5)
+[1]"Tecovald, the Archer" attacks [38]"Skeleton, the undead"
+[38]"Skeleton, the undead" was hited
+[38]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[38]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [38]"Skeleton, the undead"
+[38]"Skeleton, the undead" was hited
+[38]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[38]"Skeleton, the undead"'s HP changed
+[38]"Skeleton, the undead" will die
+[38]"Skeleton, the undead" died.
+[40]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (17,8)
+[39]"Skeleton, the undead" moves (10,5) -> (14,5)
+[40]"Skeleton, the undead" moves (11,1) -> (12,3)
+[1]"Tecovald, the Archer" attacks [39]"Skeleton, the undead"
+[39]"Skeleton, the undead" was hited
+[39]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[39]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [39]"Skeleton, the undead"
+[39]"Skeleton, the undead" was hited
+[39]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[39]"Skeleton, the undead"'s HP changed
+[39]"Skeleton, the undead" will die
+[39]"Skeleton, the undead" died.
+[41]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (17,8) -> (11,8)
+[40]"Skeleton, the undead" moves (12,3) -> (12,7)
+[41]"Skeleton, the undead" moves (6,1) -> (7,4)
+[1]"Tecovald, the Archer" attacks [40]"Skeleton, the undead"
+[40]"Skeleton, the undead" was hited
+[40]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[40]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [40]"Skeleton, the undead"
+[40]"Skeleton, the undead" was hited
+[40]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[40]"Skeleton, the undead"'s HP changed
+[40]"Skeleton, the undead" will die
+[40]"Skeleton, the undead" died.
+[42]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (8,11)
+[41]"Skeleton, the undead" moves (7,4) -> (7,8)
+[42]"Skeleton, the undead" moves (1,12) -> (5,12)
+[1]"Tecovald, the Archer" attacks [41]"Skeleton, the undead"
+[41]"Skeleton, the undead" was hited
+[41]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[41]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [41]"Skeleton, the undead"
+[41]"Skeleton, the undead" was hited
+[41]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[41]"Skeleton, the undead"'s HP changed
+[41]"Skeleton, the undead" will die
+[41]"Skeleton, the undead" died.
+[43]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (8,5)
+[42]"Skeleton, the undead" moves (5,12) -> (5,8)
+[43]"Skeleton, the undead" moves (1,1) -> (4,1)
+[1]"Tecovald, the Archer" attacks [42]"Skeleton, the undead"
+[42]"Skeleton, the undead" was hited
+[42]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[42]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [42]"Skeleton, the undead"
+[42]"Skeleton, the undead" was hited
+[42]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[42]"Skeleton, the undead"'s HP changed
+[42]"Skeleton, the undead" will die
+[42]"Skeleton, the undead" died.
+[44]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,5) -> (8,8)
+[43]"Skeleton, the undead" moves (4,1) -> (4,4)
+[44]"Skeleton, the undead" moves (18,19) -> (16,17)
+[1]"Tecovald, the Archer" attacks [43]"Skeleton, the undead"
+[43]"Skeleton, the undead" was hited
+[43]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[43]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [43]"Skeleton, the undead"
+[43]"Skeleton, the undead" was hited
+[43]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[43]"Skeleton, the undead"'s HP changed
+[43]"Skeleton, the undead" will die
+[43]"Skeleton, the undead" died.
+[45]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (12,10)
+[44]"Skeleton, the undead" moves (16,17) -> (15,14)
+[45]"Skeleton, the undead" moves (13,1) -> (13,5)
+[1]"Tecovald, the Archer" attacks [44]"Skeleton, the undead"
+[44]"Skeleton, the undead" was hited
+[44]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[44]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [44]"Skeleton, the undead"
+[44]"Skeleton, the undead" was hited
+[44]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[44]"Skeleton, the undead"'s HP changed
+[44]"Skeleton, the undead" will die
+[44]"Skeleton, the undead" died.
+[46]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,10) -> (14,12)
+[45]"Skeleton, the undead" moves (13,5) -> (13,9)
+[46]"Skeleton, the undead" moves (19,6) -> (17,8)
+[1]"Tecovald, the Archer" attacks [45]"Skeleton, the undead"
+[45]"Skeleton, the undead" was hited
+[45]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[45]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [45]"Skeleton, the undead"
+[45]"Skeleton, the undead" was hited
+[45]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[45]"Skeleton, the undead"'s HP changed
+[45]"Skeleton, the undead" will die
+[45]"Skeleton, the undead" died.
+[47]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,12) -> (10,10)
+[46]"Skeleton, the undead" moves (17,8) -> (13,8)
+[47]"Skeleton, the undead" moves (1,4) -> (4,4)
+[1]"Tecovald, the Archer" attacks [46]"Skeleton, the undead"
+[46]"Skeleton, the undead" was hited
+[46]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[46]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [46]"Skeleton, the undead"
+[46]"Skeleton, the undead" was hited
+[46]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[46]"Skeleton, the undead"'s HP changed
+[46]"Skeleton, the undead" will die
+[46]"Skeleton, the undead" died.
+[48]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,10) -> (9,11)
+[47]"Skeleton, the undead" moves (4,4) -> (5,7)
+[48]"Skeleton, the undead" moves (13,19) -> (13,15)
+[1]"Tecovald, the Archer" attacks [47]"Skeleton, the undead"
+[47]"Skeleton, the undead" was hited
+[47]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[47]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [47]"Skeleton, the undead"
+[47]"Skeleton, the undead" was hited
+[47]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[47]"Skeleton, the undead"'s HP changed
+[47]"Skeleton, the undead" will die
+[47]"Skeleton, the undead" died.
+[49]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,11) -> (12,8)
+[48]"Skeleton, the undead" moves (13,15) -> (13,11)
+[49]"Skeleton, the undead" moves (19,1) -> (17,3)
+[1]"Tecovald, the Archer" attacks [48]"Skeleton, the undead"
+[48]"Skeleton, the undead" was hited
+[48]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[48]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [48]"Skeleton, the undead"
+[48]"Skeleton, the undead" was hited
+[48]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[48]"Skeleton, the undead"'s HP changed
+[48]"Skeleton, the undead" will die
+[48]"Skeleton, the undead" died.
+[50]"Skeleton, the undead" joined the battle	(for team 0)
+[51]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,8) -> (10,12)
+[49]"Skeleton, the undead" moves (17,3) -> (16,6)
+[50]"Skeleton, the undead" moves (10,19) -> (10,15)
+[51]"Skeleton, the undead" moves (1,13) -> (5,13)
+[1]"Tecovald, the Archer" attacks [49]"Skeleton, the undead"
+[49]"Skeleton, the undead" was hited
+[49]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[49]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [49]"Skeleton, the undead"
+[49]"Skeleton, the undead" was hited
+[49]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[49]"Skeleton, the undead"'s HP changed
+[49]"Skeleton, the undead" will die
+[49]"Skeleton, the undead" died.
+[52]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (10,8)
+[50]"Skeleton, the undead" moves (10,15) -> (10,11)
+[51]"Skeleton, the undead" moves (5,13) -> (7,11)
+[52]"Skeleton, the undead" moves (10,1) -> (10,5)
+[1]"Tecovald, the Archer" attacks [50]"Skeleton, the undead"
+[50]"Skeleton, the undead" was hited
+[50]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[50]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [50]"Skeleton, the undead"
+[50]"Skeleton, the undead" was hited
+[50]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[50]"Skeleton, the undead"'s HP changed
+[50]"Skeleton, the undead" will die
+[50]"Skeleton, the undead" died.
+[53]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,8) -> (12,12)
+[51]"Skeleton, the undead" moves (7,11) -> (11,11)
+[52]"Skeleton, the undead" moves (10,5) -> (10,9)
+[53]"Skeleton, the undead" moves (1,16) -> (5,16)
+[1]"Tecovald, the Archer" attacks [51]"Skeleton, the undead"
+[51]"Skeleton, the undead" was hited
+[51]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[51]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [51]"Skeleton, the undead"
+[51]"Skeleton, the undead" was hited
+[51]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[51]"Skeleton, the undead"'s HP changed
+[51]"Skeleton, the undead" will die
+[51]"Skeleton, the undead" died.
+[54]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,12) -> (12,16)
+[52]"Skeleton, the undead" moves (10,9) -> (10,13)
+[53]"Skeleton, the undead" moves (5,16) -> (9,16)
+[54]"Skeleton, the undead" moves (1,9) -> (5,9)
+[1]"Tecovald, the Archer" attacks [52]"Skeleton, the undead"
+[52]"Skeleton, the undead" was hited
+[52]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[52]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [52]"Skeleton, the undead"
+[52]"Skeleton, the undead" was hited
+[52]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[52]"Skeleton, the undead"'s HP changed
+[52]"Skeleton, the undead" will die
+[52]"Skeleton, the undead" died.
+[55]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,16) -> (12,11)
+[53]"Skeleton, the undead" moves (9,16) -> (10,13)
+[54]"Skeleton, the undead" moves (5,9) -> (9,9)
+[55]"Skeleton, the undead" moves (19,18) -> (17,16)
+[1]"Tecovald, the Archer" attacks [53]"Skeleton, the undead"
+[53]"Skeleton, the undead" was hited
+[53]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[53]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [53]"Skeleton, the undead"
+[53]"Skeleton, the undead" was hited
+[53]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[53]"Skeleton, the undead"'s HP changed
+[53]"Skeleton, the undead" will die
+[53]"Skeleton, the undead" died.
+[56]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,11) -> (14,10)
+[54]"Skeleton, the undead" moves (9,9) -> (13,9)
+[55]"Skeleton, the undead" moves (17,16) -> (16,13)
+[56]"Skeleton, the undead" moves (19,5) -> (17,7)
+[1]"Tecovald, the Archer" attacks [54]"Skeleton, the undead"
+[54]"Skeleton, the undead" was hited
+[54]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[54]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [54]"Skeleton, the undead"
+[54]"Skeleton, the undead" was hited
+[54]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[54]"Skeleton, the undead"'s HP changed
+[54]"Skeleton, the undead" will die
+[54]"Skeleton, the undead" died.
+[57]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,10) -> (10,12)
+[55]"Skeleton, the undead" moves (16,13) -> (12,13)
+[56]"Skeleton, the undead" moves (17,7) -> (14,8)
+[57]"Skeleton, the undead" moves (11,19) -> (11,15)
+[1]"Tecovald, the Archer" attacks [55]"Skeleton, the undead"
+[55]"Skeleton, the undead" was hited
+[55]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[55]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [55]"Skeleton, the undead"
+[55]"Skeleton, the undead" was hited
+[55]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[55]"Skeleton, the undead"'s HP changed
+[55]"Skeleton, the undead" will die
+[55]"Skeleton, the undead" died.
+[58]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (8,8)
+[56]"Skeleton, the undead" moves (14,8) -> (10,8)
+[57]"Skeleton, the undead" moves (11,15) -> (11,11)
+[58]"Skeleton, the undead" moves (12,1) -> (11,4)
+[1]"Tecovald, the Archer" attacks [56]"Skeleton, the undead"
+[56]"Skeleton, the undead" was hited
+[56]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[56]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [56]"Skeleton, the undead"
+[56]"Skeleton, the undead" was hited
+[56]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[56]"Skeleton, the undead"'s HP changed
+[56]"Skeleton, the undead" will die
+[56]"Skeleton, the undead" died.
+[59]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (4,6)
+[57]"Skeleton, the undead" moves (11,11) -> (8,10)
+[58]"Skeleton, the undead" moves (11,4) -> (7,4)
+[59]"Skeleton, the undead" moves (1,13) -> (1,9)
+[1]"Tecovald, the Archer" attacks [57]"Skeleton, the undead"
+[57]"Skeleton, the undead" was hited
+[57]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[57]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [57]"Skeleton, the undead"
+[57]"Skeleton, the undead" was hited
+[57]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[57]"Skeleton, the undead"'s HP changed
+[57]"Skeleton, the undead" will die
+[57]"Skeleton, the undead" died.
+[60]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (4,6) -> (8,8)
+[58]"Skeleton, the undead" moves (7,4) -> (7,7)
+[59]"Skeleton, the undead" moves (1,9) -> (5,9)
+[60]"Skeleton, the undead" moves (1,8) -> (5,8)
+[1]"Tecovald, the Archer" attacks [58]"Skeleton, the undead"
+[58]"Skeleton, the undead" was hited
+[58]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[58]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [58]"Skeleton, the undead"
+[58]"Skeleton, the undead" was hited
+[58]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[58]"Skeleton, the undead"'s HP changed
+[58]"Skeleton, the undead" will die
+[58]"Skeleton, the undead" died.
+[61]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (12,9)
+[59]"Skeleton, the undead" moves (5,9) -> (9,9)
+[60]"Skeleton, the undead" moves (5,8) -> (9,8)
+[61]"Skeleton, the undead" moves (19,10) -> (15,10)
+[1]"Tecovald, the Archer" attacks [59]"Skeleton, the undead"
+[59]"Skeleton, the undead" was hited
+[59]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[59]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [59]"Skeleton, the undead"
+[59]"Skeleton, the undead" was hited
+[59]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[59]"Skeleton, the undead"'s HP changed
+[59]"Skeleton, the undead" will die
+[59]"Skeleton, the undead" died.
+[62]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,9) -> (8,7)
+[60]"Skeleton, the undead" moves (9,8) -> (7,6)
+[61]"Skeleton, the undead" moves (15,10) -> (11,10)
+[62]"Skeleton, the undead" moves (13,1) -> (11,3)
+[1]"Tecovald, the Archer" attacks [60]"Skeleton, the undead"
+[60]"Skeleton, the undead" was hited
+[60]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[60]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [60]"Skeleton, the undead"
+[60]"Skeleton, the undead" was hited
+[60]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[60]"Skeleton, the undead"'s HP changed
+[60]"Skeleton, the undead" will die
+[60]"Skeleton, the undead" died.
+[63]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,7) -> (4,8)
+[61]"Skeleton, the undead" moves (11,10) -> (7,10)
+[62]"Skeleton, the undead" moves (11,3) -> (8,4)
+[63]"Skeleton, the undead" moves (6,1) -> (6,5)
+[1]"Tecovald, the Archer" attacks [61]"Skeleton, the undead"
+[61]"Skeleton, the undead" was hited
+[61]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[61]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [61]"Skeleton, the undead"
+[61]"Skeleton, the undead" was hited
+[61]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[61]"Skeleton, the undead"'s HP changed
+[61]"Skeleton, the undead" will die
+[61]"Skeleton, the undead" died.
+[64]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (4,8) -> (8,10)
+[62]"Skeleton, the undead" moves (8,4) -> (8,8)
+[63]"Skeleton, the undead" moves (6,5) -> (6,8)
+[64]"Skeleton, the undead" moves (1,9) -> (5,9)
+[1]"Tecovald, the Archer" attacks [62]"Skeleton, the undead"
+[62]"Skeleton, the undead" was hited
+[62]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[62]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [62]"Skeleton, the undead"
+[62]"Skeleton, the undead" was hited
+[62]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[62]"Skeleton, the undead"'s HP changed
+[62]"Skeleton, the undead" will die
+[62]"Skeleton, the undead" died.
+[65]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,10) -> (10,14)
+[63]"Skeleton, the undead" moves (6,8) -> (7,11)
+[64]"Skeleton, the undead" moves (5,9) -> (6,10)
+[65]"Skeleton, the undead" moves (15,19) -> (13,17)
+[1]"Tecovald, the Archer" attacks [63]"Skeleton, the undead"
+[63]"Skeleton, the undead" was hited
+[63]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[63]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [63]"Skeleton, the undead"
+[63]"Skeleton, the undead" was hited
+[63]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[63]"Skeleton, the undead"'s HP changed
+[63]"Skeleton, the undead" will die
+[63]"Skeleton, the undead" died.
+[66]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,14) -> (12,10)
+[64]"Skeleton, the undead" moves (6,10) -> (10,10)
+[65]"Skeleton, the undead" moves (13,17) -> (13,13)
+[66]"Skeleton, the undead" moves (19,1) -> (18,4)
+[1]"Tecovald, the Archer" attacks [64]"Skeleton, the undead"
+[64]"Skeleton, the undead" was hited
+[64]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[64]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [64]"Skeleton, the undead"
+[64]"Skeleton, the undead" was hited
+[64]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[64]"Skeleton, the undead"'s HP changed
+[64]"Skeleton, the undead" will die
+[64]"Skeleton, the undead" died.
+[67]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,10) -> (11,6)
+[65]"Skeleton, the undead" moves (13,13) -> (13,9)
+[66]"Skeleton, the undead" moves (18,4) -> (14,4)
+[67]"Skeleton, the undead" moves (19,19) -> (19,15)
+[1]"Tecovald, the Archer" attacks [65]"Skeleton, the undead"
+[65]"Skeleton, the undead" was hited
+[65]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[65]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [65]"Skeleton, the undead"
+[65]"Skeleton, the undead" was hited
+[65]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[65]"Skeleton, the undead"'s HP changed
+[65]"Skeleton, the undead" will die
+[65]"Skeleton, the undead" died.
+[68]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,6) -> (12,11)
+[66]"Skeleton, the undead" moves (14,4) -> (14,8)
+[67]"Skeleton, the undead" moves (19,15) -> (15,15)
+[68]"Skeleton, the undead" moves (1,19) -> (4,18)
+[1]"Tecovald, the Archer" attacks [66]"Skeleton, the undead"
+[66]"Skeleton, the undead" was hited
+[66]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[66]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [66]"Skeleton, the undead"
+[66]"Skeleton, the undead" was hited
+[66]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[66]"Skeleton, the undead"'s HP changed
+[66]"Skeleton, the undead" will die
+[66]"Skeleton, the undead" died.
+[69]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,11) -> (8,11)
+[67]"Skeleton, the undead" moves (15,15) -> (11,15)
+[68]"Skeleton, the undead" moves (4,18) -> (4,14)
+[69]"Skeleton, the undead" moves (19,17) -> (15,17)
+[1]"Tecovald, the Archer" attacks [67]"Skeleton, the undead"
+[67]"Skeleton, the undead" was hited
+[67]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[67]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [67]"Skeleton, the undead"
+[67]"Skeleton, the undead" was hited
+[67]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[67]"Skeleton, the undead"'s HP changed
+[67]"Skeleton, the undead" will die
+[67]"Skeleton, the undead" died.
+[70]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (11,10)
+[68]"Skeleton, the undead" moves (4,14) -> (7,13)
+[69]"Skeleton, the undead" moves (15,17) -> (14,14)
+[70]"Skeleton, the undead" moves (0,1) -> (3,2)
+[1]"Tecovald, the Archer" attacks [68]"Skeleton, the undead"
+[68]"Skeleton, the undead" was hited
+[68]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[68]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [68]"Skeleton, the undead"
+[68]"Skeleton, the undead" was hited
+[68]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[68]"Skeleton, the undead"'s HP changed
+[68]"Skeleton, the undead" will die
+[68]"Skeleton, the undead" died.
+[71]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,10) -> (10,7)
+[69]"Skeleton, the undead" moves (14,14) -> (13,11)
+[70]"Skeleton, the undead" moves (3,2) -> (6,3)
+[71]"Skeleton, the undead" moves (19,16) -> (17,14)
+[1]"Tecovald, the Archer" attacks [69]"Skeleton, the undead"
+[69]"Skeleton, the undead" was hited
+[69]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[69]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [69]"Skeleton, the undead"
+[69]"Skeleton, the undead" was hited
+[69]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[69]"Skeleton, the undead"'s HP changed
+[69]"Skeleton, the undead" will die
+[69]"Skeleton, the undead" died.
+[72]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,7) -> (11,8)
+[70]"Skeleton, the undead" moves (6,3) -> (8,5)
+[71]"Skeleton, the undead" moves (17,14) -> (15,12)
+[72]"Skeleton, the undead" moves (6,1) -> (7,4)
+[1]"Tecovald, the Archer" attacks [70]"Skeleton, the undead"
+[70]"Skeleton, the undead" was hited
+[70]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[70]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [70]"Skeleton, the undead"
+[70]"Skeleton, the undead" was hited
+[70]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[70]"Skeleton, the undead"'s HP changed
+[70]"Skeleton, the undead" will die
+[70]"Skeleton, the undead" died.
+[73]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (8,11)
+[71]"Skeleton, the undead" moves (15,12) -> (11,12)
+[72]"Skeleton, the undead" moves (7,4) -> (7,8)
+[73]"Skeleton, the undead" moves (1,18) -> (3,16)
+[1]"Tecovald, the Archer" attacks [71]"Skeleton, the undead"
+[71]"Skeleton, the undead" was hited
+[71]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[71]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [71]"Skeleton, the undead"
+[71]"Skeleton, the undead" was hited
+[71]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[71]"Skeleton, the undead"'s HP changed
+[71]"Skeleton, the undead" will die
+[71]"Skeleton, the undead" died.
+[74]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (12,13)
+[72]"Skeleton, the undead" moves (7,8) -> (9,10)
+[73]"Skeleton, the undead" moves (3,16) -> (7,16)
+[74]"Skeleton, the undead" moves (19,12) -> (15,12)
+[1]"Tecovald, the Archer" attacks [72]"Skeleton, the undead"
+[72]"Skeleton, the undead" was hited
+[72]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[72]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [72]"Skeleton, the undead"
+[72]"Skeleton, the undead" was hited
+[72]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[72]"Skeleton, the undead"'s HP changed
+[72]"Skeleton, the undead" will die
+[72]"Skeleton, the undead" died.
+[75]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,13) -> (10,9)
+[73]"Skeleton, the undead" moves (7,16) -> (7,12)
+[74]"Skeleton, the undead" moves (15,12) -> (12,11)
+[75]"Skeleton, the undead" moves (4,1) -> (5,4)
+[1]"Tecovald, the Archer" attacks [73]"Skeleton, the undead"
+[73]"Skeleton, the undead" was hited
+[73]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[73]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [73]"Skeleton, the undead"
+[73]"Skeleton, the undead" was hited
+[73]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[73]"Skeleton, the undead"'s HP changed
+[73]"Skeleton, the undead" will die
+[73]"Skeleton, the undead" died.
+[76]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,9) -> (6,11)
+[74]"Skeleton, the undead" moves (12,11) -> (8,11)
+[75]"Skeleton, the undead" moves (5,4) -> (5,8)
+[76]"Skeleton, the undead" moves (19,17) -> (15,17)
+[1]"Tecovald, the Archer" attacks [74]"Skeleton, the undead"
+[74]"Skeleton, the undead" was hited
+[74]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[74]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [74]"Skeleton, the undead"
+[74]"Skeleton, the undead" was hited
+[74]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[74]"Skeleton, the undead"'s HP changed
+[74]"Skeleton, the undead" will die
+[74]"Skeleton, the undead" died.
+[77]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,11) -> (10,13)
+[75]"Skeleton, the undead" moves (5,8) -> (7,10)
+[76]"Skeleton, the undead" moves (15,17) -> (12,16)
+[77]"Skeleton, the undead" moves (4,19) -> (6,17)
+[1]"Tecovald, the Archer" attacks [75]"Skeleton, the undead"
+[75]"Skeleton, the undead" was hited
+[75]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[75]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [75]"Skeleton, the undead"
+[75]"Skeleton, the undead" was hited
+[75]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[75]"Skeleton, the undead"'s HP changed
+[75]"Skeleton, the undead" will die
+[75]"Skeleton, the undead" died.
+[78]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,13) -> (8,10)
+[76]"Skeleton, the undead" moves (12,16) -> (11,13)
+[77]"Skeleton, the undead" moves (6,17) -> (6,13)
+[78]"Skeleton, the undead" moves (1,6) -> (4,6)
+[1]"Tecovald, the Archer" attacks [76]"Skeleton, the undead"
+[76]"Skeleton, the undead" was hited
+[76]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[76]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [76]"Skeleton, the undead"
+[76]"Skeleton, the undead" was hited
+[76]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[76]"Skeleton, the undead"'s HP changed
+[76]"Skeleton, the undead" will die
+[76]"Skeleton, the undead" died.
+[79]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,10) -> (11,12)
+[77]"Skeleton, the undead" moves (6,13) -> (10,13)
+[78]"Skeleton, the undead" moves (4,6) -> (6,7)
+[79]"Skeleton, the undead" moves (15,19) -> (14,16)
+[1]"Tecovald, the Archer" attacks [77]"Skeleton, the undead"
+[77]"Skeleton, the undead" was hited
+[77]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[77]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [77]"Skeleton, the undead"
+[77]"Skeleton, the undead" was hited
+[77]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[77]"Skeleton, the undead"'s HP changed
+[77]"Skeleton, the undead" will die
+[77]"Skeleton, the undead" died.
+[80]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,12) -> (13,9)
+[78]"Skeleton, the undead" moves (6,7) -> (10,7)
+[79]"Skeleton, the undead" moves (14,16) -> (14,12)
+[80]"Skeleton, the undead" moves (19,1) -> (18,4)
+[1]"Tecovald, the Archer" attacks [78]"Skeleton, the undead"
+[78]"Skeleton, the undead" was hited
+[78]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[78]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [78]"Skeleton, the undead"
+[78]"Skeleton, the undead" was hited
+[78]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[78]"Skeleton, the undead"'s HP changed
+[78]"Skeleton, the undead" will die
+[78]"Skeleton, the undead" died.
+[81]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,9) -> (11,5)
+[79]"Skeleton, the undead" moves (14,12) -> (14,8)
+[80]"Skeleton, the undead" moves (18,4) -> (14,4)
+[81]"Skeleton, the undead" moves (19,5) -> (15,5)
+[1]"Tecovald, the Archer" attacks [79]"Skeleton, the undead"
+[79]"Skeleton, the undead" was hited
+[79]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[79]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [79]"Skeleton, the undead"
+[79]"Skeleton, the undead" was hited
+[79]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[79]"Skeleton, the undead"'s HP changed
+[79]"Skeleton, the undead" will die
+[79]"Skeleton, the undead" died.
+[82]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,5) -> (8,8)
+[80]"Skeleton, the undead" moves (14,4) -> (11,5)
+[81]"Skeleton, the undead" moves (15,5) -> (12,4)
+[82]"Skeleton, the undead" moves (1,6) -> (5,6)
+[1]"Tecovald, the Archer" attacks [80]"Skeleton, the undead"
+[80]"Skeleton, the undead" was hited
+[80]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[80]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [80]"Skeleton, the undead"
+[80]"Skeleton, the undead" was hited
+[80]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[80]"Skeleton, the undead"'s HP changed
+[80]"Skeleton, the undead" will die
+[80]"Skeleton, the undead" died.
+[83]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (8,11)
+[81]"Skeleton, the undead" moves (12,4) -> (11,7)
+[82]"Skeleton, the undead" moves (5,6) -> (6,9)
+[83]"Skeleton, the undead" moves (1,9) -> (5,9)
+[1]"Tecovald, the Archer" attacks [81]"Skeleton, the undead"
+[81]"Skeleton, the undead" was hited
+[81]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[81]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [81]"Skeleton, the undead"
+[81]"Skeleton, the undead" was hited
+[81]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[81]"Skeleton, the undead"'s HP changed
+[81]"Skeleton, the undead" will die
+[81]"Skeleton, the undead" died.
+[84]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (12,9)
+[82]"Skeleton, the undead" moves (6,9) -> (10,9)
+[83]"Skeleton, the undead" moves (5,9) -> (9,9)
+[84]"Skeleton, the undead" moves (19,4) -> (16,5)
+[1]"Tecovald, the Archer" attacks [82]"Skeleton, the undead"
+[82]"Skeleton, the undead" was hited
+[82]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[82]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [82]"Skeleton, the undead"
+[82]"Skeleton, the undead" was hited
+[82]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[82]"Skeleton, the undead"'s HP changed
+[82]"Skeleton, the undead" will die
+[82]"Skeleton, the undead" died.
+[85]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,9) -> (9,6)
+[83]"Skeleton, the undead" moves (9,9) -> (8,6)
+[84]"Skeleton, the undead" moves (16,5) -> (12,5)
+[85]"Skeleton, the undead" moves (3,1) -> (5,2)
+[1]"Tecovald, the Archer" attacks [83]"Skeleton, the undead"
+[83]"Skeleton, the undead" was hited
+[83]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[83]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [83]"Skeleton, the undead"
+[83]"Skeleton, the undead" was hited
+[83]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[83]"Skeleton, the undead"'s HP changed
+[83]"Skeleton, the undead" will die
+[83]"Skeleton, the undead" died.
+[86]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,6) -> (9,12)
+[84]"Skeleton, the undead" moves (12,5) -> (12,9)
+[85]"Skeleton, the undead" moves (5,2) -> (5,6)
+[86]"Skeleton, the undead" moves (13,19) -> (12,16)
+[1]"Tecovald, the Archer" attacks [84]"Skeleton, the undead"
+[84]"Skeleton, the undead" was hited
+[84]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[84]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [84]"Skeleton, the undead"
+[84]"Skeleton, the undead" was hited
+[84]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[84]"Skeleton, the undead"'s HP changed
+[84]"Skeleton, the undead" will die
+[84]"Skeleton, the undead" died.
+[87]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,12) -> (12,9)
+[85]"Skeleton, the undead" moves (5,6) -> (9,6)
+[86]"Skeleton, the undead" moves (12,16) -> (12,12)
+[87]"Skeleton, the undead" moves (1,0) -> (4,1)
+[1]"Tecovald, the Archer" attacks [85]"Skeleton, the undead"
+[85]"Skeleton, the undead" was hited
+[85]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[85]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [85]"Skeleton, the undead"
+[85]"Skeleton, the undead" was hited
+[85]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[85]"Skeleton, the undead"'s HP changed
+[85]"Skeleton, the undead" will die
+[85]"Skeleton, the undead" died.
+[88]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,9) -> (11,5)
+[86]"Skeleton, the undead" moves (12,12) -> (12,8)
+[87]"Skeleton, the undead" moves (4,1) -> (7,1)
+[88]"Skeleton, the undead" moves (19,16) -> (18,13)
+[1]"Tecovald, the Archer" attacks [86]"Skeleton, the undead"
+[86]"Skeleton, the undead" was hited
+[86]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[86]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [86]"Skeleton, the undead"
+[86]"Skeleton, the undead" was hited
+[86]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[86]"Skeleton, the undead"'s HP changed
+[86]"Skeleton, the undead" will die
+[86]"Skeleton, the undead" died.
+[89]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,5) -> (11,8)
+[87]"Skeleton, the undead" moves (7,1) -> (7,4)
+[88]"Skeleton, the undead" moves (18,13) -> (15,12)
+[89]"Skeleton, the undead" moves (1,16) -> (4,15)
+[1]"Tecovald, the Archer" attacks [87]"Skeleton, the undead"
+[87]"Skeleton, the undead" was hited
+[87]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[87]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [87]"Skeleton, the undead"
+[87]"Skeleton, the undead" was hited
+[87]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[87]"Skeleton, the undead"'s HP changed
+[87]"Skeleton, the undead" will die
+[87]"Skeleton, the undead" died.
+[90]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,8) -> (8,8)
+[88]"Skeleton, the undead" moves (15,12) -> (11,12)
+[89]"Skeleton, the undead" moves (4,15) -> (4,11)
+[90]"Skeleton, the undead" moves (19,19) -> (17,17)
+[1]"Tecovald, the Archer" attacks [88]"Skeleton, the undead"
+[88]"Skeleton, the undead" was hited
+[88]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[88]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [88]"Skeleton, the undead"
+[88]"Skeleton, the undead" was hited
+[88]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[88]"Skeleton, the undead"'s HP changed
+[88]"Skeleton, the undead" will die
+[88]"Skeleton, the undead" died.
+[91]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (11,10)
+[89]"Skeleton, the undead" moves (4,11) -> (8,11)
+[90]"Skeleton, the undead" moves (17,17) -> (15,15)
+[91]"Skeleton, the undead" moves (1,15) -> (5,15)
+[1]"Tecovald, the Archer" attacks [89]"Skeleton, the undead"
+[89]"Skeleton, the undead" was hited
+[89]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[89]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [89]"Skeleton, the undead"
+[89]"Skeleton, the undead" was hited
+[89]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[89]"Skeleton, the undead"'s HP changed
+[89]"Skeleton, the undead" will die
+[89]"Skeleton, the undead" died.
+[92]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,10) -> (12,10)
+[90]"Skeleton, the undead" moves (15,15) -> (14,12)
+[91]"Skeleton, the undead" moves (5,15) -> (8,14)
+[92]"Skeleton, the undead" moves (19,14) -> (15,14)
+[1]"Tecovald, the Archer" attacks [90]"Skeleton, the undead"
+[90]"Skeleton, the undead" was hited
+[90]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[90]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [90]"Skeleton, the undead"
+[90]"Skeleton, the undead" was hited
+[90]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[90]"Skeleton, the undead"'s HP changed
+[90]"Skeleton, the undead" will die
+[90]"Skeleton, the undead" died.
+[93]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,10) -> (10,7)
+[91]"Skeleton, the undead" moves (8,14) -> (8,10)
+[92]"Skeleton, the undead" moves (15,14) -> (14,11)
+[93]"Skeleton, the undead" moves (5,1) -> (6,3)
+[1]"Tecovald, the Archer" attacks [91]"Skeleton, the undead"
+[91]"Skeleton, the undead" was hited
+[91]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[91]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [91]"Skeleton, the undead"
+[91]"Skeleton, the undead" was hited
+[91]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[91]"Skeleton, the undead"'s HP changed
+[91]"Skeleton, the undead" will die
+[91]"Skeleton, the undead" died.
+[94]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,7) -> (7,10)
+[92]"Skeleton, the undead" moves (14,11) -> (10,11)
+[93]"Skeleton, the undead" moves (6,3) -> (6,7)
+[94]"Skeleton, the undead" moves (18,19) -> (15,18)
+[1]"Tecovald, the Archer" attacks [92]"Skeleton, the undead"
+[92]"Skeleton, the undead" was hited
+[92]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[92]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [92]"Skeleton, the undead"
+[92]"Skeleton, the undead" was hited
+[92]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[92]"Skeleton, the undead"'s HP changed
+[92]"Skeleton, the undead" will die
+[92]"Skeleton, the undead" died.
+[95]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,10) -> (13,10)
+[93]"Skeleton, the undead" moves (6,7) -> (10,7)
+[94]"Skeleton, the undead" moves (15,18) -> (15,14)
+[95]"Skeleton, the undead" moves (17,1) -> (17,5)
+[1]"Tecovald, the Archer" attacks [93]"Skeleton, the undead"
+[93]"Skeleton, the undead" was hited
+[93]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[93]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [93]"Skeleton, the undead"
+[93]"Skeleton, the undead" was hited
+[93]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[93]"Skeleton, the undead"'s HP changed
+[93]"Skeleton, the undead" will die
+[93]"Skeleton, the undead" died.
+[96]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,10) -> (10,9)
+[94]"Skeleton, the undead" moves (15,14) -> (13,12)
+[95]"Skeleton, the undead" moves (17,5) -> (13,5)
+[96]"Skeleton, the undead" moves (8,19) -> (8,15)
+[1]"Tecovald, the Archer" attacks [94]"Skeleton, the undead"
+[94]"Skeleton, the undead" was hited
+[94]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[94]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [94]"Skeleton, the undead"
+[94]"Skeleton, the undead" was hited
+[94]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[94]"Skeleton, the undead"'s HP changed
+[94]"Skeleton, the undead" will die
+[94]"Skeleton, the undead" died.
+[97]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,9) -> (6,8)
+[95]"Skeleton, the undead" moves (13,5) -> (9,5)
+[96]"Skeleton, the undead" moves (8,15) -> (8,11)
+[97]"Skeleton, the undead" moves (1,2) -> (2,4)
+[1]"Tecovald, the Archer" attacks [95]"Skeleton, the undead"
+[95]"Skeleton, the undead" was hited
+[95]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[95]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [95]"Skeleton, the undead"
+[95]"Skeleton, the undead" was hited
+[95]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[95]"Skeleton, the undead"'s HP changed
+[95]"Skeleton, the undead" will die
+[95]"Skeleton, the undead" died.
+[98]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,8) -> (8,4)
+[96]"Skeleton, the undead" moves (8,11) -> (8,7)
+[97]"Skeleton, the undead" moves (2,4) -> (6,4)
+[98]"Skeleton, the undead" moves (1,3) -> (5,3)
+[1]"Tecovald, the Archer" attacks [96]"Skeleton, the undead"
+[96]"Skeleton, the undead" was hited
+[96]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[96]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [96]"Skeleton, the undead"
+[96]"Skeleton, the undead" was hited
+[96]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[96]"Skeleton, the undead"'s HP changed
+[96]"Skeleton, the undead" will die
+[96]"Skeleton, the undead" died.
+[99]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,4) -> (10,8)
+[97]"Skeleton, the undead" moves (6,4) -> (8,6)
+[98]"Skeleton, the undead" moves (5,3) -> (7,5)
+[99]"Skeleton, the undead" moves (11,1) -> (11,5)
+[1]"Tecovald, the Archer" attacks [97]"Skeleton, the undead"
+[97]"Skeleton, the undead" was hited
+[97]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[97]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [97]"Skeleton, the undead"
+[97]"Skeleton, the undead" was hited
+[97]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[97]"Skeleton, the undead"'s HP changed
+[97]"Skeleton, the undead" will die
+[97]"Skeleton, the undead" died.
+[100]"Skeleton, the undead" joined the battle	(for team 0)
+[101]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,8) -> (8,12)
+[98]"Skeleton, the undead" moves (7,5) -> (7,9)
+[99]"Skeleton, the undead" moves (11,5) -> (11,9)
+[100]"Skeleton, the undead" moves (0,19) -> (2,17)
+[101]"Skeleton, the undead" moves (1,1) -> (1,5)
+[1]"Tecovald, the Archer" attacks [98]"Skeleton, the undead"
+[98]"Skeleton, the undead" was hited
+[98]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[98]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [98]"Skeleton, the undead"
+[98]"Skeleton, the undead" was hited
+[98]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[98]"Skeleton, the undead"'s HP changed
+[98]"Skeleton, the undead" will die
+[98]"Skeleton, the undead" died.
+[102]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,12) -> (6,10)
+[99]"Skeleton, the undead" moves (11,9) -> (7,9)
+[100]"Skeleton, the undead" moves (2,17) -> (2,13)
+[101]"Skeleton, the undead" moves (1,5) -> (3,7)
+[102]"Skeleton, the undead" moves (19,8) -> (15,8)
+[1]"Tecovald, the Archer" attacks [99]"Skeleton, the undead"
+[99]"Skeleton, the undead" was hited
+[99]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[99]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [99]"Skeleton, the undead"
+[99]"Skeleton, the undead" was hited
+[99]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[99]"Skeleton, the undead"'s HP changed
+[99]"Skeleton, the undead" will die
+[99]"Skeleton, the undead" died.
+[103]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,10) -> (8,8)
+[100]"Skeleton, the undead" moves (2,13) -> (4,11)
+[101]"Skeleton, the undead" moves (3,7) -> (7,7)
+[102]"Skeleton, the undead" moves (15,8) -> (11,8)
+[103]"Skeleton, the undead" moves (5,1) -> (5,5)
+[1]"Tecovald, the Archer" attacks [100]"Skeleton, the undead"
+[100]"Skeleton, the undead" was hited
+[100]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[100]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [100]"Skeleton, the undead"
+[100]"Skeleton, the undead" was hited
+[100]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[100]"Skeleton, the undead"'s HP changed
+[100]"Skeleton, the undead" will die
+[100]"Skeleton, the undead" died.
+[101]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 50 -> 44/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[104]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (6,12)
+[101]"Skeleton, the undead" moves (7,7) -> (7,11)
+[102]"Skeleton, the undead" moves (11,8) -> (8,9)
+[103]"Skeleton, the undead" moves (5,5) -> (5,9)
+[104]"Skeleton, the undead" moves (1,7) -> (3,9)
+[1]"Tecovald, the Archer" attacks [101]"Skeleton, the undead"
+[101]"Skeleton, the undead" was hited
+[101]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[101]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [101]"Skeleton, the undead"
+[101]"Skeleton, the undead" was hited
+[101]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[101]"Skeleton, the undead"'s HP changed
+[101]"Skeleton, the undead" will die
+[101]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 46/50
+[105]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,12) -> (5,16)
+[102]"Skeleton, the undead" moves (8,9) -> (8,13)
+[103]"Skeleton, the undead" moves (5,9) -> (5,13)
+[104]"Skeleton, the undead" moves (3,9) -> (3,13)
+[105]"Skeleton, the undead" moves (1,9) -> (1,12)
+[1]"Tecovald, the Archer" attacks [102]"Skeleton, the undead"
+[102]"Skeleton, the undead" was hited
+[102]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[102]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [102]"Skeleton, the undead"
+[102]"Skeleton, the undead" was hited
+[102]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[102]"Skeleton, the undead"'s HP changed
+[102]"Skeleton, the undead" will die
+[102]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 47/50
+[106]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (5,16) -> (6,18)
+[103]"Skeleton, the undead" moves (5,13) -> (5,17)
+[104]"Skeleton, the undead" moves (3,13) -> (4,16)
+[105]"Skeleton, the undead" moves (1,12) -> (2,14)
+[106]"Skeleton, the undead" moves (11,19) -> (7,19)
+[1]"Tecovald, the Archer" attacks [103]"Skeleton, the undead"
+[103]"Skeleton, the undead" was hited
+[103]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[103]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [103]"Skeleton, the undead"
+[103]"Skeleton, the undead" was hited
+[103]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[103]"Skeleton, the undead"'s HP changed
+[103]"Skeleton, the undead" will die
+[103]"Skeleton, the undead" died.
+[106]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 47 -> 41/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[107]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,18) -> (6,12)
+[104]"Skeleton, the undead" moves (4,16) -> (5,13)
+[105]"Skeleton, the undead" moves (2,14) -> (4,12)
+[106]"Skeleton, the undead" moves (7,19) -> (7,15)
+[107]"Skeleton, the undead" moves (8,19) -> (8,15)
+[1]"Tecovald, the Archer" attacks [104]"Skeleton, the undead"
+[104]"Skeleton, the undead" was hited
+[104]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[104]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [104]"Skeleton, the undead"
+[104]"Skeleton, the undead" was hited
+[104]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[104]"Skeleton, the undead"'s HP changed
+[104]"Skeleton, the undead" will die
+[104]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[108]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,12) -> (8,8)
+[105]"Skeleton, the undead" moves (4,12) -> (6,10)
+[106]"Skeleton, the undead" moves (7,15) -> (7,11)
+[107]"Skeleton, the undead" moves (8,15) -> (8,11)
+[108]"Skeleton, the undead" moves (1,18) -> (1,14)
+[1]"Tecovald, the Archer" attacks [105]"Skeleton, the undead"
+[105]"Skeleton, the undead" was hited
+[105]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[105]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [105]"Skeleton, the undead"
+[105]"Skeleton, the undead" was hited
+[105]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[105]"Skeleton, the undead"'s HP changed
+[105]"Skeleton, the undead" will die
+[105]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[109]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (9,4)
+[106]"Skeleton, the undead" moves (7,11) -> (7,7)
+[107]"Skeleton, the undead" moves (8,11) -> (8,7)
+[108]"Skeleton, the undead" moves (1,14) -> (2,11)
+[109]"Skeleton, the undead" moves (2,1) -> (6,1)
+[1]"Tecovald, the Archer" attacks [106]"Skeleton, the undead"
+[106]"Skeleton, the undead" was hited
+[106]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[106]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [106]"Skeleton, the undead"
+[106]"Skeleton, the undead" was hited
+[106]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[106]"Skeleton, the undead"'s HP changed
+[106]"Skeleton, the undead" will die
+[106]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[110]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,4) -> (13,2)
+[107]"Skeleton, the undead" moves (8,7) -> (10,5)
+[108]"Skeleton, the undead" moves (2,11) -> (5,10)
+[109]"Skeleton, the undead" moves (6,1) -> (10,1)
+[110]"Skeleton, the undead" moves (19,7) -> (16,6)
+[1]"Tecovald, the Archer" attacks [107]"Skeleton, the undead"
+[107]"Skeleton, the undead" was hited
+[107]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[107]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [107]"Skeleton, the undead"
+[107]"Skeleton, the undead" was hited
+[107]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[107]"Skeleton, the undead"'s HP changed
+[107]"Skeleton, the undead" will die
+[107]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 46/50
+[111]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,2) -> (12,7)
+[108]"Skeleton, the undead" moves (5,10) -> (9,10)
+[109]"Skeleton, the undead" moves (10,1) -> (10,5)
+[110]"Skeleton, the undead" moves (16,6) -> (12,6)
+[111]"Skeleton, the undead" moves (19,5) -> (15,5)
+[1]"Tecovald, the Archer" attacks [108]"Skeleton, the undead"
+[108]"Skeleton, the undead" was hited
+[108]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[108]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [108]"Skeleton, the undead"
+[108]"Skeleton, the undead" was hited
+[108]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[108]"Skeleton, the undead"'s HP changed
+[108]"Skeleton, the undead" will die
+[108]"Skeleton, the undead" died.
+[110]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 46 -> 40/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[112]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,7) -> (12,12)
+[109]"Skeleton, the undead" moves (10,5) -> (10,9)
+[110]"Skeleton, the undead" moves (12,6) -> (12,10)
+[111]"Skeleton, the undead" moves (15,5) -> (15,9)
+[112]"Skeleton, the undead" moves (11,19) -> (11,15)
+[1]"Tecovald, the Archer" attacks [109]"Skeleton, the undead"
+[109]"Skeleton, the undead" was hited
+[109]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[109]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [109]"Skeleton, the undead"
+[109]"Skeleton, the undead" was hited
+[109]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[109]"Skeleton, the undead"'s HP changed
+[109]"Skeleton, the undead" will die
+[109]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[113]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,12) -> (6,12)
+[110]"Skeleton, the undead" moves (12,10) -> (8,10)
+[111]"Skeleton, the undead" moves (15,9) -> (11,9)
+[112]"Skeleton, the undead" moves (11,15) -> (8,14)
+[113]"Skeleton, the undead" moves (10,19) -> (9,16)
+[1]"Tecovald, the Archer" attacks [110]"Skeleton, the undead"
+[110]"Skeleton, the undead" was hited
+[110]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[110]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [110]"Skeleton, the undead"
+[110]"Skeleton, the undead" was hited
+[110]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[110]"Skeleton, the undead"'s HP changed
+[110]"Skeleton, the undead" will die
+[110]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[114]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,12) -> (4,9)
+[111]"Skeleton, the undead" moves (11,9) -> (7,9)
+[112]"Skeleton, the undead" moves (8,14) -> (6,12)
+[113]"Skeleton, the undead" moves (9,16) -> (8,13)
+[114]"Skeleton, the undead" moves (19,3) -> (15,3)
+[1]"Tecovald, the Archer" attacks [111]"Skeleton, the undead"
+[111]"Skeleton, the undead" was hited
+[111]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[111]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [111]"Skeleton, the undead"
+[111]"Skeleton, the undead" was hited
+[111]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[111]"Skeleton, the undead"'s HP changed
+[111]"Skeleton, the undead" will die
+[111]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[115]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (4,9) -> (8,7)
+[112]"Skeleton, the undead" moves (6,12) -> (6,8)
+[113]"Skeleton, the undead" moves (8,13) -> (8,9)
+[114]"Skeleton, the undead" moves (15,3) -> (11,3)
+[115]"Skeleton, the undead" moves (1,19) -> (1,15)
+[1]"Tecovald, the Archer" attacks [112]"Skeleton, the undead"
+[112]"Skeleton, the undead" was hited
+[112]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[112]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [112]"Skeleton, the undead"
+[112]"Skeleton, the undead" was hited
+[112]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[112]"Skeleton, the undead"'s HP changed
+[112]"Skeleton, the undead" will die
+[112]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[116]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,7) -> (13,8)
+[113]"Skeleton, the undead" moves (8,9) -> (12,9)
+[114]"Skeleton, the undead" moves (11,3) -> (11,6)
+[115]"Skeleton, the undead" moves (1,15) -> (5,15)
+[116]"Skeleton, the undead" moves (19,10) -> (15,10)
+[1]"Tecovald, the Archer" attacks [113]"Skeleton, the undead"
+[113]"Skeleton, the undead" was hited
+[113]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[113]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [113]"Skeleton, the undead"
+[113]"Skeleton, the undead" was hited
+[113]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[113]"Skeleton, the undead"'s HP changed
+[113]"Skeleton, the undead" will die
+[113]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 46/50
+[117]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,8) -> (12,13)
+[114]"Skeleton, the undead" moves (11,6) -> (11,10)
+[115]"Skeleton, the undead" moves (5,15) -> (9,15)
+[116]"Skeleton, the undead" moves (15,10) -> (13,12)
+[117]"Skeleton, the undead" moves (19,19) -> (16,18)
+[1]"Tecovald, the Archer" attacks [114]"Skeleton, the undead"
+[114]"Skeleton, the undead" was hited
+[114]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[114]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [114]"Skeleton, the undead"
+[114]"Skeleton, the undead" was hited
+[114]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[114]"Skeleton, the undead"'s HP changed
+[114]"Skeleton, the undead" will die
+[114]"Skeleton, the undead" died.
+[116]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 46 -> 40/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[118]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,13) -> (6,13)
+[115]"Skeleton, the undead" moves (9,15) -> (6,14)
+[116]"Skeleton, the undead" moves (13,12) -> (9,12)
+[117]"Skeleton, the undead" moves (16,18) -> (12,18)
+[118]"Skeleton, the undead" moves (1,19) -> (2,16)
+[1]"Tecovald, the Archer" attacks [115]"Skeleton, the undead"
+[115]"Skeleton, the undead" was hited
+[115]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[115]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [115]"Skeleton, the undead"
+[115]"Skeleton, the undead" was hited
+[115]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[115]"Skeleton, the undead"'s HP changed
+[115]"Skeleton, the undead" will die
+[115]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[119]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,13) -> (7,12)
+[116]"Skeleton, the undead" moves (9,12) -> (6,11)
+[117]"Skeleton, the undead" moves (12,18) -> (10,16)
+[118]"Skeleton, the undead" moves (2,16) -> (4,14)
+[119]"Skeleton, the undead" moves (11,19) -> (11,15)
+[1]"Tecovald, the Archer" attacks [116]"Skeleton, the undead"
+[116]"Skeleton, the undead" was hited
+[116]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[116]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [116]"Skeleton, the undead"
+[116]"Skeleton, the undead" was hited
+[116]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[116]"Skeleton, the undead"'s HP changed
+[116]"Skeleton, the undead" will die
+[116]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[120]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,12) -> (9,9)
+[117]"Skeleton, the undead" moves (10,16) -> (10,12)
+[118]"Skeleton, the undead" moves (4,14) -> (6,12)
+[119]"Skeleton, the undead" moves (11,15) -> (11,11)
+[120]"Skeleton, the undead" moves (8,19) -> (8,15)
+[1]"Tecovald, the Archer" attacks [117]"Skeleton, the undead"
+[117]"Skeleton, the undead" was hited
+[117]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[117]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [117]"Skeleton, the undead"
+[117]"Skeleton, the undead" was hited
+[117]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[117]"Skeleton, the undead"'s HP changed
+[117]"Skeleton, the undead" will die
+[117]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[121]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,9) -> (10,5)
+[118]"Skeleton, the undead" moves (6,12) -> (6,8)
+[119]"Skeleton, the undead" moves (11,11) -> (11,7)
+[120]"Skeleton, the undead" moves (8,15) -> (8,11)
+[121]"Skeleton, the undead" moves (17,1) -> (13,1)
+[1]"Tecovald, the Archer" attacks [118]"Skeleton, the undead"
+[118]"Skeleton, the undead" was hited
+[118]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[118]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [118]"Skeleton, the undead"
+[118]"Skeleton, the undead" was hited
+[118]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[118]"Skeleton, the undead"'s HP changed
+[118]"Skeleton, the undead" will die
+[118]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[122]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,5) -> (6,4)
+[119]"Skeleton, the undead" moves (11,7) -> (8,6)
+[120]"Skeleton, the undead" moves (8,11) -> (8,7)
+[121]"Skeleton, the undead" moves (13,1) -> (9,1)
+[122]"Skeleton, the undead" moves (1,3) -> (5,3)
+[1]"Tecovald, the Archer" attacks [119]"Skeleton, the undead"
+[119]"Skeleton, the undead" was hited
+[119]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[119]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [119]"Skeleton, the undead"
+[119]"Skeleton, the undead" was hited
+[119]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[119]"Skeleton, the undead"'s HP changed
+[119]"Skeleton, the undead" will die
+[119]"Skeleton, the undead" died.
+[122]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 45 -> 39/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 40/50
+[123]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,4) -> (6,10)
+[120]"Skeleton, the undead" moves (8,7) -> (6,9)
+[121]"Skeleton, the undead" moves (9,1) -> (9,5)
+[122]"Skeleton, the undead" moves (5,3) -> (5,7)
+[123]"Skeleton, the undead" moves (6,19) -> (6,15)
+[1]"Tecovald, the Archer" attacks [120]"Skeleton, the undead"
+[120]"Skeleton, the undead" was hited
+[120]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[120]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [120]"Skeleton, the undead"
+[120]"Skeleton, the undead" was hited
+[120]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[120]"Skeleton, the undead"'s HP changed
+[120]"Skeleton, the undead" will die
+[120]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[124]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,10) -> (12,10)
+[121]"Skeleton, the undead" moves (9,5) -> (10,8)
+[122]"Skeleton, the undead" moves (5,7) -> (9,7)
+[123]"Skeleton, the undead" moves (6,15) -> (8,13)
+[124]"Skeleton, the undead" moves (1,1) -> (4,2)
+[1]"Tecovald, the Archer" attacks [121]"Skeleton, the undead"
+[121]"Skeleton, the undead" was hited
+[121]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[121]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [121]"Skeleton, the undead"
+[121]"Skeleton, the undead" was hited
+[121]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[121]"Skeleton, the undead"'s HP changed
+[121]"Skeleton, the undead" will die
+[121]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[125]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,10) -> (8,8)
+[122]"Skeleton, the undead" moves (9,7) -> (7,7)
+[123]"Skeleton, the undead" moves (8,13) -> (8,9)
+[124]"Skeleton, the undead" moves (4,2) -> (5,5)
+[125]"Skeleton, the undead" moves (1,10) -> (5,10)
+[1]"Tecovald, the Archer" attacks [122]"Skeleton, the undead"
+[122]"Skeleton, the undead" was hited
+[122]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[122]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [122]"Skeleton, the undead"
+[122]"Skeleton, the undead" was hited
+[122]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[122]"Skeleton, the undead"'s HP changed
+[122]"Skeleton, the undead" will die
+[122]"Skeleton, the undead" died.
+[123]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 42 -> 36/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 37/50
+[126]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (10,4)
+[123]"Skeleton, the undead" moves (8,9) -> (8,5)
+[124]"Skeleton, the undead" moves (5,5) -> (9,5)
+[125]"Skeleton, the undead" moves (5,10) -> (6,7)
+[126]"Skeleton, the undead" moves (1,1) -> (5,1)
+[1]"Tecovald, the Archer" attacks [123]"Skeleton, the undead"
+[123]"Skeleton, the undead" was hited
+[123]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[123]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [123]"Skeleton, the undead"
+[123]"Skeleton, the undead" was hited
+[123]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[123]"Skeleton, the undead"'s HP changed
+[123]"Skeleton, the undead" will die
+[123]"Skeleton, the undead" died.
+[124]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 37 -> 31/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 32/50
+[127]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,4) -> (12,6)
+[124]"Skeleton, the undead" moves (9,5) -> (11,5)
+[125]"Skeleton, the undead" moves (6,7) -> (10,7)
+[126]"Skeleton, the undead" moves (5,1) -> (8,2)
+[127]"Skeleton, the undead" moves (19,4) -> (15,4)
+[1]"Tecovald, the Archer" attacks [124]"Skeleton, the undead"
+[124]"Skeleton, the undead" was hited
+[124]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[124]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [124]"Skeleton, the undead"
+[124]"Skeleton, the undead" was hited
+[124]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[124]"Skeleton, the undead"'s HP changed
+[124]"Skeleton, the undead" will die
+[124]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 33/50
+[128]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,6) -> (12,9)
+[125]"Skeleton, the undead" moves (10,7) -> (11,8)
+[126]"Skeleton, the undead" moves (8,2) -> (8,5)
+[127]"Skeleton, the undead" moves (15,4) -> (14,7)
+[128]"Skeleton, the undead" moves (19,5) -> (15,5)
+[1]"Tecovald, the Archer" attacks [125]"Skeleton, the undead"
+[125]"Skeleton, the undead" was hited
+[125]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[125]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [125]"Skeleton, the undead"
+[125]"Skeleton, the undead" was hited
+[125]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[125]"Skeleton, the undead"'s HP changed
+[125]"Skeleton, the undead" will die
+[125]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 34/50
+[129]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,9) -> (9,12)
+[126]"Skeleton, the undead" moves (8,5) -> (8,9)
+[127]"Skeleton, the undead" moves (14,7) -> (12,9)
+[128]"Skeleton, the undead" moves (15,5) -> (13,7)
+[129]"Skeleton, the undead" moves (5,19) -> (5,15)
+[1]"Tecovald, the Archer" attacks [126]"Skeleton, the undead"
+[126]"Skeleton, the undead" was hited
+[126]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[126]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [126]"Skeleton, the undead"
+[126]"Skeleton, the undead" was hited
+[126]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[126]"Skeleton, the undead"'s HP changed
+[126]"Skeleton, the undead" will die
+[126]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 35/50
+[130]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,12) -> (12,14)
+[127]"Skeleton, the undead" moves (12,9) -> (12,13)
+[128]"Skeleton, the undead" moves (13,7) -> (13,11)
+[129]"Skeleton, the undead" moves (5,15) -> (9,15)
+[130]"Skeleton, the undead" moves (1,19) -> (5,19)
+[1]"Tecovald, the Archer" attacks [127]"Skeleton, the undead"
+[127]"Skeleton, the undead" was hited
+[127]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[127]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [127]"Skeleton, the undead"
+[127]"Skeleton, the undead" was hited
+[127]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[127]"Skeleton, the undead"'s HP changed
+[127]"Skeleton, the undead" will die
+[127]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 36/50
+[131]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,14) -> (12,8)
+[128]"Skeleton, the undead" moves (13,11) -> (11,9)
+[129]"Skeleton, the undead" moves (9,15) -> (9,11)
+[130]"Skeleton, the undead" moves (5,19) -> (5,15)
+[131]"Skeleton, the undead" moves (6,1) -> (7,3)
+[1]"Tecovald, the Archer" attacks [128]"Skeleton, the undead"
+[128]"Skeleton, the undead" was hited
+[128]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[128]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [128]"Skeleton, the undead"
+[128]"Skeleton, the undead" was hited
+[128]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[128]"Skeleton, the undead"'s HP changed
+[128]"Skeleton, the undead" will die
+[128]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 37/50
+[132]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,8) -> (14,6)
+[129]"Skeleton, the undead" moves (9,11) -> (11,9)
+[130]"Skeleton, the undead" moves (5,15) -> (7,13)
+[131]"Skeleton, the undead" moves (7,3) -> (11,3)
+[132]"Skeleton, the undead" moves (18,1) -> (16,3)
+[1]"Tecovald, the Archer" attacks [129]"Skeleton, the undead"
+[129]"Skeleton, the undead" was hited
+[129]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[129]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [129]"Skeleton, the undead"
+[129]"Skeleton, the undead" was hited
+[129]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[129]"Skeleton, the undead"'s HP changed
+[129]"Skeleton, the undead" will die
+[129]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 38/50
+[133]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,6) -> (12,10)
+[130]"Skeleton, the undead" moves (7,13) -> (10,12)
+[131]"Skeleton, the undead" moves (11,3) -> (11,7)
+[132]"Skeleton, the undead" moves (16,3) -> (15,6)
+[133]"Skeleton, the undead" moves (19,7) -> (15,7)
+[1]"Tecovald, the Archer" attacks [130]"Skeleton, the undead"
+[130]"Skeleton, the undead" was hited
+[130]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[130]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [130]"Skeleton, the undead"
+[130]"Skeleton, the undead" was hited
+[130]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[130]"Skeleton, the undead"'s HP changed
+[130]"Skeleton, the undead" will die
+[130]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 39/50
+[134]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,10) -> (12,14)
+[131]"Skeleton, the undead" moves (11,7) -> (11,11)
+[132]"Skeleton, the undead" moves (15,6) -> (15,10)
+[133]"Skeleton, the undead" moves (15,7) -> (15,11)
+[134]"Skeleton, the undead" moves (19,11) -> (16,10)
+[1]"Tecovald, the Archer" attacks [131]"Skeleton, the undead"
+[131]"Skeleton, the undead" was hited
+[131]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[131]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [131]"Skeleton, the undead"
+[131]"Skeleton, the undead" was hited
+[131]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[131]"Skeleton, the undead"'s HP changed
+[131]"Skeleton, the undead" will die
+[131]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 40/50
+[135]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,14) -> (14,17)
+[132]"Skeleton, the undead" moves (15,10) -> (15,14)
+[133]"Skeleton, the undead" moves (15,11) -> (15,15)
+[134]"Skeleton, the undead" moves (16,10) -> (16,14)
+[135]"Skeleton, the undead" moves (19,10) -> (18,13)
+[1]"Tecovald, the Archer" attacks [132]"Skeleton, the undead"
+[132]"Skeleton, the undead" was hited
+[132]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[132]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [132]"Skeleton, the undead"
+[132]"Skeleton, the undead" was hited
+[132]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[132]"Skeleton, the undead"'s HP changed
+[132]"Skeleton, the undead" will die
+[132]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[136]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,17) -> (8,17)
+[133]"Skeleton, the undead" moves (15,15) -> (11,15)
+[134]"Skeleton, the undead" moves (16,14) -> (12,14)
+[135]"Skeleton, the undead" moves (18,13) -> (14,13)
+[136]"Skeleton, the undead" moves (1,12) -> (4,13)
+[1]"Tecovald, the Archer" attacks [133]"Skeleton, the undead"
+[133]"Skeleton, the undead" was hited
+[133]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[133]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [133]"Skeleton, the undead"
+[133]"Skeleton, the undead" was hited
+[133]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[133]"Skeleton, the undead"'s HP changed
+[133]"Skeleton, the undead" will die
+[133]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[137]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,17) -> (7,12)
+[134]"Skeleton, the undead" moves (12,14) -> (8,14)
+[135]"Skeleton, the undead" moves (14,13) -> (10,13)
+[136]"Skeleton, the undead" moves (4,13) -> (6,11)
+[137]"Skeleton, the undead" moves (9,1) -> (9,5)
+[1]"Tecovald, the Archer" attacks [134]"Skeleton, the undead"
+[134]"Skeleton, the undead" was hited
+[134]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[134]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [134]"Skeleton, the undead"
+[134]"Skeleton, the undead" was hited
+[134]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[134]"Skeleton, the undead"'s HP changed
+[134]"Skeleton, the undead" will die
+[134]"Skeleton, the undead" died.
+[136]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 42 -> 36/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 37/50
+[138]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,12) -> (7,18)
+[135]"Skeleton, the undead" moves (10,13) -> (9,16)
+[136]"Skeleton, the undead" moves (6,11) -> (6,15)
+[137]"Skeleton, the undead" moves (9,5) -> (9,9)
+[138]"Skeleton, the undead" moves (1,14) -> (4,15)
+[1]"Tecovald, the Archer" attacks [135]"Skeleton, the undead"
+[135]"Skeleton, the undead" was hited
+[135]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[135]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [135]"Skeleton, the undead"
+[135]"Skeleton, the undead" was hited
+[135]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[135]"Skeleton, the undead"'s HP changed
+[135]"Skeleton, the undead" will die
+[135]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 38/50
+[139]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,18) -> (11,16)
+[136]"Skeleton, the undead" moves (6,15) -> (10,15)
+[137]"Skeleton, the undead" moves (9,9) -> (9,13)
+[138]"Skeleton, the undead" moves (4,15) -> (8,15)
+[139]"Skeleton, the undead" moves (1,18) -> (5,18)
+[1]"Tecovald, the Archer" attacks [136]"Skeleton, the undead"
+[136]"Skeleton, the undead" was hited
+[136]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[136]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [136]"Skeleton, the undead"
+[136]"Skeleton, the undead" was hited
+[136]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[136]"Skeleton, the undead"'s HP changed
+[136]"Skeleton, the undead" will die
+[136]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 39/50
+[140]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (11,16) -> (15,15)
+[137]"Skeleton, the undead" moves (9,13) -> (13,13)
+[138]"Skeleton, the undead" moves (8,15) -> (12,15)
+[139]"Skeleton, the undead" moves (5,18) -> (9,18)
+[140]"Skeleton, the undead" moves (8,19) -> (11,18)
+[1]"Tecovald, the Archer" attacks [137]"Skeleton, the undead"
+[137]"Skeleton, the undead" was hited
+[137]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[137]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [137]"Skeleton, the undead"
+[137]"Skeleton, the undead" was hited
+[137]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[137]"Skeleton, the undead"'s HP changed
+[137]"Skeleton, the undead" will die
+[137]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 40/50
+[141]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (15,15) -> (13,11)
+[138]"Skeleton, the undead" moves (12,15) -> (12,11)
+[139]"Skeleton, the undead" moves (9,18) -> (9,14)
+[140]"Skeleton, the undead" moves (11,18) -> (11,14)
+[141]"Skeleton, the undead" moves (8,1) -> (8,5)
+[1]"Tecovald, the Archer" attacks [138]"Skeleton, the undead"
+[138]"Skeleton, the undead" was hited
+[138]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[138]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [138]"Skeleton, the undead"
+[138]"Skeleton, the undead" was hited
+[138]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[138]"Skeleton, the undead"'s HP changed
+[138]"Skeleton, the undead" will die
+[138]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[142]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,11) -> (14,9)
+[139]"Skeleton, the undead" moves (9,14) -> (11,12)
+[140]"Skeleton, the undead" moves (11,14) -> (12,11)
+[141]"Skeleton, the undead" moves (8,5) -> (11,6)
+[142]"Skeleton, the undead" moves (19,14) -> (17,12)
+[1]"Tecovald, the Archer" attacks [139]"Skeleton, the undead"
+[139]"Skeleton, the undead" was hited
+[139]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[139]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [139]"Skeleton, the undead"
+[139]"Skeleton, the undead" was hited
+[139]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[139]"Skeleton, the undead"'s HP changed
+[139]"Skeleton, the undead" will die
+[139]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[143]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,9) -> (16,5)
+[140]"Skeleton, the undead" moves (12,11) -> (13,8)
+[141]"Skeleton, the undead" moves (11,6) -> (15,6)
+[142]"Skeleton, the undead" moves (17,12) -> (17,8)
+[143]"Skeleton, the undead" moves (13,19) -> (13,15)
+[1]"Tecovald, the Archer" attacks [140]"Skeleton, the undead"
+[140]"Skeleton, the undead" was hited
+[140]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[140]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [140]"Skeleton, the undead"
+[140]"Skeleton, the undead" was hited
+[140]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[140]"Skeleton, the undead"'s HP changed
+[140]"Skeleton, the undead" will die
+[140]"Skeleton, the undead" died.
+[141]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 42 -> 36/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 37/50
+[144]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (16,5) -> (10,5)
+[141]"Skeleton, the undead" moves (15,6) -> (11,6)
+[142]"Skeleton, the undead" moves (17,8) -> (13,8)
+[143]"Skeleton, the undead" moves (13,15) -> (13,11)
+[144]"Skeleton, the undead" moves (18,1) -> (14,1)
+[1]"Tecovald, the Archer" attacks [141]"Skeleton, the undead"
+[141]"Skeleton, the undead" was hited
+[141]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[141]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [141]"Skeleton, the undead"
+[141]"Skeleton, the undead" was hited
+[141]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[141]"Skeleton, the undead"'s HP changed
+[141]"Skeleton, the undead" will die
+[141]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 38/50
+[145]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,5) -> (8,6)
+[142]"Skeleton, the undead" moves (13,8) -> (9,8)
+[143]"Skeleton, the undead" moves (13,11) -> (11,9)
+[144]"Skeleton, the undead" moves (14,1) -> (11,2)
+[145]"Skeleton, the undead" moves (1,1) -> (4,2)
+[1]"Tecovald, the Archer" attacks [142]"Skeleton, the undead"
+[142]"Skeleton, the undead" was hited
+[142]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[142]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [142]"Skeleton, the undead"
+[142]"Skeleton, the undead" was hited
+[142]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[142]"Skeleton, the undead"'s HP changed
+[142]"Skeleton, the undead" will die
+[142]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 39/50
+[146]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,6) -> (6,7)
+[143]"Skeleton, the undead" moves (11,9) -> (7,9)
+[144]"Skeleton, the undead" moves (11,2) -> (9,4)
+[145]"Skeleton, the undead" moves (4,2) -> (4,5)
+[146]"Skeleton, the undead" moves (1,0) -> (2,3)
+[1]"Tecovald, the Archer" attacks [143]"Skeleton, the undead"
+[143]"Skeleton, the undead" was hited
+[143]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[143]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [143]"Skeleton, the undead"
+[143]"Skeleton, the undead" was hited
+[143]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[143]"Skeleton, the undead"'s HP changed
+[143]"Skeleton, the undead" will die
+[143]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 40/50
+[147]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,7) -> (9,10)
+[144]"Skeleton, the undead" moves (9,4) -> (9,8)
+[145]"Skeleton, the undead" moves (4,5) -> (6,7)
+[146]"Skeleton, the undead" moves (2,3) -> (4,5)
+[147]"Skeleton, the undead" moves (19,17) -> (15,17)
+[1]"Tecovald, the Archer" attacks [144]"Skeleton, the undead"
+[144]"Skeleton, the undead" was hited
+[144]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[144]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [144]"Skeleton, the undead"
+[144]"Skeleton, the undead" was hited
+[144]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[144]"Skeleton, the undead"'s HP changed
+[144]"Skeleton, the undead" will die
+[144]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[148]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,10) -> (10,12)
+[145]"Skeleton, the undead" moves (6,7) -> (7,9)
+[146]"Skeleton, the undead" moves (4,5) -> (5,7)
+[147]"Skeleton, the undead" moves (15,17) -> (13,15)
+[148]"Skeleton, the undead" moves (11,19) -> (11,15)
+[1]"Tecovald, the Archer" attacks [145]"Skeleton, the undead"
+[145]"Skeleton, the undead" was hited
+[145]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[145]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [145]"Skeleton, the undead"
+[145]"Skeleton, the undead" was hited
+[145]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[145]"Skeleton, the undead"'s HP changed
+[145]"Skeleton, the undead" will die
+[145]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[149]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (12,8)
+[146]"Skeleton, the undead" moves (5,7) -> (9,7)
+[147]"Skeleton, the undead" moves (13,15) -> (13,11)
+[148]"Skeleton, the undead" moves (11,15) -> (11,11)
+[149]"Skeleton, the undead" moves (1,2) -> (5,2)
+[1]"Tecovald, the Archer" attacks [146]"Skeleton, the undead"
+[146]"Skeleton, the undead" was hited
+[146]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[146]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [146]"Skeleton, the undead"
+[146]"Skeleton, the undead" was hited
+[146]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[146]"Skeleton, the undead"'s HP changed
+[146]"Skeleton, the undead" will die
+[146]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[150]"Skeleton, the undead" joined the battle	(for team 0)
+[151]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,8) -> (6,8)
+[147]"Skeleton, the undead" moves (13,11) -> (9,11)
+[148]"Skeleton, the undead" moves (11,11) -> (8,10)
+[149]"Skeleton, the undead" moves (5,2) -> (5,6)
+[150]"Skeleton, the undead" moves (12,19) -> (12,15)
+[151]"Skeleton, the undead" moves (9,1) -> (9,5)
+[1]"Tecovald, the Archer" attacks [147]"Skeleton, the undead"
+[147]"Skeleton, the undead" was hited
+[147]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[147]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [147]"Skeleton, the undead"
+[147]"Skeleton, the undead" was hited
+[147]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[147]"Skeleton, the undead"'s HP changed
+[147]"Skeleton, the undead" will die
+[147]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[152]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,8) -> (5,12)
+[148]"Skeleton, the undead" moves (8,10) -> (5,11)
+[149]"Skeleton, the undead" moves (5,6) -> (5,10)
+[150]"Skeleton, the undead" moves (12,15) -> (8,15)
+[151]"Skeleton, the undead" moves (9,5) -> (8,8)
+[152]"Skeleton, the undead" moves (1,3) -> (1,7)
+[1]"Tecovald, the Archer" attacks [148]"Skeleton, the undead"
+[148]"Skeleton, the undead" was hited
+[148]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[148]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [148]"Skeleton, the undead"
+[148]"Skeleton, the undead" was hited
+[148]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[148]"Skeleton, the undead"'s HP changed
+[148]"Skeleton, the undead" will die
+[148]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[153]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (5,12) -> (3,14)
+[149]"Skeleton, the undead" moves (5,10) -> (4,13)
+[150]"Skeleton, the undead" moves (8,15) -> (4,15)
+[151]"Skeleton, the undead" moves (8,8) -> (6,10)
+[152]"Skeleton, the undead" moves (1,7) -> (1,11)
+[153]"Skeleton, the undead" moves (19,3) -> (15,3)
+[1]"Tecovald, the Archer" attacks [149]"Skeleton, the undead"
+[149]"Skeleton, the undead" was hited
+[149]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[149]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [149]"Skeleton, the undead"
+[149]"Skeleton, the undead" was hited
+[149]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[149]"Skeleton, the undead"'s HP changed
+[149]"Skeleton, the undead" will die
+[149]"Skeleton, the undead" died.
+[150]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 45 -> 39/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 40/50
+[154]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (3,14) -> (8,15)
+[150]"Skeleton, the undead" moves (4,15) -> (7,14)
+[151]"Skeleton, the undead" moves (6,10) -> (6,13)
+[152]"Skeleton, the undead" moves (1,11) -> (4,11)
+[153]"Skeleton, the undead" moves (15,3) -> (15,7)
+[154]"Skeleton, the undead" moves (19,15) -> (15,15)
+[1]"Tecovald, the Archer" attacks [150]"Skeleton, the undead"
+[150]"Skeleton, the undead" was hited
+[150]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[150]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [150]"Skeleton, the undead"
+[150]"Skeleton, the undead" was hited
+[150]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[150]"Skeleton, the undead"'s HP changed
+[150]"Skeleton, the undead" will die
+[150]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[155]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,15) -> (10,12)
+[151]"Skeleton, the undead" moves (6,13) -> (9,12)
+[152]"Skeleton, the undead" moves (4,11) -> (8,11)
+[153]"Skeleton, the undead" moves (15,7) -> (13,9)
+[154]"Skeleton, the undead" moves (15,15) -> (12,14)
+[155]"Skeleton, the undead" moves (13,19) -> (13,15)
+[1]"Tecovald, the Archer" attacks [151]"Skeleton, the undead"
+[151]"Skeleton, the undead" was hited
+[151]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[151]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [151]"Skeleton, the undead"
+[151]"Skeleton, the undead" was hited
+[151]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[151]"Skeleton, the undead"'s HP changed
+[151]"Skeleton, the undead" will die
+[151]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[156]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (6,10)
+[152]"Skeleton, the undead" moves (8,11) -> (5,10)
+[153]"Skeleton, the undead" moves (13,9) -> (9,9)
+[154]"Skeleton, the undead" moves (12,14) -> (9,13)
+[155]"Skeleton, the undead" moves (13,15) -> (10,14)
+[156]"Skeleton, the undead" moves (19,1) -> (15,1)
+[1]"Tecovald, the Archer" attacks [152]"Skeleton, the undead"
+[152]"Skeleton, the undead" was hited
+[152]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[152]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [152]"Skeleton, the undead"
+[152]"Skeleton, the undead" was hited
+[152]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[152]"Skeleton, the undead"'s HP changed
+[152]"Skeleton, the undead" will die
+[152]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[157]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,10) -> (4,8)
+[153]"Skeleton, the undead" moves (9,9) -> (5,9)
+[154]"Skeleton, the undead" moves (9,13) -> (7,11)
+[155]"Skeleton, the undead" moves (10,14) -> (8,12)
+[156]"Skeleton, the undead" moves (15,1) -> (11,1)
+[157]"Skeleton, the undead" moves (19,19) -> (15,19)
+[1]"Tecovald, the Archer" attacks [153]"Skeleton, the undead"
+[153]"Skeleton, the undead" was hited
+[153]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[153]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [153]"Skeleton, the undead"
+[153]"Skeleton, the undead" was hited
+[153]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[153]"Skeleton, the undead"'s HP changed
+[153]"Skeleton, the undead" will die
+[153]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[158]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (4,8) -> (6,6)
+[154]"Skeleton, the undead" moves (7,11) -> (7,7)
+[155]"Skeleton, the undead" moves (8,12) -> (8,8)
+[156]"Skeleton, the undead" moves (11,1) -> (9,3)
+[157]"Skeleton, the undead" moves (15,19) -> (15,15)
+[158]"Skeleton, the undead" moves (1,18) -> (1,14)
+[1]"Tecovald, the Archer" attacks [154]"Skeleton, the undead"
+[154]"Skeleton, the undead" was hited
+[154]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[154]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [154]"Skeleton, the undead"
+[154]"Skeleton, the undead" was hited
+[154]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[154]"Skeleton, the undead"'s HP changed
+[154]"Skeleton, the undead" will die
+[154]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[159]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,6) -> (8,10)
+[155]"Skeleton, the undead" moves (8,8) -> (7,9)
+[156]"Skeleton, the undead" moves (9,3) -> (9,7)
+[157]"Skeleton, the undead" moves (15,15) -> (12,14)
+[158]"Skeleton, the undead" moves (1,14) -> (4,13)
+[159]"Skeleton, the undead" moves (1,17) -> (3,15)
+[1]"Tecovald, the Archer" attacks [155]"Skeleton, the undead"
+[155]"Skeleton, the undead" was hited
+[155]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[155]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [155]"Skeleton, the undead"
+[155]"Skeleton, the undead" was hited
+[155]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[155]"Skeleton, the undead"'s HP changed
+[155]"Skeleton, the undead" will die
+[155]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 46/50
+[160]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,10) -> (4,8)
+[156]"Skeleton, the undead" moves (9,7) -> (5,7)
+[157]"Skeleton, the undead" moves (12,14) -> (9,13)
+[158]"Skeleton, the undead" moves (4,13) -> (4,9)
+[159]"Skeleton, the undead" moves (3,15) -> (3,11)
+[160]"Skeleton, the undead" moves (6,1) -> (6,5)
+[1]"Tecovald, the Archer" attacks [156]"Skeleton, the undead"
+[156]"Skeleton, the undead" was hited
+[156]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[156]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [156]"Skeleton, the undead"
+[156]"Skeleton, the undead" was hited
+[156]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[156]"Skeleton, the undead"'s HP changed
+[156]"Skeleton, the undead" will die
+[156]"Skeleton, the undead" died.
+[158]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 46 -> 40/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[161]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (4,8) -> (10,8)
+[157]"Skeleton, the undead" moves (9,13) -> (9,9)
+[158]"Skeleton, the undead" moves (4,9) -> (8,9)
+[159]"Skeleton, the undead" moves (3,11) -> (7,11)
+[160]"Skeleton, the undead" moves (6,5) -> (8,6)
+[161]"Skeleton, the undead" moves (19,0) -> (16,1)
+[1]"Tecovald, the Archer" attacks [157]"Skeleton, the undead"
+[157]"Skeleton, the undead" was hited
+[157]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[157]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [157]"Skeleton, the undead"
+[157]"Skeleton, the undead" was hited
+[157]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[157]"Skeleton, the undead"'s HP changed
+[157]"Skeleton, the undead" will die
+[157]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[162]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,8) -> (15,8)
+[158]"Skeleton, the undead" moves (8,9) -> (12,9)
+[159]"Skeleton, the undead" moves (7,11) -> (11,11)
+[160]"Skeleton, the undead" moves (8,6) -> (12,6)
+[161]"Skeleton, the undead" moves (16,1) -> (16,5)
+[162]"Skeleton, the undead" moves (1,8) -> (5,8)
+[1]"Tecovald, the Archer" attacks [158]"Skeleton, the undead"
+[158]"Skeleton, the undead" was hited
+[158]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[158]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [158]"Skeleton, the undead"
+[158]"Skeleton, the undead" was hited
+[158]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[158]"Skeleton, the undead"'s HP changed
+[158]"Skeleton, the undead" will die
+[158]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[163]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (15,8) -> (16,12)
+[159]"Skeleton, the undead" moves (11,11) -> (15,11)
+[160]"Skeleton, the undead" moves (12,6) -> (13,9)
+[161]"Skeleton, the undead" moves (16,5) -> (16,9)
+[162]"Skeleton, the undead" moves (5,8) -> (9,8)
+[163]"Skeleton, the undead" moves (1,14) -> (5,14)
+[1]"Tecovald, the Archer" attacks [159]"Skeleton, the undead"
+[159]"Skeleton, the undead" was hited
+[159]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[159]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [159]"Skeleton, the undead"
+[159]"Skeleton, the undead" was hited
+[159]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[159]"Skeleton, the undead"'s HP changed
+[159]"Skeleton, the undead" will die
+[159]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[164]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (16,12) -> (12,14)
+[160]"Skeleton, the undead" moves (13,9) -> (13,13)
+[161]"Skeleton, the undead" moves (16,9) -> (14,11)
+[162]"Skeleton, the undead" moves (9,8) -> (9,11)
+[163]"Skeleton, the undead" moves (5,14) -> (9,14)
+[164]"Skeleton, the undead" moves (1,11) -> (5,11)
+[1]"Tecovald, the Archer" attacks [160]"Skeleton, the undead"
+[160]"Skeleton, the undead" was hited
+[160]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[160]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [160]"Skeleton, the undead"
+[160]"Skeleton, the undead" was hited
+[160]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[160]"Skeleton, the undead"'s HP changed
+[160]"Skeleton, the undead" will die
+[160]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 45/50
+[165]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,14) -> (14,18)
+[161]"Skeleton, the undead" moves (14,11) -> (14,15)
+[162]"Skeleton, the undead" moves (9,11) -> (10,14)
+[163]"Skeleton, the undead" moves (9,14) -> (11,15)
+[164]"Skeleton, the undead" moves (5,11) -> (8,12)
+[165]"Skeleton, the undead" moves (19,13) -> (17,15)
+[1]"Tecovald, the Archer" attacks [161]"Skeleton, the undead"
+[161]"Skeleton, the undead" was hited
+[161]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[161]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [161]"Skeleton, the undead"
+[161]"Skeleton, the undead" was hited
+[161]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[161]"Skeleton, the undead"'s HP changed
+[161]"Skeleton, the undead" will die
+[161]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 46/50
+[166]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,18) -> (15,13)
+[162]"Skeleton, the undead" moves (10,14) -> (14,14)
+[163]"Skeleton, the undead" moves (11,15) -> (13,13)
+[164]"Skeleton, the undead" moves (8,12) -> (12,12)
+[165]"Skeleton, the undead" moves (17,15) -> (15,14)
+[166]"Skeleton, the undead" moves (0,19) -> (4,19)
+[1]"Tecovald, the Archer" attacks [162]"Skeleton, the undead"
+[162]"Skeleton, the undead" was hited
+[162]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[162]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [162]"Skeleton, the undead"
+[162]"Skeleton, the undead" was hited
+[162]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[162]"Skeleton, the undead"'s HP changed
+[162]"Skeleton, the undead" will die
+[162]"Skeleton, the undead" died.
+[165]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 46 -> 40/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 41/50
+[167]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (15,13) -> (15,7)
+[163]"Skeleton, the undead" moves (13,13) -> (13,9)
+[164]"Skeleton, the undead" moves (12,12) -> (12,8)
+[165]"Skeleton, the undead" moves (15,14) -> (15,10)
+[166]"Skeleton, the undead" moves (4,19) -> (5,16)
+[167]"Skeleton, the undead" moves (12,19) -> (12,15)
+[1]"Tecovald, the Archer" attacks [163]"Skeleton, the undead"
+[163]"Skeleton, the undead" was hited
+[163]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[163]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [163]"Skeleton, the undead"
+[163]"Skeleton, the undead" was hited
+[163]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[163]"Skeleton, the undead"'s HP changed
+[163]"Skeleton, the undead" will die
+[163]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 42/50
+[168]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (15,7) -> (17,3)
+[164]"Skeleton, the undead" moves (12,8) -> (14,6)
+[165]"Skeleton, the undead" moves (15,10) -> (15,6)
+[166]"Skeleton, the undead" moves (5,16) -> (6,13)
+[167]"Skeleton, the undead" moves (12,15) -> (12,11)
+[168]"Skeleton, the undead" moves (14,19) -> (14,15)
+[1]"Tecovald, the Archer" attacks [164]"Skeleton, the undead"
+[164]"Skeleton, the undead" was hited
+[164]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[164]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [164]"Skeleton, the undead"
+[164]"Skeleton, the undead" was hited
+[164]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[164]"Skeleton, the undead"'s HP changed
+[164]"Skeleton, the undead" will die
+[164]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 43/50
+[169]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (17,3) -> (12,4)
+[165]"Skeleton, the undead" moves (15,6) -> (12,5)
+[166]"Skeleton, the undead" moves (6,13) -> (6,9)
+[167]"Skeleton, the undead" moves (12,11) -> (12,7)
+[168]"Skeleton, the undead" moves (14,15) -> (14,11)
+[169]"Skeleton, the undead" moves (1,0) -> (5,0)
+[1]"Tecovald, the Archer" attacks [165]"Skeleton, the undead"
+[165]"Skeleton, the undead" was hited
+[165]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[165]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [165]"Skeleton, the undead"
+[165]"Skeleton, the undead" was hited
+[165]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[165]"Skeleton, the undead"'s HP changed
+[165]"Skeleton, the undead" will die
+[165]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 44/50
+[170]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,4) -> (12,4)
+[166]"Skeleton, the undead" moves (6,9) -> (8,7)
+[167]"Skeleton, the undead" moves (12,7) -> (11,4)
+[168]"Skeleton, the undead" moves (14,11) -> (14,7)
+[169]"Skeleton, the undead" moves (5,0) -> (8,0)
+[170]"Skeleton, the undead" moves (19,3) -> (15,3)
+[1]"Tecovald, the Archer" attacks [166]"Skeleton, the undead"
+[166]"Skeleton, the undead" was hited
+[166]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[166]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [166]"Skeleton, the undead"
+[166]"Skeleton, the undead" was hited
+[166]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[166]"Skeleton, the undead"'s HP changed
+[166]"Skeleton, the undead" will die
+[166]"Skeleton, the undead" died.
+[167]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 44 -> 38/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 39/50
+[171]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,4) -> (9,7)
+[167]"Skeleton, the undead" moves (11,4) -> (9,6)
+[168]"Skeleton, the undead" moves (14,7) -> (10,7)
+[169]"Skeleton, the undead" moves (8,0) -> (8,4)
+[170]"Skeleton, the undead" moves (15,3) -> (12,4)
+[171]"Skeleton, the undead" moves (8,1) -> (8,5)
+[1]"Tecovald, the Archer" attacks [167]"Skeleton, the undead"
+[167]"Skeleton, the undead" was hited
+[167]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[167]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [167]"Skeleton, the undead"
+[167]"Skeleton, the undead" was hited
+[167]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[167]"Skeleton, the undead"'s HP changed
+[167]"Skeleton, the undead" will die
+[167]"Skeleton, the undead" died.
+[168]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 39 -> 33/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 34/50
+[172]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,7) -> (5,9)
+[168]"Skeleton, the undead" moves (10,7) -> (6,7)
+[169]"Skeleton, the undead" moves (8,4) -> (7,7)
+[170]"Skeleton, the undead" moves (12,4) -> (9,5)
+[171]"Skeleton, the undead" moves (8,5) -> (7,8)
+[172]"Skeleton, the undead" moves (1,2) -> (1,5)
+[1]"Tecovald, the Archer" attacks [168]"Skeleton, the undead"
+[168]"Skeleton, the undead" was hited
+[168]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[168]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [168]"Skeleton, the undead"
+[168]"Skeleton, the undead" was hited
+[168]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[168]"Skeleton, the undead"'s HP changed
+[168]"Skeleton, the undead" will die
+[168]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 35/50
+[173]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (5,9) -> (2,12)
+[169]"Skeleton, the undead" moves (7,7) -> (5,9)
+[170]"Skeleton, the undead" moves (9,5) -> (7,7)
+[171]"Skeleton, the undead" moves (7,8) -> (4,9)
+[172]"Skeleton, the undead" moves (1,5) -> (1,9)
+[173]"Skeleton, the undead" moves (1,6) -> (1,10)
+[1]"Tecovald, the Archer" attacks [169]"Skeleton, the undead"
+[169]"Skeleton, the undead" was hited
+[169]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[169]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [169]"Skeleton, the undead"
+[169]"Skeleton, the undead" was hited
+[169]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[169]"Skeleton, the undead"'s HP changed
+[169]"Skeleton, the undead" will die
+[169]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 36/50
+[174]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (2,12) -> (6,14)
+[170]"Skeleton, the undead" moves (7,7) -> (7,11)
+[171]"Skeleton, the undead" moves (4,9) -> (4,12)
+[172]"Skeleton, the undead" moves (1,9) -> (3,11)
+[173]"Skeleton, the undead" moves (1,10) -> (3,12)
+[174]"Skeleton, the undead" moves (0,19) -> (2,17)
+[1]"Tecovald, the Archer" attacks [170]"Skeleton, the undead"
+[170]"Skeleton, the undead" was hited
+[170]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[170]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [170]"Skeleton, the undead"
+[170]"Skeleton, the undead" was hited
+[170]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[170]"Skeleton, the undead"'s HP changed
+[170]"Skeleton, the undead" will die
+[170]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 37/50
+[175]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (6,14) -> (9,14)
+[171]"Skeleton, the undead" moves (4,12) -> (7,12)
+[172]"Skeleton, the undead" moves (3,11) -> (6,11)
+[173]"Skeleton, the undead" moves (3,12) -> (6,12)
+[174]"Skeleton, the undead" moves (2,17) -> (6,17)
+[175]"Skeleton, the undead" moves (14,19) -> (12,17)
+[1]"Tecovald, the Archer" attacks [171]"Skeleton, the undead"
+[171]"Skeleton, the undead" was hited
+[171]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[171]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [171]"Skeleton, the undead"
+[171]"Skeleton, the undead" was hited
+[171]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[171]"Skeleton, the undead"'s HP changed
+[171]"Skeleton, the undead" will die
+[171]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 38/50
+[176]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (9,14) -> (13,12)
+[172]"Skeleton, the undead" moves (6,11) -> (10,11)
+[173]"Skeleton, the undead" moves (6,12) -> (10,12)
+[174]"Skeleton, the undead" moves (6,17) -> (9,16)
+[175]"Skeleton, the undead" moves (12,17) -> (12,13)
+[176]"Skeleton, the undead" moves (2,19) -> (6,19)
+[1]"Tecovald, the Archer" attacks [172]"Skeleton, the undead"
+[172]"Skeleton, the undead" was hited
+[172]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[172]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [172]"Skeleton, the undead"
+[172]"Skeleton, the undead" was hited
+[172]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[172]"Skeleton, the undead"'s HP changed
+[172]"Skeleton, the undead" will die
+[172]"Skeleton, the undead" died.
+[175]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 38 -> 32/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 33/50
+[177]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,12) -> (13,6)
+[173]"Skeleton, the undead" moves (10,12) -> (10,8)
+[174]"Skeleton, the undead" moves (9,16) -> (9,12)
+[175]"Skeleton, the undead" moves (12,13) -> (12,9)
+[176]"Skeleton, the undead" moves (6,19) -> (6,15)
+[177]"Skeleton, the undead" moves (15,1) -> (14,4)
+[1]"Tecovald, the Archer" attacks [173]"Skeleton, the undead"
+[173]"Skeleton, the undead" was hited
+[173]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[173]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [173]"Skeleton, the undead"
+[173]"Skeleton, the undead" was hited
+[173]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[173]"Skeleton, the undead"'s HP changed
+[173]"Skeleton, the undead" will die
+[173]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 34/50
+[178]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,6) -> (7,6)
+[174]"Skeleton, the undead" moves (9,12) -> (9,8)
+[175]"Skeleton, the undead" moves (12,9) -> (8,9)
+[176]"Skeleton, the undead" moves (6,15) -> (6,11)
+[177]"Skeleton, the undead" moves (14,4) -> (10,4)
+[178]"Skeleton, the undead" moves (19,13) -> (15,13)
+[1]"Tecovald, the Archer" attacks [174]"Skeleton, the undead"
+[174]"Skeleton, the undead" was hited
+[174]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[174]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [174]"Skeleton, the undead"
+[174]"Skeleton, the undead" was hited
+[174]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[174]"Skeleton, the undead"'s HP changed
+[174]"Skeleton, the undead" will die
+[174]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 35/50
+[179]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (7,6) -> (13,6)
+[175]"Skeleton, the undead" moves (8,9) -> (11,8)
+[176]"Skeleton, the undead" moves (6,11) -> (9,10)
+[177]"Skeleton, the undead" moves (10,4) -> (12,5)
+[178]"Skeleton, the undead" moves (15,13) -> (15,9)
+[179]"Skeleton, the undead" moves (19,0) -> (17,2)
+[1]"Tecovald, the Archer" attacks [175]"Skeleton, the undead"
+[175]"Skeleton, the undead" was hited
+[175]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[175]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [175]"Skeleton, the undead"
+[175]"Skeleton, the undead" was hited
+[175]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[175]"Skeleton, the undead"'s HP changed
+[175]"Skeleton, the undead" will die
+[175]"Skeleton, the undead" died.
+[177]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 35 -> 29/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 30/50
+[180]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (13,6) -> (10,4)
+[176]"Skeleton, the undead" moves (9,10) -> (9,6)
+[177]"Skeleton, the undead" moves (12,5) -> (9,4)
+[178]"Skeleton, the undead" moves (15,9) -> (13,7)
+[179]"Skeleton, the undead" moves (17,2) -> (13,2)
+[180]"Skeleton, the undead" moves (2,1) -> (6,1)
+[1]"Tecovald, the Archer" attacks [176]"Skeleton, the undead"
+[176]"Skeleton, the undead" was hited
+[176]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[176]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [176]"Skeleton, the undead"
+[176]"Skeleton, the undead" was hited
+[176]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[176]"Skeleton, the undead"'s HP changed
+[176]"Skeleton, the undead" will die
+[176]"Skeleton, the undead" died.
+[177]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 30 -> 24/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 25/50
+[181]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,4) -> (8,8)
+[177]"Skeleton, the undead" moves (9,4) -> (8,7)
+[178]"Skeleton, the undead" moves (13,7) -> (9,7)
+[179]"Skeleton, the undead" moves (13,2) -> (11,4)
+[180]"Skeleton, the undead" moves (6,1) -> (6,5)
+[181]"Skeleton, the undead" moves (9,1) -> (9,5)
+[1]"Tecovald, the Archer" attacks [177]"Skeleton, the undead"
+[177]"Skeleton, the undead" was hited
+[177]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[177]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [177]"Skeleton, the undead"
+[177]"Skeleton, the undead" was hited
+[177]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[177]"Skeleton, the undead"'s HP changed
+[177]"Skeleton, the undead" will die
+[177]"Skeleton, the undead" died.
+[178]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 25 -> 19/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 20/50
+[182]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,8) -> (10,12)
+[178]"Skeleton, the undead" moves (9,7) -> (9,11)
+[179]"Skeleton, the undead" moves (11,4) -> (11,8)
+[180]"Skeleton, the undead" moves (6,5) -> (6,8)
+[181]"Skeleton, the undead" moves (9,5) -> (9,9)
+[182]"Skeleton, the undead" moves (19,13) -> (15,13)
+[1]"Tecovald, the Archer" attacks [178]"Skeleton, the undead"
+[178]"Skeleton, the undead" was hited
+[178]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[178]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [178]"Skeleton, the undead"
+[178]"Skeleton, the undead" was hited
+[178]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[178]"Skeleton, the undead"'s HP changed
+[178]"Skeleton, the undead" will die
+[178]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 21/50
+[183]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,12) -> (10,15)
+[179]"Skeleton, the undead" moves (11,8) -> (11,12)
+[180]"Skeleton, the undead" moves (6,8) -> (6,11)
+[181]"Skeleton, the undead" moves (9,9) -> (9,13)
+[182]"Skeleton, the undead" moves (15,13) -> (11,13)
+[183]"Skeleton, the undead" moves (17,19) -> (13,19)
+[1]"Tecovald, the Archer" attacks [179]"Skeleton, the undead"
+[179]"Skeleton, the undead" was hited
+[179]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[179]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [179]"Skeleton, the undead"
+[179]"Skeleton, the undead" was hited
+[179]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[179]"Skeleton, the undead"'s HP changed
+[179]"Skeleton, the undead" will die
+[179]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 22/50
+[184]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,15) -> (8,18)
+[180]"Skeleton, the undead" moves (6,11) -> (6,15)
+[181]"Skeleton, the undead" moves (9,13) -> (9,17)
+[182]"Skeleton, the undead" moves (11,13) -> (10,16)
+[183]"Skeleton, the undead" moves (13,19) -> (9,19)
+[184]"Skeleton, the undead" moves (1,15) -> (5,15)
+[1]"Tecovald, the Archer" attacks [180]"Skeleton, the undead"
+[180]"Skeleton, the undead" was hited
+[180]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[180]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [180]"Skeleton, the undead"
+[180]"Skeleton, the undead" was hited
+[180]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[180]"Skeleton, the undead"'s HP changed
+[180]"Skeleton, the undead" will die
+[180]"Skeleton, the undead" died.
+[181]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 22 -> 16/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[183]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 16 -> 10/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 11/50
+[185]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,18) -> (8,12)
+[181]"Skeleton, the undead" moves (9,17) -> (9,13)
+[182]"Skeleton, the undead" moves (10,16) -> (8,14)
+[183]"Skeleton, the undead" moves (9,19) -> (9,15)
+[184]"Skeleton, the undead" moves (5,15) -> (7,13)
+[185]"Skeleton, the undead" moves (1,12) -> (5,12)
+[1]"Tecovald, the Archer" attacks [181]"Skeleton, the undead"
+[181]"Skeleton, the undead" was hited
+[181]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[181]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [181]"Skeleton, the undead"
+[181]"Skeleton, the undead" was hited
+[181]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[181]"Skeleton, the undead"'s HP changed
+[181]"Skeleton, the undead" will die
+[181]"Skeleton, the undead" died.
+[184]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 11 -> 5/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 6/50
+[186]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,12) -> (14,12)
+[182]"Skeleton, the undead" moves (8,14) -> (12,14)
+[183]"Skeleton, the undead" moves (9,15) -> (11,13)
+[184]"Skeleton, the undead" moves (7,13) -> (10,12)
+[185]"Skeleton, the undead" moves (5,12) -> (9,12)
+[186]"Skeleton, the undead" moves (19,19) -> (18,16)
+[1]"Tecovald, the Archer" attacks [182]"Skeleton, the undead"
+[182]"Skeleton, the undead" was hited
+[182]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[182]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [182]"Skeleton, the undead"
+[182]"Skeleton, the undead" was hited
+[182]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[182]"Skeleton, the undead"'s HP changed
+[182]"Skeleton, the undead" will die
+[182]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 7/50
+[187]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,12) -> (16,9)
+[183]"Skeleton, the undead" moves (11,13) -> (13,11)
+[184]"Skeleton, the undead" moves (10,12) -> (13,12)
+[185]"Skeleton, the undead" moves (9,12) -> (12,11)
+[186]"Skeleton, the undead" moves (18,16) -> (18,12)
+[187]"Skeleton, the undead" moves (1,1) -> (5,1)
+[1]"Tecovald, the Archer" attacks [183]"Skeleton, the undead"
+[183]"Skeleton, the undead" was hited
+[183]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[183]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [183]"Skeleton, the undead"
+[183]"Skeleton, the undead" was hited
+[183]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[183]"Skeleton, the undead"'s HP changed
+[183]"Skeleton, the undead" will die
+[183]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 8/50
+[188]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (16,9) -> (14,5)
+[184]"Skeleton, the undead" moves (13,12) -> (13,8)
+[185]"Skeleton, the undead" moves (12,11) -> (12,7)
+[186]"Skeleton, the undead" moves (18,12) -> (17,9)
+[187]"Skeleton, the undead" moves (5,1) -> (9,1)
+[188]"Skeleton, the undead" moves (5,1) -> (8,0)
+[1]"Tecovald, the Archer" attacks [184]"Skeleton, the undead"
+[184]"Skeleton, the undead" was hited
+[184]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[184]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [184]"Skeleton, the undead"
+[184]"Skeleton, the undead" was hited
+[184]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[184]"Skeleton, the undead"'s HP changed
+[184]"Skeleton, the undead" will die
+[184]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 9/50
+[189]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (14,5) -> (10,7)
+[185]"Skeleton, the undead" moves (12,7) -> (9,6)
+[186]"Skeleton, the undead" moves (17,9) -> (13,9)
+[187]"Skeleton, the undead" moves (9,1) -> (9,5)
+[188]"Skeleton, the undead" moves (8,0) -> (8,4)
+[189]"Skeleton, the undead" moves (1,12) -> (5,12)
+[1]"Tecovald, the Archer" attacks [185]"Skeleton, the undead"
+[185]"Skeleton, the undead" was hited
+[185]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[185]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [185]"Skeleton, the undead"
+[185]"Skeleton, the undead" was hited
+[185]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[185]"Skeleton, the undead"'s HP changed
+[185]"Skeleton, the undead" will die
+[185]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 10/50
+[190]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (10,7) -> (8,11)
+[186]"Skeleton, the undead" moves (13,9) -> (9,9)
+[187]"Skeleton, the undead" moves (9,5) -> (8,8)
+[188]"Skeleton, the undead" moves (8,4) -> (7,7)
+[189]"Skeleton, the undead" moves (5,12) -> (7,10)
+[190]"Skeleton, the undead" moves (1,14) -> (5,14)
+[1]"Tecovald, the Archer" attacks [186]"Skeleton, the undead"
+[186]"Skeleton, the undead" was hited
+[186]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[186]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [186]"Skeleton, the undead"
+[186]"Skeleton, the undead" was hited
+[186]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[186]"Skeleton, the undead"'s HP changed
+[186]"Skeleton, the undead" will die
+[186]"Skeleton, the undead" died.
+[189]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 10 -> 4/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 5/50
+[191]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (8,11) -> (12,13)
+[187]"Skeleton, the undead" moves (8,8) -> (9,10)
+[188]"Skeleton, the undead" moves (7,7) -> (8,9)
+[189]"Skeleton, the undead" moves (7,10) -> (10,11)
+[190]"Skeleton, the undead" moves (5,14) -> (9,14)
+[191]"Skeleton, the undead" moves (8,1) -> (8,5)
+[1]"Tecovald, the Archer" attacks [187]"Skeleton, the undead"
+[187]"Skeleton, the undead" was hited
+[187]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[187]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [187]"Skeleton, the undead"
+[187]"Skeleton, the undead" was hited
+[187]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[187]"Skeleton, the undead"'s HP changed
+[187]"Skeleton, the undead" will die
+[187]"Skeleton, the undead" died.
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" was healed for 1 health up to 6/50
+[192]"Skeleton, the undead" joined the battle	(for team 0)
+[1]"Tecovald, the Archer" moves (12,13) -> (15,10)
+[188]"Skeleton, the undead" moves (8,9) -> (12,9)
+[189]"Skeleton, the undead" moves (10,11) -> (14,11)
+[190]"Skeleton, the undead" moves (9,14) -> (12,13)
+[191]"Skeleton, the undead" moves (8,5) -> (11,6)
+[192]"Skeleton, the undead" moves (15,19) -> (15,15)
+[1]"Tecovald, the Archer" attacks [188]"Skeleton, the undead"
+[188]"Skeleton, the undead" was hited
+[188]"Skeleton, the undead" was damaged for 35 (blocked 2), 40 -> 7/40 HP left
+[188]"Skeleton, the undead"'s HP changed
+[1]"Tecovald, the Archer" attacks [188]"Skeleton, the undead"
+[188]"Skeleton, the undead" was hited
+[188]"Skeleton, the undead" was damaged for 35 (blocked 2), 7 -> 0/40 HP left
+[188]"Skeleton, the undead"'s HP changed
+[188]"Skeleton, the undead" will die
+[188]"Skeleton, the undead" died.
+[189]"Skeleton, the undead" attacks [1]"Tecovald, the Archer"
+[1]"Tecovald, the Archer" was hited
+[1]"Tecovald, the Archer" was damaged for 8 (blocked 2), 6 -> 0/50 HP left
+[1]"Tecovald, the Archer"'s HP changed
+[1]"Tecovald, the Archer" will die
+[1]"Tecovald, the Archer" died.

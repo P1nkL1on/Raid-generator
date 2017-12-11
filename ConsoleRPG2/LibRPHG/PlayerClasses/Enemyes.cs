@@ -16,7 +16,7 @@ namespace LibRPHG.PlayerClasses
             base.SetDefaultStats("Skeleton", startPoint, 1, 40, 5, 4, 1, 8, 1, 5, -1);
         }
 
-        public override string NameFull { get { return String.Format("{0}, the undead", Name); } }
+        public override string NameFull { get { return String.Format("{1}\"{0}, the undead\"", _name, NameID); } }
 
         public override List<MatrixFields.Prio> CalculateSituation(Battlefield bf)
         {

@@ -25,7 +25,7 @@ namespace MatrixFields
     public static class Calculator
     {
 
-        public static int FieldSize = 40;
+        public static int FieldSize = 20;
         static string heroesNames = "QWERTYUIOPASDFGHJKLZXCVBNM";
         public static void TraceMatrixToConsole(float[,] mat, List<Point> prioretyze)
         {

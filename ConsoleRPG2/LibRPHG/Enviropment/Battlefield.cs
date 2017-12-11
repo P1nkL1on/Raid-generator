@@ -9,11 +9,37 @@ using System.Drawing;
 
 namespace LibRPHG
 {
-
+    public static class BFConst
+    {
+        public static int currentUnitID = 0;
+    }
 
     public class Battlefield
     {
         List<Abstraceunit> _units;
+        
+
+        public void SORTUNITS( bool FromMinToMax )
+        {
+            List<Abstraceunit> want = _units;
+            for (int i = 0; i  < want.Count; i++)
+            {
+                int needInd = i, lowestMVP = want[i].CurrentMVP;
+                Abstraceunit chosen = want[i];
+
+                for (int j = i + 1; j < want.Count; j++)
+                    if ((lowestMVP > want[j].CurrentMVP && FromMinToMax)
+                        || (lowestMVP < want[j].CurrentMVP && !FromMinToMax))
+                    { needInd = j; chosen = want[j]; lowestMVP = want[j].CurrentMVP; }
+
+                Abstraceunit temp = want[i];
+                want[i] = want[needInd];
+                want[needInd] = temp;
+            }
+            _units = want;
+        }
+
+
 
         public Battlefield()
         {
@@ -29,22 +55,25 @@ namespace LibRPHG
             for (int i = 0; i < _units.Count; i++)
                 currentUnitPoses.Add(_units[i].GetPosition);
 
+
+            SORTUNITS(true);
+            for (int i = 0; i < _units.Count; i++)
+            {
+                Abstraceunit unit = _units[i];
+                List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
+                unitCanGo.Add(_units[i].GetPosition);
+                if (unitCanGo.Count == 0)
+                    continue;
+                List<Prio> unitThinks = unit.CalculateSituation(this);
+                Point decided = Calculator.CalculateMovement(unitCanGo, unitThinks);
+                currentUnitPoses[i] = decided;
+                _units[i].MoveTo(decided);
+            }
+
+
             for (int i = 0; i < _units.Count; i++)
                 try
                 {
-                    Abstraceunit unit = _units[i];
-                    List<Point> unitCanGo = Calculator.deleteListFromList(Calculator.GetOblast(currentUnitPoses[i], unit.GetSpd, false, true), currentUnitPoses.ToArray());
-                    unitCanGo.Add(_units[i].GetPosition);
-
-                    if (unitCanGo.Count == 0)
-                        continue;
-                    List<Prio> unitThinks = unit.CalculateSituation(this);
-                    /// movement
-                    Point decided = Calculator.CalculateMovement(unitCanGo, unitThinks);
-
-                    currentUnitPoses[i] = decided;
-                    _units[i].MoveTo(decided);
-
                     // attack
                     for (int att = 0; att < _units[i].CurrentATP; att++)
                     {
@@ -105,7 +134,7 @@ namespace LibRPHG
         {
             int Pad = 30,
                 maxWidCount = (Console.WindowWidth - 20) / Pad;
-            
+
             for (int T = 1; T > 0; T--)
             {
                 Console.WriteLine(); //if (T == 1) Console.ForegroundColor = ConsoleColor.DarkGreen; else Console.ForegroundColor = ConsoleColor.DarkRed;

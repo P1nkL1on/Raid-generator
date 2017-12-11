@@ -30,9 +30,13 @@ namespace LibRPHG.AbstractUnits
         {
             _bufftarget = who;
             _buffhost = bywho;
-            LOGS.Add(String.Format("{0} recieved {1} buff from {2}", _bufftarget.NameFull, _buffname, _buffhost.NameFull));
+            LOGS.Add(String.Format("{0} recieved \"{1}\" buff from {2}", _bufftarget.NameFull, _buffname, _buffhost.NameFull));
         }
-        public abstract void Dissaply();
+        public virtual void Dissaply()
+        {
+            LOGS.Add(String.Format("{0} loosed \"{1}\" buff from {2}", _bufftarget.NameFull, _buffname, _buffhost.NameFull));
+            _bufftarget = _buffhost = null;
+        }
 
         public virtual Abstraceunit BuffHost { get { return _buffhost; } }
         

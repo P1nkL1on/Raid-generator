@@ -53,6 +53,7 @@ namespace LibRPHG.BuffsDebuffs
         public override void Dissaply()
         {
             _bufftarget._att_dmg_mod -= _recievedDamage;
+            base.Dissaply();
         }
         public SpearManNextAttackBuff(Abstraceunit who, Abstraceunit bywho)
         {
@@ -88,6 +89,7 @@ namespace LibRPHG.BuffsDebuffs
         public override void Dissaply()
         {
             _bufftarget._att_dmg_mod -= BuffsConsts.DruidAttackBuff;
+            base.Dissaply();
         }
         public DruidDamageBuff(Abstraceunit who, Abstraceunit bywho)
         {
@@ -117,6 +119,7 @@ namespace LibRPHG.BuffsDebuffs
         {
             _bufftarget._hp_regen_mod -= BuffsConsts.DruidHealthRegenplus;
             _bufftarget._mp_regen_mod -= BuffsConsts.DruidManaRegenplus;
+            base.Dissaply();
         }
         public DruidSplash(Abstraceunit who, Abstraceunit bywho)
         {
@@ -146,6 +149,7 @@ namespace LibRPHG.BuffsDebuffs
         {
             _bufftarget._def_mod -= BuffsConsts.PaladinAuraDef;
             _bufftarget._mvp_mod -= BuffsConsts.PaladinAuraMVPplus;
+            base.Dissaply();
         }
         public PaladinsAura(Abstraceunit who, Abstraceunit bywho)
         {
@@ -177,6 +181,7 @@ namespace LibRPHG.BuffsDebuffs
         public override void Dissaply()
         {
             _bufftarget._atp_mod -= BuffsConsts.BarbarianRageATPplus;
+            base.Dissaply();
         }
         public BarbarianSplash(Abstraceunit who, Abstraceunit bywho)
         {
@@ -205,6 +210,7 @@ namespace LibRPHG.BuffsDebuffs
         public override void Dissaply()
         {
             // never
+            base.Dissaply();
         }
 
         public override void Tick()
@@ -214,6 +220,11 @@ namespace LibRPHG.BuffsDebuffs
 
         public void OnHealthChange()
         {
+            if (_bufftarget == null)
+            {
+                _currentDamageGiven = 0;
+                return;
+            }
             int newDamageGiven = (_bufftarget.getMaxHP - _bufftarget.getCurrentHP) * BuffsConsts.BarbarianDamagePerHPmiss;
             _bufftarget._att_dmg_mod += newDamageGiven - _currentDamageGiven;
             LOGS.Add(String.Format("{0} get +{1} DMG buff from \"blood rage\"", _bufftarget.NameFull, newDamageGiven - _currentDamageGiven));
@@ -250,6 +261,7 @@ namespace LibRPHG.BuffsDebuffs
         public override void Dissaply()
         {
             // never
+            base.Dissaply();
         }
 
         public override void Tick()

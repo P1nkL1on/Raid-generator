@@ -17,7 +17,7 @@ namespace LibRPHG
         public static void Add(string log)
         {
             DateTime now = DateTime.Now;
-            log = String.Format("[{0}]\t{1}", now.ToLongTimeString(), log);
+            //log = String.Format("[{0}]\t{1}", now.ToLongTimeString(), log);
             logs.Add(log);
         }
 
@@ -28,6 +28,9 @@ namespace LibRPHG
         public static void Trace(string Filter)
         {
             string[] Filters = Filter.Split('|');
+            System.IO.File.Delete("lastLOG.txt");
+            System.IO.File.WriteAllLines("lastLOG.txt", logs.ToArray());
+
             while (nowOnLog < logs.Count - 1)
             {
                 string what = logs[++nowOnLog];
@@ -45,6 +48,8 @@ namespace LibRPHG
                         Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine(what);
                 }
+                //
+
             }
         }
 
