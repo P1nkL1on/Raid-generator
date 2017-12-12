@@ -46,6 +46,8 @@ namespace LibRPHG
                         Console.ForegroundColor = ConsoleColor.DarkRed;
                     if (what.ToUpper().IndexOf("HP") > 0 || what.IndexOf("die") > 0)
                         Console.ForegroundColor = ConsoleColor.Red;
+                    if (what.IndexOf("counterattacked") > 0)
+                        Console.ForegroundColor = ConsoleColor.Magenta;
                     Console.WriteLine(what);
                 }
                 //

@@ -39,7 +39,7 @@ namespace ConsoleRPG2
                 BFConst.currentUnitID = 0;
                 for (int i = 0; i < raidCount; i++)
                 {
-                    Abstraceunit dm = CharacterSelect.getPlayerByIndex(rnd.Next(25), new Point(Calculator.FieldSize / 2, Calculator.FieldSize / 2));
+                    Abstraceunit dm = CharacterSelect.getPlayerByIndex(1/*rnd.Next(25)*/, new Point(Calculator.FieldSize / 2, Calculator.FieldSize / 2));
                     dm.TeamNumber = 1;
                     bf.addUnit(dm);
                 }
@@ -48,7 +48,7 @@ namespace ConsoleRPG2
                 do
                 {
                     while (bf.getUnits.Count < raidCount + (BFConst.currentUnitID / 40 + 1) * raidCount)
-                        bf.addUnit(new ESkeleton(
+                        bf.addUnit(new PBarbarian(
                                     (rnd.Next(2) == 0) ?
                                     new Point(rnd.Next(Calculator.FieldSize), rnd.Next(2) * (Calculator.FieldSize - 2) + 1)
                                     : new Point(rnd.Next(2) * (Calculator.FieldSize - 2) + 1, rnd.Next(Calculator.FieldSize))));
@@ -56,6 +56,7 @@ namespace ConsoleRPG2
                     bf.CalculateMovementForEachCharacter();
                     bf.TraceHealth();
                     //for (int i = 0; i < bf.getUnits.Count; i++, Console.WriteLine(bf.getUnits[i-1].TraceBars())) ;
+                    LOGS.Trace();
                     //LOGS.Trace("died|joined");
                     //string S = Console.ReadLine();
                     Console.ReadKey();

@@ -45,6 +45,22 @@ namespace LibRPHG.PlayerClasses
             foreach (BuffsDebuffs.BarbarianPassive bp in this.GetBuffs("blood rage"))
                 bp.OnHealthChange();
         }
+
+        public override void AfterAttacked(Iunit bywho)
+        {
+            base.AfterAttacked(bywho);
+            if (this.DistanceTo((Abstraceunit)bywho, false) <= 1)
+            {
+                
+
+                int dmg_buff = -(_att_dmg + _att_dmg_mod) / 2;
+                _att_dmg_mod += dmg_buff;
+                LOGS.Add(String.Format("{0} counterattacked {1} for {2} DMG!", this.NameFull, bywho.NameFull, CurrentDamage));
+                if (CurrentDamage > 10 && !bywho.isDead)
+                    this.Attack((Abstraceunit)bywho);
+                _att_dmg -= dmg_buff;
+            }
+        }
     }
 
     public class PPaladin : Abstractplayer

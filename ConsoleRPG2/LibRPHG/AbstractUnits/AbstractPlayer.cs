@@ -43,7 +43,7 @@ namespace LibRPHG
             _exp_mod = 1.0f;
             _expirience = 0;
         }
-        
+
     }
 
 
@@ -241,8 +241,12 @@ namespace LibRPHG
         }
         public void Attack(Abstraceunit who)
         {
+            this.OnAttacking(who);
             LOGS.Add(String.Format("{0} attacks {1}", this.NameFull, who.NameFull));
+            who.OnAttacked(this);
             who.DamageFor(this.CurrentDamage);
+            if (!who.isDead)
+                who.AfterAttacked(this);
         }
 
         public virtual string TraceBars()
@@ -252,8 +256,8 @@ namespace LibRPHG
         public string TraceBar(bool health)
         {
             if (health)
-                return String.Format("{0}  {1}/{2}",LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), _hp+_hp_shield, _hpmax + _hp_shield);
-            return String.Format("{0}  {1}/{2}",LOGS.TraceBar(_mp, _mpmax), _mp, _mpmax);
+                return String.Format("{0}  {1}/{2}", LOGS.TraceBar(_hp + _hp_shield, _hpmax + _hp_shield), _hp + _hp_shield, _hpmax + _hp_shield);
+            return String.Format("{0}  {1}/{2}", LOGS.TraceBar(_mp, _mpmax), _mp, _mpmax);
         }
 
         public virtual void AddBuff(Ibuff buff)
@@ -306,6 +310,8 @@ namespace LibRPHG
         public virtual void OnDie() { LOGS.Add(String.Format("{0} will die", this.NameFull)); }
 
         public virtual void OnAttacked(Iunit bywho) { LOGS.Add(String.Format("{0} was attacked by {1}", this.NameFull, bywho.NameFull)); }
+
+        public virtual void AfterAttacked(Iunit bywho) { LOGS.Add(String.Format("{0} was already attacked by {1}", this.NameFull, bywho.NameFull)); }
 
         public int DistanceTo(Abstraceunit another, bool isMovement)
         {
