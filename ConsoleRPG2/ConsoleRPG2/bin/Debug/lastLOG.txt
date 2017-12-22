@@ -1,1331 +1,389 @@
-[1]"Tyvenier, the Barbarian" recieved "blood rage" buff from [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" joined the battle	(for team 1)
-[2]"Tixan, the Barbarian" recieved "blood rage" buff from [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (10,10) -> (9,6)
-[2]"Tixan, the Barbarian" moves (4,1) -> (6,3)
-[1]"Tyvenier, the Barbarian" moves (9,6) -> (6,4)
-[2]"Tixan, the Barbarian" moves (6,3) -> (5,3)
-[1]"Tyvenier, the Barbarian" will attack [2]"Tixan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" was hited
-[2]"Tixan, the Barbarian" was damaged for 60 (blocked 21), 100 -> 61/100 HP left
-[2]"Tixan, the Barbarian"'s HP changed
-[2]"Tixan, the Barbarian" get +39 DMG buff from "blood rage"
-[2]"Tixan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 50 DMG!
-[2]"Tixan, the Barbarian" will attack [1]"Tyvenier, the Barbarian" in a second
-[2]"Tixan, the Barbarian" attacks [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" was attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" was hited
-[1]"Tyvenier, the Barbarian" was damaged for 50 (blocked 18), 100 -> 68/100 HP left
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" get +32 DMG buff from "blood rage"
-[1]"Tyvenier, the Barbarian" was already attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" counterattacked [2]"Tixan, the Barbarian" for 46 DMG!
-[1]"Tyvenier, the Barbarian" will attack [2]"Tixan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" was hited
-[2]"Tixan, the Barbarian" was damaged for 46 (blocked 17), 61 -> 32/100 HP left
-[2]"Tixan, the Barbarian"'s HP changed
-[2]"Tixan, the Barbarian" get +29 DMG buff from "blood rage"
-[2]"Tixan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 40 DMG!
-[2]"Tixan, the Barbarian" will attack [1]"Tyvenier, the Barbarian" in a second
-[2]"Tixan, the Barbarian" attacks [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" was attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" was hited
-[1]"Tyvenier, the Barbarian" was damaged for 40 (blocked 14), 68 -> 42/100 HP left
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" get +26 DMG buff from "blood rage"
-[1]"Tyvenier, the Barbarian" was already attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" counterattacked [2]"Tixan, the Barbarian" for 36 DMG!
-[1]"Tyvenier, the Barbarian" will attack [2]"Tixan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" was hited
-[2]"Tixan, the Barbarian" was damaged for 36 (blocked 13), 32 -> 9/100 HP left
-[2]"Tixan, the Barbarian"'s HP changed
-[2]"Tixan, the Barbarian" get +23 DMG buff from "blood rage"
-[2]"Tixan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 32 DMG!
-[2]"Tixan, the Barbarian" will attack [1]"Tyvenier, the Barbarian" in a second
-[2]"Tixan, the Barbarian" attacks [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" was attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" was hited
-[1]"Tyvenier, the Barbarian" was damaged for 32 (blocked 12), 42 -> 22/100 HP left
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" get +20 DMG buff from "blood rage"
-[1]"Tyvenier, the Barbarian" was already attacked by [2]"Tixan, the Barbarian"
-[1]"Tyvenier, the Barbarian" counterattacked [2]"Tixan, the Barbarian" for 28 DMG!
-[1]"Tyvenier, the Barbarian" will attack [2]"Tixan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[2]"Tixan, the Barbarian" was hited
-[2]"Tixan, the Barbarian" was damaged for 28 (blocked 10), 9 -> 0/100 HP left
-[2]"Tixan, the Barbarian"'s HP changed
-[2]"Tixan, the Barbarian" loosed "blood rage" buff from [2]"Tixan, the Barbarian"
-[2]"Tixan, the Barbarian" will die
-[2]"Tixan, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" get +-1 DMG buff from "blood rage"
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 23/100
-[3]"Loxotarield, the Barbarian" recieved "blood rage" buff from [3]"Loxotarield, the Barbarian"
-[3]"Loxotarield, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (6,4) -> (2,3)
-[3]"Loxotarield, the Barbarian" moves (1,1) -> (1,2)
-[1]"Tyvenier, the Barbarian" will attack [3]"Loxotarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [3]"Loxotarield, the Barbarian"
-[3]"Loxotarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[3]"Loxotarield, the Barbarian" was hited
-[3]"Loxotarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[3]"Loxotarield, the Barbarian"'s HP changed
-[3]"Loxotarield, the Barbarian" get +89 DMG buff from "blood rage"
-[3]"Loxotarield, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[3]"Loxotarield, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[3]"Loxotarield, the Barbarian" will attack [1]"Tyvenier, the Barbarian" in a second
-[3]"Loxotarield, the Barbarian" attacks [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" was attacked by [3]"Loxotarield, the Barbarian"
-[1]"Tyvenier, the Barbarian" was hited
-[1]"Tyvenier, the Barbarian" was damaged for 75 (blocked 27), 23 -> 0/100 HP left
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" loosed "blood rage" buff from [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" will die
-[1]"Tyvenier, the Barbarian" died.
-[1]"Tyvenier, the Barbarian" will attack [3]"Loxotarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [3]"Loxotarield, the Barbarian"
-[3]"Loxotarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[3]"Loxotarield, the Barbarian" was hited
-[3]"Loxotarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[3]"Loxotarield, the Barbarian"'s HP changed
-[3]"Loxotarield, the Barbarian" loosed "blood rage" buff from [3]"Loxotarield, the Barbarian"
-[3]"Loxotarield, the Barbarian" will die
-[3]"Loxotarield, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 1/100
-[4]"Ibarield, the Barbarian" recieved "blood rage" buff from [4]"Ibarield, the Barbarian"
-[4]"Ibarield, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (2,3) -> (5,5)
-[4]"Ibarield, the Barbarian" moves (19,19) -> (16,17)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 2/100
-[1]"Tyvenier, the Barbarian" moves (5,5) -> (7,8)
-[4]"Ibarield, the Barbarian" moves (16,17) -> (13,15)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 3/100
-[1]"Tyvenier, the Barbarian" moves (7,8) -> (9,11)
-[4]"Ibarield, the Barbarian" moves (13,15) -> (10,13)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 4/100
-[1]"Tyvenier, the Barbarian" moves (9,11) -> (9,12)
-[4]"Ibarield, the Barbarian" moves (10,13) -> (8,11)
-[1]"Tyvenier, the Barbarian" will attack [4]"Ibarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [4]"Ibarield, the Barbarian"
-[4]"Ibarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[4]"Ibarield, the Barbarian" was hited
-[4]"Ibarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[4]"Ibarield, the Barbarian"'s HP changed
-[4]"Ibarield, the Barbarian" get +89 DMG buff from "blood rage"
-[4]"Ibarield, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[4]"Ibarield, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [4]"Ibarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [4]"Ibarield, the Barbarian"
-[4]"Ibarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[4]"Ibarield, the Barbarian" was hited
-[4]"Ibarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[4]"Ibarield, the Barbarian"'s HP changed
-[4]"Ibarield, the Barbarian" loosed "blood rage" buff from [4]"Ibarield, the Barbarian"
-[4]"Ibarield, the Barbarian" will die
-[4]"Ibarield, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 5/100
-[5]"Ozous, the Barbarian" recieved "blood rage" buff from [5]"Ozous, the Barbarian"
-[5]"Ozous, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (9,12) -> (13,13)
-[5]"Ozous, the Barbarian" moves (19,19) -> (16,17)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 6/100
-[1]"Tyvenier, the Barbarian" moves (13,13) -> (15,16)
-[5]"Ozous, the Barbarian" moves (16,17) -> (14,15)
-[1]"Tyvenier, the Barbarian" will attack [5]"Ozous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [5]"Ozous, the Barbarian"
-[5]"Ozous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[5]"Ozous, the Barbarian" was hited
-[5]"Ozous, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[5]"Ozous, the Barbarian"'s HP changed
-[5]"Ozous, the Barbarian" get +89 DMG buff from "blood rage"
-[5]"Ozous, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[5]"Ozous, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [5]"Ozous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [5]"Ozous, the Barbarian"
-[5]"Ozous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[5]"Ozous, the Barbarian" was hited
-[5]"Ozous, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[5]"Ozous, the Barbarian"'s HP changed
-[5]"Ozous, the Barbarian" loosed "blood rage" buff from [5]"Ozous, the Barbarian"
-[5]"Ozous, the Barbarian" will die
-[5]"Ozous, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 7/100
-[6]"Ymutom, the Barbarian" recieved "blood rage" buff from [6]"Ymutom, the Barbarian"
-[6]"Ymutom, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (15,16) -> (15,11)
-[6]"Ymutom, the Barbarian" moves (11,1) -> (11,6)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 8/100
-[1]"Tyvenier, the Barbarian" moves (15,11) -> (13,8)
-[6]"Ymutom, the Barbarian" moves (11,6) -> (12,7)
-[1]"Tyvenier, the Barbarian" will attack [6]"Ymutom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [6]"Ymutom, the Barbarian"
-[6]"Ymutom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[6]"Ymutom, the Barbarian" was hited
-[6]"Ymutom, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[6]"Ymutom, the Barbarian"'s HP changed
-[6]"Ymutom, the Barbarian" get +89 DMG buff from "blood rage"
-[6]"Ymutom, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[6]"Ymutom, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [6]"Ymutom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [6]"Ymutom, the Barbarian"
-[6]"Ymutom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[6]"Ymutom, the Barbarian" was hited
-[6]"Ymutom, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[6]"Ymutom, the Barbarian"'s HP changed
-[6]"Ymutom, the Barbarian" loosed "blood rage" buff from [6]"Ymutom, the Barbarian"
-[6]"Ymutom, the Barbarian" will die
-[6]"Ymutom, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 9/100
-[7]"Rumusarield, the Barbarian" recieved "blood rage" buff from [7]"Rumusarield, the Barbarian"
-[7]"Rumusarield, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (13,8) -> (11,11)
-[7]"Rumusarield, the Barbarian" moves (3,19) -> (5,16)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 10/100
-[1]"Tyvenier, the Barbarian" moves (11,11) -> (8,13)
-[7]"Rumusarield, the Barbarian" moves (5,16) -> (7,13)
-[1]"Tyvenier, the Barbarian" will attack [7]"Rumusarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [7]"Rumusarield, the Barbarian"
-[7]"Rumusarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[7]"Rumusarield, the Barbarian" was hited
-[7]"Rumusarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[7]"Rumusarield, the Barbarian"'s HP changed
-[7]"Rumusarield, the Barbarian" get +89 DMG buff from "blood rage"
-[7]"Rumusarield, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[7]"Rumusarield, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [7]"Rumusarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [7]"Rumusarield, the Barbarian"
-[7]"Rumusarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[7]"Rumusarield, the Barbarian" was hited
-[7]"Rumusarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[7]"Rumusarield, the Barbarian"'s HP changed
-[7]"Rumusarield, the Barbarian" loosed "blood rage" buff from [7]"Rumusarield, the Barbarian"
-[7]"Rumusarield, the Barbarian" will die
-[7]"Rumusarield, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 11/100
-[8]"Famarield, the Barbarian" recieved "blood rage" buff from [8]"Famarield, the Barbarian"
-[8]"Famarield, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (8,13) -> (4,12)
-[8]"Famarield, the Barbarian" moves (1,9) -> (3,11)
-[1]"Tyvenier, the Barbarian" will attack [8]"Famarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [8]"Famarield, the Barbarian"
-[8]"Famarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[8]"Famarield, the Barbarian" was hited
-[8]"Famarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[8]"Famarield, the Barbarian"'s HP changed
-[8]"Famarield, the Barbarian" get +89 DMG buff from "blood rage"
-[8]"Famarield, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[8]"Famarield, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [8]"Famarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [8]"Famarield, the Barbarian"
-[8]"Famarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[8]"Famarield, the Barbarian" was hited
-[8]"Famarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[8]"Famarield, the Barbarian"'s HP changed
-[8]"Famarield, the Barbarian" loosed "blood rage" buff from [8]"Famarield, the Barbarian"
-[8]"Famarield, the Barbarian" will die
-[8]"Famarield, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 12/100
-[9]"Ycazosey, the Barbarian" recieved "blood rage" buff from [9]"Ycazosey, the Barbarian"
-[9]"Ycazosey, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (4,12) -> (4,7)
-[9]"Ycazosey, the Barbarian" moves (1,1) -> (2,5)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 13/100
-[1]"Tyvenier, the Barbarian" moves (4,7) -> (1,5)
-[9]"Ycazosey, the Barbarian" moves (2,5) -> (0,4)
-[1]"Tyvenier, the Barbarian" will attack [9]"Ycazosey, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [9]"Ycazosey, the Barbarian"
-[9]"Ycazosey, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[9]"Ycazosey, the Barbarian" was hited
-[9]"Ycazosey, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[9]"Ycazosey, the Barbarian"'s HP changed
-[9]"Ycazosey, the Barbarian" get +89 DMG buff from "blood rage"
-[9]"Ycazosey, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[9]"Ycazosey, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [9]"Ycazosey, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [9]"Ycazosey, the Barbarian"
-[9]"Ycazosey, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[9]"Ycazosey, the Barbarian" was hited
-[9]"Ycazosey, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[9]"Ycazosey, the Barbarian"'s HP changed
-[9]"Ycazosey, the Barbarian" loosed "blood rage" buff from [9]"Ycazosey, the Barbarian"
-[9]"Ycazosey, the Barbarian" will die
-[9]"Ycazosey, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 14/100
-[10]"Caxyjjsilii, the Barbarian" recieved "blood rage" buff from [10]"Caxyjjsilii, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (1,5) -> (1,10)
-[10]"Caxyjjsilii, the Barbarian" moves (1,16) -> (1,11)
-[1]"Tyvenier, the Barbarian" will attack [10]"Caxyjjsilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [10]"Caxyjjsilii, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" was hited
-[10]"Caxyjjsilii, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[10]"Caxyjjsilii, the Barbarian"'s HP changed
-[10]"Caxyjjsilii, the Barbarian" get +89 DMG buff from "blood rage"
-[10]"Caxyjjsilii, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [10]"Caxyjjsilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [10]"Caxyjjsilii, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" was hited
-[10]"Caxyjjsilii, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[10]"Caxyjjsilii, the Barbarian"'s HP changed
-[10]"Caxyjjsilii, the Barbarian" loosed "blood rage" buff from [10]"Caxyjjsilii, the Barbarian"
-[10]"Caxyjjsilii, the Barbarian" will die
-[10]"Caxyjjsilii, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 15/100
-[11]"Mibenier, the Barbarian" recieved "blood rage" buff from [11]"Mibenier, the Barbarian"
-[11]"Mibenier, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (1,10) -> (1,15)
-[11]"Mibenier, the Barbarian" moves (1,16) -> (0,14)
-[1]"Tyvenier, the Barbarian" will attack [11]"Mibenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [11]"Mibenier, the Barbarian"
-[11]"Mibenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[11]"Mibenier, the Barbarian" was hited
-[11]"Mibenier, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[11]"Mibenier, the Barbarian"'s HP changed
-[11]"Mibenier, the Barbarian" get +89 DMG buff from "blood rage"
-[11]"Mibenier, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[11]"Mibenier, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [11]"Mibenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [11]"Mibenier, the Barbarian"
-[11]"Mibenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[11]"Mibenier, the Barbarian" was hited
-[11]"Mibenier, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[11]"Mibenier, the Barbarian"'s HP changed
-[11]"Mibenier, the Barbarian" loosed "blood rage" buff from [11]"Mibenier, the Barbarian"
-[11]"Mibenier, the Barbarian" will die
-[11]"Mibenier, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 16/100
-[12]"Ukovenier, the Barbarian" recieved "blood rage" buff from [12]"Ukovenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (1,15) -> (5,15)
-[12]"Ukovenier, the Barbarian" moves (9,19) -> (6,17)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 17/100
-[1]"Tyvenier, the Barbarian" moves (5,15) -> (5,16)
-[12]"Ukovenier, the Barbarian" moves (6,17) -> (4,15)
-[1]"Tyvenier, the Barbarian" will attack [12]"Ukovenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [12]"Ukovenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" was hited
-[12]"Ukovenier, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[12]"Ukovenier, the Barbarian"'s HP changed
-[12]"Ukovenier, the Barbarian" get +89 DMG buff from "blood rage"
-[12]"Ukovenier, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [12]"Ukovenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [12]"Ukovenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" was hited
-[12]"Ukovenier, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[12]"Ukovenier, the Barbarian"'s HP changed
-[12]"Ukovenier, the Barbarian" loosed "blood rage" buff from [12]"Ukovenier, the Barbarian"
-[12]"Ukovenier, the Barbarian" will die
-[12]"Ukovenier, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 18/100
-[13]"Segous, the Barbarian" recieved "blood rage" buff from [13]"Segous, the Barbarian"
-[13]"Segous, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (5,16) -> (10,16)
-[13]"Segous, the Barbarian" moves (13,19) -> (10,17)
-[1]"Tyvenier, the Barbarian" will attack [13]"Segous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [13]"Segous, the Barbarian"
-[13]"Segous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[13]"Segous, the Barbarian" was hited
-[13]"Segous, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[13]"Segous, the Barbarian"'s HP changed
-[13]"Segous, the Barbarian" get +89 DMG buff from "blood rage"
-[13]"Segous, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[13]"Segous, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [13]"Segous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [13]"Segous, the Barbarian"
-[13]"Segous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[13]"Segous, the Barbarian" was hited
-[13]"Segous, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[13]"Segous, the Barbarian"'s HP changed
-[13]"Segous, the Barbarian" loosed "blood rage" buff from [13]"Segous, the Barbarian"
-[13]"Segous, the Barbarian" will die
-[13]"Segous, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 19/100
-[14]"Yrya, the Barbarian" recieved "blood rage" buff from [14]"Yrya, the Barbarian"
-[14]"Yrya, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (10,16) -> (10,11)
-[14]"Yrya, the Barbarian" moves (13,1) -> (13,6)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 20/100
-[1]"Tyvenier, the Barbarian" moves (10,11) -> (11,7)
-[14]"Yrya, the Barbarian" moves (13,6) -> (10,6)
-[1]"Tyvenier, the Barbarian" will attack [14]"Yrya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [14]"Yrya, the Barbarian"
-[14]"Yrya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[14]"Yrya, the Barbarian" was hited
-[14]"Yrya, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[14]"Yrya, the Barbarian"'s HP changed
-[14]"Yrya, the Barbarian" get +89 DMG buff from "blood rage"
-[14]"Yrya, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[14]"Yrya, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [14]"Yrya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [14]"Yrya, the Barbarian"
-[14]"Yrya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[14]"Yrya, the Barbarian" was hited
-[14]"Yrya, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[14]"Yrya, the Barbarian"'s HP changed
-[14]"Yrya, the Barbarian" loosed "blood rage" buff from [14]"Yrya, the Barbarian"
-[14]"Yrya, the Barbarian" will die
-[14]"Yrya, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 21/100
-[15]"Kilazon, the Barbarian" recieved "blood rage" buff from [15]"Kilazon, the Barbarian"
-[15]"Kilazon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (11,7) -> (11,2)
-[15]"Kilazon, the Barbarian" moves (13,1) -> (10,1)
-[1]"Tyvenier, the Barbarian" will attack [15]"Kilazon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [15]"Kilazon, the Barbarian"
-[15]"Kilazon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[15]"Kilazon, the Barbarian" was hited
-[15]"Kilazon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[15]"Kilazon, the Barbarian"'s HP changed
-[15]"Kilazon, the Barbarian" get +89 DMG buff from "blood rage"
-[15]"Kilazon, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[15]"Kilazon, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [15]"Kilazon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [15]"Kilazon, the Barbarian"
-[15]"Kilazon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[15]"Kilazon, the Barbarian" was hited
-[15]"Kilazon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[15]"Kilazon, the Barbarian"'s HP changed
-[15]"Kilazon, the Barbarian" loosed "blood rage" buff from [15]"Kilazon, the Barbarian"
-[15]"Kilazon, the Barbarian" will die
-[15]"Kilazon, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 22/100
-[16]"Zyhihous, the Barbarian" recieved "blood rage" buff from [16]"Zyhihous, the Barbarian"
-[16]"Zyhihous, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (11,2) -> (16,2)
-[16]"Zyhihous, the Barbarian" moves (19,1) -> (15,1)
-[1]"Tyvenier, the Barbarian" will attack [16]"Zyhihous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [16]"Zyhihous, the Barbarian"
-[16]"Zyhihous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[16]"Zyhihous, the Barbarian" was hited
-[16]"Zyhihous, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[16]"Zyhihous, the Barbarian"'s HP changed
-[16]"Zyhihous, the Barbarian" get +89 DMG buff from "blood rage"
-[16]"Zyhihous, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[16]"Zyhihous, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [16]"Zyhihous, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [16]"Zyhihous, the Barbarian"
-[16]"Zyhihous, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[16]"Zyhihous, the Barbarian" was hited
-[16]"Zyhihous, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[16]"Zyhihous, the Barbarian"'s HP changed
-[16]"Zyhihous, the Barbarian" loosed "blood rage" buff from [16]"Zyhihous, the Barbarian"
-[16]"Zyhihous, the Barbarian" will die
-[16]"Zyhihous, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 23/100
-[17]"Xekya, the Barbarian" recieved "blood rage" buff from [17]"Xekya, the Barbarian"
-[17]"Xekya, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (16,2) -> (16,7)
-[17]"Xekya, the Barbarian" moves (15,19) -> (15,14)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 24/100
-[1]"Tyvenier, the Barbarian" moves (16,7) -> (16,12)
-[17]"Xekya, the Barbarian" moves (15,14) -> (15,11)
-[1]"Tyvenier, the Barbarian" will attack [17]"Xekya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [17]"Xekya, the Barbarian"
-[17]"Xekya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[17]"Xekya, the Barbarian" was hited
-[17]"Xekya, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[17]"Xekya, the Barbarian"'s HP changed
-[17]"Xekya, the Barbarian" get +89 DMG buff from "blood rage"
-[17]"Xekya, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[17]"Xekya, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [17]"Xekya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [17]"Xekya, the Barbarian"
-[17]"Xekya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[17]"Xekya, the Barbarian" was hited
-[17]"Xekya, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[17]"Xekya, the Barbarian"'s HP changed
-[17]"Xekya, the Barbarian" loosed "blood rage" buff from [17]"Xekya, the Barbarian"
-[17]"Xekya, the Barbarian" will die
-[17]"Xekya, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 25/100
-[18]"Epan, the Barbarian" recieved "blood rage" buff from [18]"Epan, the Barbarian"
-[18]"Epan, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (16,12) -> (16,7)
-[18]"Epan, the Barbarian" moves (15,1) -> (15,6)
-[1]"Tyvenier, the Barbarian" will attack [18]"Epan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [18]"Epan, the Barbarian"
-[18]"Epan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[18]"Epan, the Barbarian" was hited
-[18]"Epan, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[18]"Epan, the Barbarian"'s HP changed
-[18]"Epan, the Barbarian" get +89 DMG buff from "blood rage"
-[18]"Epan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[18]"Epan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [18]"Epan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [18]"Epan, the Barbarian"
-[18]"Epan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[18]"Epan, the Barbarian" was hited
-[18]"Epan, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[18]"Epan, the Barbarian"'s HP changed
-[18]"Epan, the Barbarian" loosed "blood rage" buff from [18]"Epan, the Barbarian"
-[18]"Epan, the Barbarian" will die
-[18]"Epan, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 26/100
-[19]"Gujulan, the Barbarian" recieved "blood rage" buff from [19]"Gujulan, the Barbarian"
-[19]"Gujulan, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (16,7) -> (17,3)
-[19]"Gujulan, the Barbarian" moves (19,1) -> (16,2)
-[1]"Tyvenier, the Barbarian" will attack [19]"Gujulan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [19]"Gujulan, the Barbarian"
-[19]"Gujulan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[19]"Gujulan, the Barbarian" was hited
-[19]"Gujulan, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[19]"Gujulan, the Barbarian"'s HP changed
-[19]"Gujulan, the Barbarian" get +89 DMG buff from "blood rage"
-[19]"Gujulan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[19]"Gujulan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [19]"Gujulan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [19]"Gujulan, the Barbarian"
-[19]"Gujulan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[19]"Gujulan, the Barbarian" was hited
-[19]"Gujulan, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[19]"Gujulan, the Barbarian"'s HP changed
-[19]"Gujulan, the Barbarian" loosed "blood rage" buff from [19]"Gujulan, the Barbarian"
-[19]"Gujulan, the Barbarian" will die
-[19]"Gujulan, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 27/100
-[20]"Asizald, the Barbarian" recieved "blood rage" buff from [20]"Asizald, the Barbarian"
-[20]"Asizald, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (17,3) -> (17,8)
-[20]"Asizald, the Barbarian" moves (19,18) -> (19,13)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 28/100
-[1]"Tyvenier, the Barbarian" moves (17,8) -> (18,12)
-[20]"Asizald, the Barbarian" moves (19,13) -> (17,11)
-[1]"Tyvenier, the Barbarian" will attack [20]"Asizald, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [20]"Asizald, the Barbarian"
-[20]"Asizald, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[20]"Asizald, the Barbarian" was hited
-[20]"Asizald, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[20]"Asizald, the Barbarian"'s HP changed
-[20]"Asizald, the Barbarian" get +89 DMG buff from "blood rage"
-[20]"Asizald, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[20]"Asizald, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [20]"Asizald, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [20]"Asizald, the Barbarian"
-[20]"Asizald, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[20]"Asizald, the Barbarian" was hited
-[20]"Asizald, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[20]"Asizald, the Barbarian"'s HP changed
-[20]"Asizald, the Barbarian" loosed "blood rage" buff from [20]"Asizald, the Barbarian"
-[20]"Asizald, the Barbarian" will die
-[20]"Asizald, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 29/100
-[21]"Wufucalias, the Barbarian" recieved "blood rage" buff from [21]"Wufucalias, the Barbarian"
-[21]"Wufucalias, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (18,12) -> (13,12)
-[21]"Wufucalias, the Barbarian" moves (2,1) -> (4,3)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 30/100
-[1]"Tyvenier, the Barbarian" moves (13,12) -> (10,10)
-[21]"Wufucalias, the Barbarian" moves (4,3) -> (6,6)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 31/100
-[1]"Tyvenier, the Barbarian" moves (10,10) -> (7,8)
-[21]"Wufucalias, the Barbarian" moves (6,6) -> (6,7)
-[1]"Tyvenier, the Barbarian" will attack [21]"Wufucalias, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [21]"Wufucalias, the Barbarian"
-[21]"Wufucalias, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[21]"Wufucalias, the Barbarian" was hited
-[21]"Wufucalias, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[21]"Wufucalias, the Barbarian"'s HP changed
-[21]"Wufucalias, the Barbarian" get +89 DMG buff from "blood rage"
-[21]"Wufucalias, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[21]"Wufucalias, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [21]"Wufucalias, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [21]"Wufucalias, the Barbarian"
-[21]"Wufucalias, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[21]"Wufucalias, the Barbarian" was hited
-[21]"Wufucalias, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[21]"Wufucalias, the Barbarian"'s HP changed
-[21]"Wufucalias, the Barbarian" loosed "blood rage" buff from [21]"Wufucalias, the Barbarian"
-[21]"Wufucalias, the Barbarian" will die
-[21]"Wufucalias, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 32/100
-[22]"Kiney, the Barbarian" recieved "blood rage" buff from [22]"Kiney, the Barbarian"
-[22]"Kiney, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (7,8) -> (7,13)
-[22]"Kiney, the Barbarian" moves (11,19) -> (9,16)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 33/100
-[1]"Tyvenier, the Barbarian" moves (7,13) -> (8,15)
-[22]"Kiney, the Barbarian" moves (9,16) -> (7,14)
-[1]"Tyvenier, the Barbarian" will attack [22]"Kiney, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [22]"Kiney, the Barbarian"
-[22]"Kiney, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[22]"Kiney, the Barbarian" was hited
-[22]"Kiney, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[22]"Kiney, the Barbarian"'s HP changed
-[22]"Kiney, the Barbarian" get +89 DMG buff from "blood rage"
-[22]"Kiney, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[22]"Kiney, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [22]"Kiney, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [22]"Kiney, the Barbarian"
-[22]"Kiney, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[22]"Kiney, the Barbarian" was hited
-[22]"Kiney, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[22]"Kiney, the Barbarian"'s HP changed
-[22]"Kiney, the Barbarian" loosed "blood rage" buff from [22]"Kiney, the Barbarian"
-[22]"Kiney, the Barbarian" will die
-[22]"Kiney, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 34/100
-[23]"Insilii, the Barbarian" recieved "blood rage" buff from [23]"Insilii, the Barbarian"
-[23]"Insilii, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (8,15) -> (8,10)
-[23]"Insilii, the Barbarian" moves (13,1) -> (12,5)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 35/100
-[1]"Tyvenier, the Barbarian" moves (8,10) -> (10,7)
-[23]"Insilii, the Barbarian" moves (12,5) -> (9,6)
-[1]"Tyvenier, the Barbarian" will attack [23]"Insilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [23]"Insilii, the Barbarian"
-[23]"Insilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[23]"Insilii, the Barbarian" was hited
-[23]"Insilii, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[23]"Insilii, the Barbarian"'s HP changed
-[23]"Insilii, the Barbarian" get +89 DMG buff from "blood rage"
-[23]"Insilii, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[23]"Insilii, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [23]"Insilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [23]"Insilii, the Barbarian"
-[23]"Insilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[23]"Insilii, the Barbarian" was hited
-[23]"Insilii, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[23]"Insilii, the Barbarian"'s HP changed
-[23]"Insilii, the Barbarian" loosed "blood rage" buff from [23]"Insilii, the Barbarian"
-[23]"Insilii, the Barbarian" will die
-[23]"Insilii, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 36/100
-[24]"Azsilii, the Barbarian" recieved "blood rage" buff from [24]"Azsilii, the Barbarian"
-[24]"Azsilii, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (10,7) -> (10,12)
-[24]"Azsilii, the Barbarian" moves (3,19) -> (5,16)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 37/100
-[1]"Tyvenier, the Barbarian" moves (10,12) -> (7,14)
-[24]"Azsilii, the Barbarian" moves (5,16) -> (6,13)
-[1]"Tyvenier, the Barbarian" will attack [24]"Azsilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [24]"Azsilii, the Barbarian"
-[24]"Azsilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[24]"Azsilii, the Barbarian" was hited
-[24]"Azsilii, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[24]"Azsilii, the Barbarian"'s HP changed
-[24]"Azsilii, the Barbarian" get +89 DMG buff from "blood rage"
-[24]"Azsilii, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[24]"Azsilii, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [24]"Azsilii, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [24]"Azsilii, the Barbarian"
-[24]"Azsilii, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[24]"Azsilii, the Barbarian" was hited
-[24]"Azsilii, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[24]"Azsilii, the Barbarian"'s HP changed
-[24]"Azsilii, the Barbarian" loosed "blood rage" buff from [24]"Azsilii, the Barbarian"
-[24]"Azsilii, the Barbarian" will die
-[24]"Azsilii, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 38/100
-[25]"Owomaqenier, the Barbarian" recieved "blood rage" buff from [25]"Owomaqenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (7,14) -> (6,18)
-[25]"Owomaqenier, the Barbarian" moves (7,19) -> (5,17)
-[1]"Tyvenier, the Barbarian" will attack [25]"Owomaqenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [25]"Owomaqenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" was hited
-[25]"Owomaqenier, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[25]"Owomaqenier, the Barbarian"'s HP changed
-[25]"Owomaqenier, the Barbarian" get +89 DMG buff from "blood rage"
-[25]"Owomaqenier, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [25]"Owomaqenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [25]"Owomaqenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" was hited
-[25]"Owomaqenier, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[25]"Owomaqenier, the Barbarian"'s HP changed
-[25]"Owomaqenier, the Barbarian" loosed "blood rage" buff from [25]"Owomaqenier, the Barbarian"
-[25]"Owomaqenier, the Barbarian" will die
-[25]"Owomaqenier, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 39/100
-[26]"Fubagikondor, the Barbarian" recieved "blood rage" buff from [26]"Fubagikondor, the Barbarian"
-[26]"Fubagikondor, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (6,18) -> (6,13)
-[26]"Fubagikondor, the Barbarian" moves (10,1) -> (10,6)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 40/100
-[1]"Tyvenier, the Barbarian" moves (6,13) -> (7,9)
-[26]"Fubagikondor, the Barbarian" moves (10,6) -> (7,8)
-[1]"Tyvenier, the Barbarian" will attack [26]"Fubagikondor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [26]"Fubagikondor, the Barbarian"
-[26]"Fubagikondor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[26]"Fubagikondor, the Barbarian" was hited
-[26]"Fubagikondor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[26]"Fubagikondor, the Barbarian"'s HP changed
-[26]"Fubagikondor, the Barbarian" get +89 DMG buff from "blood rage"
-[26]"Fubagikondor, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[26]"Fubagikondor, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [26]"Fubagikondor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [26]"Fubagikondor, the Barbarian"
-[26]"Fubagikondor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[26]"Fubagikondor, the Barbarian" was hited
-[26]"Fubagikondor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[26]"Fubagikondor, the Barbarian"'s HP changed
-[26]"Fubagikondor, the Barbarian" loosed "blood rage" buff from [26]"Fubagikondor, the Barbarian"
-[26]"Fubagikondor, the Barbarian" will die
-[26]"Fubagikondor, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 41/100
-[27]"Emom, the Barbarian" recieved "blood rage" buff from [27]"Emom, the Barbarian"
-[27]"Emom, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (7,9) -> (10,10)
-[27]"Emom, the Barbarian" moves (19,19) -> (16,17)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 42/100
-[1]"Tyvenier, the Barbarian" moves (10,10) -> (12,13)
-[27]"Emom, the Barbarian" moves (16,17) -> (13,15)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 43/100
-[1]"Tyvenier, the Barbarian" moves (12,13) -> (12,14)
-[27]"Emom, the Barbarian" moves (13,15) -> (11,13)
-[1]"Tyvenier, the Barbarian" will attack [27]"Emom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [27]"Emom, the Barbarian"
-[27]"Emom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[27]"Emom, the Barbarian" was hited
-[27]"Emom, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[27]"Emom, the Barbarian"'s HP changed
-[27]"Emom, the Barbarian" get +89 DMG buff from "blood rage"
-[27]"Emom, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[27]"Emom, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [27]"Emom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [27]"Emom, the Barbarian"
-[27]"Emom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[27]"Emom, the Barbarian" was hited
-[27]"Emom, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[27]"Emom, the Barbarian"'s HP changed
-[27]"Emom, the Barbarian" loosed "blood rage" buff from [27]"Emom, the Barbarian"
-[27]"Emom, the Barbarian" will die
-[27]"Emom, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 44/100
-[28]"Hiqinaxxarield, the Barbarian" recieved "blood rage" buff from [28]"Hiqinaxxarield, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (12,14) -> (8,13)
-[28]"Hiqinaxxarield, the Barbarian" moves (1,5) -> (3,8)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 45/100
-[1]"Tyvenier, the Barbarian" moves (8,13) -> (5,11)
-[28]"Hiqinaxxarield, the Barbarian" moves (3,8) -> (4,10)
-[1]"Tyvenier, the Barbarian" will attack [28]"Hiqinaxxarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [28]"Hiqinaxxarield, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" was hited
-[28]"Hiqinaxxarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[28]"Hiqinaxxarield, the Barbarian"'s HP changed
-[28]"Hiqinaxxarield, the Barbarian" get +89 DMG buff from "blood rage"
-[28]"Hiqinaxxarield, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [28]"Hiqinaxxarield, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [28]"Hiqinaxxarield, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" was hited
-[28]"Hiqinaxxarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[28]"Hiqinaxxarield, the Barbarian"'s HP changed
-[28]"Hiqinaxxarield, the Barbarian" loosed "blood rage" buff from [28]"Hiqinaxxarield, the Barbarian"
-[28]"Hiqinaxxarield, the Barbarian" will die
-[28]"Hiqinaxxarield, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 46/100
-[29]"Ajan, the Barbarian" recieved "blood rage" buff from [29]"Ajan, the Barbarian"
-[29]"Ajan, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (5,11) -> (5,6)
-[29]"Ajan, the Barbarian" moves (7,1) -> (6,5)
-[1]"Tyvenier, the Barbarian" will attack [29]"Ajan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [29]"Ajan, the Barbarian"
-[29]"Ajan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[29]"Ajan, the Barbarian" was hited
-[29]"Ajan, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[29]"Ajan, the Barbarian"'s HP changed
-[29]"Ajan, the Barbarian" get +89 DMG buff from "blood rage"
-[29]"Ajan, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[29]"Ajan, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [29]"Ajan, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [29]"Ajan, the Barbarian"
-[29]"Ajan, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[29]"Ajan, the Barbarian" was hited
-[29]"Ajan, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[29]"Ajan, the Barbarian"'s HP changed
-[29]"Ajan, the Barbarian" loosed "blood rage" buff from [29]"Ajan, the Barbarian"
-[29]"Ajan, the Barbarian" will die
-[29]"Ajan, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 47/100
-[30]"Rywon, the Barbarian" recieved "blood rage" buff from [30]"Rywon, the Barbarian"
-[30]"Rywon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (5,6) -> (5,11)
-[30]"Rywon, the Barbarian" moves (12,19) -> (10,16)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 48/100
-[1]"Tyvenier, the Barbarian" moves (5,11) -> (7,13)
-[30]"Rywon, the Barbarian" moves (10,16) -> (7,14)
-[1]"Tyvenier, the Barbarian" will attack [30]"Rywon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [30]"Rywon, the Barbarian"
-[30]"Rywon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[30]"Rywon, the Barbarian" was hited
-[30]"Rywon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[30]"Rywon, the Barbarian"'s HP changed
-[30]"Rywon, the Barbarian" get +89 DMG buff from "blood rage"
-[30]"Rywon, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[30]"Rywon, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [30]"Rywon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [30]"Rywon, the Barbarian"
-[30]"Rywon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[30]"Rywon, the Barbarian" was hited
-[30]"Rywon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[30]"Rywon, the Barbarian"'s HP changed
-[30]"Rywon, the Barbarian" loosed "blood rage" buff from [30]"Rywon, the Barbarian"
-[30]"Rywon, the Barbarian" will die
-[30]"Rywon, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 49/100
-[31]"Gexald, the Barbarian" recieved "blood rage" buff from [31]"Gexald, the Barbarian"
-[31]"Gexald, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (7,13) -> (4,15)
-[31]"Gexald, the Barbarian" moves (1,18) -> (3,15)
-[1]"Tyvenier, the Barbarian" will attack [31]"Gexald, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [31]"Gexald, the Barbarian"
-[31]"Gexald, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[31]"Gexald, the Barbarian" was hited
-[31]"Gexald, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[31]"Gexald, the Barbarian"'s HP changed
-[31]"Gexald, the Barbarian" get +89 DMG buff from "blood rage"
-[31]"Gexald, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[31]"Gexald, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [31]"Gexald, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [31]"Gexald, the Barbarian"
-[31]"Gexald, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[31]"Gexald, the Barbarian" was hited
-[31]"Gexald, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[31]"Gexald, the Barbarian"'s HP changed
-[31]"Gexald, the Barbarian" loosed "blood rage" buff from [31]"Gexald, the Barbarian"
-[31]"Gexald, the Barbarian" will die
-[31]"Gexald, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 50/100
-[32]"Soqedom, the Barbarian" recieved "blood rage" buff from [32]"Soqedom, the Barbarian"
-[32]"Soqedom, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (4,15) -> (9,15)
-[32]"Soqedom, the Barbarian" moves (19,10) -> (14,10)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 51/100
-[1]"Tyvenier, the Barbarian" moves (9,15) -> (11,12)
-[32]"Soqedom, the Barbarian" moves (14,10) -> (10,11)
-[1]"Tyvenier, the Barbarian" will attack [32]"Soqedom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [32]"Soqedom, the Barbarian"
-[32]"Soqedom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[32]"Soqedom, the Barbarian" was hited
-[32]"Soqedom, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[32]"Soqedom, the Barbarian"'s HP changed
-[32]"Soqedom, the Barbarian" get +89 DMG buff from "blood rage"
-[32]"Soqedom, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[32]"Soqedom, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [32]"Soqedom, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [32]"Soqedom, the Barbarian"
-[32]"Soqedom, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[32]"Soqedom, the Barbarian" was hited
-[32]"Soqedom, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[32]"Soqedom, the Barbarian"'s HP changed
-[32]"Soqedom, the Barbarian" loosed "blood rage" buff from [32]"Soqedom, the Barbarian"
-[32]"Soqedom, the Barbarian" will die
-[32]"Soqedom, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 52/100
-[33]"Fomor, the Barbarian" recieved "blood rage" buff from [33]"Fomor, the Barbarian"
-[33]"Fomor, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (11,12) -> (12,8)
-[33]"Fomor, the Barbarian" moves (19,1) -> (16,3)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 53/100
-[1]"Tyvenier, the Barbarian" moves (12,8) -> (14,5)
-[33]"Fomor, the Barbarian" moves (16,3) -> (13,4)
-[1]"Tyvenier, the Barbarian" will attack [33]"Fomor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [33]"Fomor, the Barbarian"
-[33]"Fomor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[33]"Fomor, the Barbarian" was hited
-[33]"Fomor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[33]"Fomor, the Barbarian"'s HP changed
-[33]"Fomor, the Barbarian" get +89 DMG buff from "blood rage"
-[33]"Fomor, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[33]"Fomor, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [33]"Fomor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [33]"Fomor, the Barbarian"
-[33]"Fomor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[33]"Fomor, the Barbarian" was hited
-[33]"Fomor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[33]"Fomor, the Barbarian"'s HP changed
-[33]"Fomor, the Barbarian" loosed "blood rage" buff from [33]"Fomor, the Barbarian"
-[33]"Fomor, the Barbarian" will die
-[33]"Fomor, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 54/100
-[34]"Werenier, the Barbarian" recieved "blood rage" buff from [34]"Werenier, the Barbarian"
-[34]"Werenier, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (14,5) -> (12,2)
-[34]"Werenier, the Barbarian" moves (11,1) -> (11,2)
-[1]"Tyvenier, the Barbarian" will attack [34]"Werenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [34]"Werenier, the Barbarian"
-[34]"Werenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[34]"Werenier, the Barbarian" was hited
-[34]"Werenier, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[34]"Werenier, the Barbarian"'s HP changed
-[34]"Werenier, the Barbarian" get +89 DMG buff from "blood rage"
-[34]"Werenier, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[34]"Werenier, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [34]"Werenier, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [34]"Werenier, the Barbarian"
-[34]"Werenier, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[34]"Werenier, the Barbarian" was hited
-[34]"Werenier, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[34]"Werenier, the Barbarian"'s HP changed
-[34]"Werenier, the Barbarian" loosed "blood rage" buff from [34]"Werenier, the Barbarian"
-[34]"Werenier, the Barbarian" will die
-[34]"Werenier, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 55/100
-[35]"Oxotya, the Barbarian" recieved "blood rage" buff from [35]"Oxotya, the Barbarian"
-[35]"Oxotya, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (12,2) -> (12,7)
-[35]"Oxotya, the Barbarian" moves (2,19) -> (3,15)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 56/100
-[1]"Tyvenier, the Barbarian" moves (12,7) -> (9,9)
-[35]"Oxotya, the Barbarian" moves (3,15) -> (5,12)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 57/100
-[1]"Tyvenier, the Barbarian" moves (9,9) -> (6,11)
-[35]"Oxotya, the Barbarian" moves (5,12) -> (5,10)
-[1]"Tyvenier, the Barbarian" will attack [35]"Oxotya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [35]"Oxotya, the Barbarian"
-[35]"Oxotya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[35]"Oxotya, the Barbarian" was hited
-[35]"Oxotya, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[35]"Oxotya, the Barbarian"'s HP changed
-[35]"Oxotya, the Barbarian" get +89 DMG buff from "blood rage"
-[35]"Oxotya, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[35]"Oxotya, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [35]"Oxotya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [35]"Oxotya, the Barbarian"
-[35]"Oxotya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[35]"Oxotya, the Barbarian" was hited
-[35]"Oxotya, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[35]"Oxotya, the Barbarian"'s HP changed
-[35]"Oxotya, the Barbarian" loosed "blood rage" buff from [35]"Oxotya, the Barbarian"
-[35]"Oxotya, the Barbarian" will die
-[35]"Oxotya, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 58/100
-[36]"Fymon, the Barbarian" recieved "blood rage" buff from [36]"Fymon, the Barbarian"
-[36]"Fymon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (6,11) -> (11,11)
-[36]"Fymon, the Barbarian" moves (19,7) -> (14,7)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 59/100
-[1]"Tyvenier, the Barbarian" moves (11,11) -> (13,8)
-[36]"Fymon, the Barbarian" moves (14,7) -> (12,7)
-[1]"Tyvenier, the Barbarian" will attack [36]"Fymon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [36]"Fymon, the Barbarian"
-[36]"Fymon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[36]"Fymon, the Barbarian" was hited
-[36]"Fymon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[36]"Fymon, the Barbarian"'s HP changed
-[36]"Fymon, the Barbarian" get +89 DMG buff from "blood rage"
-[36]"Fymon, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[36]"Fymon, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [36]"Fymon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [36]"Fymon, the Barbarian"
-[36]"Fymon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[36]"Fymon, the Barbarian" was hited
-[36]"Fymon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[36]"Fymon, the Barbarian"'s HP changed
-[36]"Fymon, the Barbarian" loosed "blood rage" buff from [36]"Fymon, the Barbarian"
-[36]"Fymon, the Barbarian" will die
-[36]"Fymon, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 60/100
-[37]"Degyvefon, the Barbarian" recieved "blood rage" buff from [37]"Degyvefon, the Barbarian"
-[37]"Degyvefon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (13,8) -> (8,8)
-[37]"Degyvefon, the Barbarian" moves (1,5) -> (5,5)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 61/100
-[1]"Tyvenier, the Barbarian" moves (8,8) -> (5,6)
-[37]"Degyvefon, the Barbarian" moves (5,5) -> (4,5)
-[1]"Tyvenier, the Barbarian" will attack [37]"Degyvefon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [37]"Degyvefon, the Barbarian"
-[37]"Degyvefon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[37]"Degyvefon, the Barbarian" was hited
-[37]"Degyvefon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[37]"Degyvefon, the Barbarian"'s HP changed
-[37]"Degyvefon, the Barbarian" get +89 DMG buff from "blood rage"
-[37]"Degyvefon, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[37]"Degyvefon, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [37]"Degyvefon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [37]"Degyvefon, the Barbarian"
-[37]"Degyvefon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[37]"Degyvefon, the Barbarian" was hited
-[37]"Degyvefon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[37]"Degyvefon, the Barbarian"'s HP changed
-[37]"Degyvefon, the Barbarian" loosed "blood rage" buff from [37]"Degyvefon, the Barbarian"
-[37]"Degyvefon, the Barbarian" will die
-[37]"Degyvefon, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 62/100
-[38]"Dovekufey, the Barbarian" recieved "blood rage" buff from [38]"Dovekufey, the Barbarian"
-[38]"Dovekufey, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (5,6) -> (10,6)
-[38]"Dovekufey, the Barbarian" moves (19,15) -> (16,13)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 63/100
-[1]"Tyvenier, the Barbarian" moves (10,6) -> (12,9)
-[38]"Dovekufey, the Barbarian" moves (16,13) -> (13,11)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 64/100
-[1]"Tyvenier, the Barbarian" moves (12,9) -> (12,10)
-[38]"Dovekufey, the Barbarian" moves (13,11) -> (11,9)
-[1]"Tyvenier, the Barbarian" will attack [38]"Dovekufey, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [38]"Dovekufey, the Barbarian"
-[38]"Dovekufey, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[38]"Dovekufey, the Barbarian" was hited
-[38]"Dovekufey, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[38]"Dovekufey, the Barbarian"'s HP changed
-[38]"Dovekufey, the Barbarian" get +89 DMG buff from "blood rage"
-[38]"Dovekufey, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[38]"Dovekufey, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [38]"Dovekufey, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [38]"Dovekufey, the Barbarian"
-[38]"Dovekufey, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[38]"Dovekufey, the Barbarian" was hited
-[38]"Dovekufey, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[38]"Dovekufey, the Barbarian"'s HP changed
-[38]"Dovekufey, the Barbarian" loosed "blood rage" buff from [38]"Dovekufey, the Barbarian"
-[38]"Dovekufey, the Barbarian" will die
-[38]"Dovekufey, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 65/100
-[39]"Ison, the Barbarian" recieved "blood rage" buff from [39]"Ison, the Barbarian"
-[39]"Ison, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (12,10) -> (9,12)
-[39]"Ison, the Barbarian" moves (2,19) -> (4,16)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 66/100
-[1]"Tyvenier, the Barbarian" moves (9,12) -> (6,14)
-[39]"Ison, the Barbarian" moves (4,16) -> (5,13)
-[1]"Tyvenier, the Barbarian" will attack [39]"Ison, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [39]"Ison, the Barbarian"
-[39]"Ison, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[39]"Ison, the Barbarian" was hited
-[39]"Ison, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[39]"Ison, the Barbarian"'s HP changed
-[39]"Ison, the Barbarian" get +89 DMG buff from "blood rage"
-[39]"Ison, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[39]"Ison, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [39]"Ison, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [39]"Ison, the Barbarian"
-[39]"Ison, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[39]"Ison, the Barbarian" was hited
-[39]"Ison, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[39]"Ison, the Barbarian"'s HP changed
-[39]"Ison, the Barbarian" loosed "blood rage" buff from [39]"Ison, the Barbarian"
-[39]"Ison, the Barbarian" will die
-[39]"Ison, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 67/100
-[40]"Ohawya, the Barbarian" recieved "blood rage" buff from [40]"Ohawya, the Barbarian"
-[40]"Ohawya, the Barbarian" joined the battle	(for team 0)
-[41]"Usefor, the Barbarian" recieved "blood rage" buff from [41]"Usefor, the Barbarian"
-[41]"Usefor, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (6,14) -> (6,9)
-[40]"Ohawya, the Barbarian" moves (1,1) -> (2,5)
-[41]"Usefor, the Barbarian" moves (19,1) -> (14,1)
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 68/100
-[1]"Tyvenier, the Barbarian" moves (6,9) -> (4,6)
-[40]"Ohawya, the Barbarian" moves (2,5) -> (3,5)
-[41]"Usefor, the Barbarian" moves (14,1) -> (9,1)
-[1]"Tyvenier, the Barbarian" will attack [40]"Ohawya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [40]"Ohawya, the Barbarian"
-[40]"Ohawya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[40]"Ohawya, the Barbarian" was hited
-[40]"Ohawya, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[40]"Ohawya, the Barbarian"'s HP changed
-[40]"Ohawya, the Barbarian" get +89 DMG buff from "blood rage"
-[40]"Ohawya, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[40]"Ohawya, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [40]"Ohawya, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [40]"Ohawya, the Barbarian"
-[40]"Ohawya, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[40]"Ohawya, the Barbarian" was hited
-[40]"Ohawya, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[40]"Ohawya, the Barbarian"'s HP changed
-[40]"Ohawya, the Barbarian" loosed "blood rage" buff from [40]"Ohawya, the Barbarian"
-[40]"Ohawya, the Barbarian" will die
-[40]"Ohawya, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 69/100
-[42]"Nicajon, the Barbarian" recieved "blood rage" buff from [42]"Nicajon, the Barbarian"
-[42]"Nicajon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (4,6) -> (6,4)
-[41]"Usefor, the Barbarian" moves (9,1) -> (6,3)
-[42]"Nicajon, the Barbarian" moves (9,19) -> (9,14)
-[1]"Tyvenier, the Barbarian" will attack [41]"Usefor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [41]"Usefor, the Barbarian"
-[41]"Usefor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[41]"Usefor, the Barbarian" was hited
-[41]"Usefor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[41]"Usefor, the Barbarian"'s HP changed
-[41]"Usefor, the Barbarian" get +89 DMG buff from "blood rage"
-[41]"Usefor, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[41]"Usefor, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [41]"Usefor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [41]"Usefor, the Barbarian"
-[41]"Usefor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[41]"Usefor, the Barbarian" was hited
-[41]"Usefor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[41]"Usefor, the Barbarian"'s HP changed
-[41]"Usefor, the Barbarian" loosed "blood rage" buff from [41]"Usefor, the Barbarian"
-[41]"Usefor, the Barbarian" will die
-[41]"Usefor, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 70/100
-[43]"Sexondor, the Barbarian" recieved "blood rage" buff from [43]"Sexondor, the Barbarian"
-[43]"Sexondor, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (6,4) -> (3,6)
-[42]"Nicajon, the Barbarian" moves (9,14) -> (7,11)
-[43]"Sexondor, the Barbarian" moves (1,8) -> (2,5)
-[1]"Tyvenier, the Barbarian" will attack [43]"Sexondor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [43]"Sexondor, the Barbarian"
-[43]"Sexondor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[43]"Sexondor, the Barbarian" was hited
-[43]"Sexondor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[43]"Sexondor, the Barbarian"'s HP changed
-[43]"Sexondor, the Barbarian" get +89 DMG buff from "blood rage"
-[43]"Sexondor, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[43]"Sexondor, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [43]"Sexondor, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [43]"Sexondor, the Barbarian"
-[43]"Sexondor, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[43]"Sexondor, the Barbarian" was hited
-[43]"Sexondor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[43]"Sexondor, the Barbarian"'s HP changed
-[43]"Sexondor, the Barbarian" loosed "blood rage" buff from [43]"Sexondor, the Barbarian"
-[43]"Sexondor, the Barbarian" will die
-[43]"Sexondor, the Barbarian" died.
-[1]"Tyvenier, the Barbarian"'s HP changed
-[1]"Tyvenier, the Barbarian" was healed for 1 health up to 71/100
-[44]"Izon, the Barbarian" recieved "blood rage" buff from [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" joined the battle	(for team 0)
-[1]"Tyvenier, the Barbarian" moves (3,6) -> (2,10)
-[42]"Nicajon, the Barbarian" moves (7,11) -> (2,11)
-[44]"Izon, the Barbarian" moves (1,11) -> (1,9)
-[1]"Tyvenier, the Barbarian" will attack [42]"Nicajon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [42]"Nicajon, the Barbarian"
-[42]"Nicajon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[42]"Nicajon, the Barbarian" was hited
-[42]"Nicajon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[42]"Nicajon, the Barbarian"'s HP changed
-[42]"Nicajon, the Barbarian" get +89 DMG buff from "blood rage"
-[42]"Nicajon, the Barbarian" was already attacked by [1]"Tyvenier, the Barbarian"
-[42]"Nicajon, the Barbarian" counterattacked [1]"Tyvenier, the Barbarian" for 75 DMG!
-[1]"Tyvenier, the Barbarian" will attack [42]"Nicajon, the Barbarian" in a second
-[1]"Tyvenier, the Barbarian" attacks [42]"Nicajon, the Barbarian"
-[42]"Nicajon, the Barbarian" was attacked by [1]"Tyvenier, the Barbarian"
-[42]"Nicajon, the Barbarian" was hited
-[42]"Nicajon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[42]"Nicajon, the Barbarian"'s HP changed
-[42]"Nicajon, the Barbarian" loosed "blood rage" buff from [42]"Nicajon, the Barbarian"
-[42]"Nicajon, the Barbarian" will die
-[42]"Nicajon, the Barbarian" died.
-[44]"Izon, the Barbarian" will attack [1]"Tyvenier, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Tyvenier, the Barbarian"
-[1]"Tyvenier, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Tyvenier, the Barbarian" was hited
-[1]"Tyvenier, the Barbarian" was damaged for 60 (blocked 21), 71 -> 32/100 HP left
-[1]"Tyvenier, the Barbarian"'s HP changed
-Unit can't do anything - he is dead. (Индекс за пределами диапазона. Индекс должен быть положительным числом, а его размер не должен превышать размер коллекции.
-Имя параметра: index)
-[1]"Rubygald, the Barbarian" recieved "blood rage" buff from [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" joined the battle	(for team 1)
-[44]"Izon, the Barbarian" moves (1,9) -> (6,9)
-[1]"Rubygald, the Barbarian" moves (10,10) -> (5,10)
-[44]"Izon, the Barbarian" will attack [1]"Rubygald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" was hited
-[1]"Rubygald, the Barbarian" was damaged for 60 (blocked 21), 100 -> 61/100 HP left
-[1]"Rubygald, the Barbarian"'s HP changed
-[1]"Rubygald, the Barbarian" get +39 DMG buff from "blood rage"
-[1]"Rubygald, the Barbarian" was already attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" counterattacked [44]"Izon, the Barbarian" for 50 DMG!
-[1]"Rubygald, the Barbarian" will attack [44]"Izon, the Barbarian" in a second
-[1]"Rubygald, the Barbarian" attacks [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" was attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" was hited
-[44]"Izon, the Barbarian" was damaged for 50 (blocked 18), 100 -> 68/100 HP left
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" get +32 DMG buff from "blood rage"
-[44]"Izon, the Barbarian" was already attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" counterattacked [1]"Rubygald, the Barbarian" for 46 DMG!
-[44]"Izon, the Barbarian" will attack [1]"Rubygald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" was hited
-[1]"Rubygald, the Barbarian" was damaged for 46 (blocked 17), 61 -> 32/100 HP left
-[1]"Rubygald, the Barbarian"'s HP changed
-[1]"Rubygald, the Barbarian" get +29 DMG buff from "blood rage"
-[1]"Rubygald, the Barbarian" was already attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" counterattacked [44]"Izon, the Barbarian" for 40 DMG!
-[1]"Rubygald, the Barbarian" will attack [44]"Izon, the Barbarian" in a second
-[1]"Rubygald, the Barbarian" attacks [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" was attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" was hited
-[44]"Izon, the Barbarian" was damaged for 40 (blocked 14), 68 -> 42/100 HP left
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" get +26 DMG buff from "blood rage"
-[44]"Izon, the Barbarian" was already attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" counterattacked [1]"Rubygald, the Barbarian" for 36 DMG!
-[44]"Izon, the Barbarian" will attack [1]"Rubygald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" was hited
-[1]"Rubygald, the Barbarian" was damaged for 36 (blocked 13), 32 -> 9/100 HP left
-[1]"Rubygald, the Barbarian"'s HP changed
-[1]"Rubygald, the Barbarian" get +23 DMG buff from "blood rage"
-[1]"Rubygald, the Barbarian" was already attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" counterattacked [44]"Izon, the Barbarian" for 32 DMG!
-[1]"Rubygald, the Barbarian" will attack [44]"Izon, the Barbarian" in a second
-[1]"Rubygald, the Barbarian" attacks [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" was attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" was hited
-[44]"Izon, the Barbarian" was damaged for 32 (blocked 12), 42 -> 22/100 HP left
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" get +20 DMG buff from "blood rage"
-[44]"Izon, the Barbarian" was already attacked by [1]"Rubygald, the Barbarian"
-[44]"Izon, the Barbarian" counterattacked [1]"Rubygald, the Barbarian" for 28 DMG!
-[44]"Izon, the Barbarian" will attack [1]"Rubygald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Rubygald, the Barbarian" was hited
-[1]"Rubygald, the Barbarian" was damaged for 28 (blocked 10), 9 -> 0/100 HP left
-[1]"Rubygald, the Barbarian"'s HP changed
-[1]"Rubygald, the Barbarian" loosed "blood rage" buff from [1]"Rubygald, the Barbarian"
-[1]"Rubygald, the Barbarian" will die
-[1]"Rubygald, the Barbarian" died.
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" get +-1 DMG buff from "blood rage"
-[44]"Izon, the Barbarian" was healed for 1 health up to 23/100
-[1]"Idondor, the Barbarian" recieved "blood rage" buff from [1]"Idondor, the Barbarian"
-[1]"Idondor, the Barbarian" joined the battle	(for team 1)
-[44]"Izon, the Barbarian" moves (6,9) -> (9,9)
-[1]"Idondor, the Barbarian" moves (10,10) -> (8,8)
-[44]"Izon, the Barbarian" will attack [1]"Idondor, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Idondor, the Barbarian"
-[1]"Idondor, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Idondor, the Barbarian" was hited
-[1]"Idondor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[1]"Idondor, the Barbarian"'s HP changed
-[1]"Idondor, the Barbarian" get +89 DMG buff from "blood rage"
-[1]"Idondor, the Barbarian" was already attacked by [44]"Izon, the Barbarian"
-[1]"Idondor, the Barbarian" counterattacked [44]"Izon, the Barbarian" for 75 DMG!
-[1]"Idondor, the Barbarian" will attack [44]"Izon, the Barbarian" in a second
-[1]"Idondor, the Barbarian" attacks [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" was attacked by [1]"Idondor, the Barbarian"
-[44]"Izon, the Barbarian" was hited
-[44]"Izon, the Barbarian" was damaged for 75 (blocked 27), 23 -> 0/100 HP left
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" loosed "blood rage" buff from [44]"Izon, the Barbarian"
-[44]"Izon, the Barbarian" will die
-[44]"Izon, the Barbarian" died.
-[44]"Izon, the Barbarian" will attack [1]"Idondor, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Idondor, the Barbarian"
-[1]"Idondor, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Idondor, the Barbarian" was hited
-[1]"Idondor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[1]"Idondor, the Barbarian"'s HP changed
-[1]"Idondor, the Barbarian" loosed "blood rage" buff from [1]"Idondor, the Barbarian"
-[1]"Idondor, the Barbarian" will die
-[1]"Idondor, the Barbarian" died.
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" was healed for 1 health up to 1/100
-[1]"Wajald, the Barbarian" recieved "blood rage" buff from [1]"Wajald, the Barbarian"
-[1]"Wajald, the Barbarian" joined the battle	(for team 1)
-[44]"Izon, the Barbarian" moves (9,9) -> (9,10)
-[1]"Wajald, the Barbarian" moves (10,10) -> (8,9)
-[44]"Izon, the Barbarian" will attack [1]"Wajald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Wajald, the Barbarian"
-[1]"Wajald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Wajald, the Barbarian" was hited
-[1]"Wajald, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
-[1]"Wajald, the Barbarian"'s HP changed
-[1]"Wajald, the Barbarian" get +89 DMG buff from "blood rage"
-[1]"Wajald, the Barbarian" was already attacked by [44]"Izon, the Barbarian"
-[1]"Wajald, the Barbarian" counterattacked [44]"Izon, the Barbarian" for 75 DMG!
-[44]"Izon, the Barbarian" will attack [1]"Wajald, the Barbarian" in a second
-[44]"Izon, the Barbarian" attacks [1]"Wajald, the Barbarian"
-[1]"Wajald, the Barbarian" was attacked by [44]"Izon, the Barbarian"
-[1]"Wajald, the Barbarian" was hited
-[1]"Wajald, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
-[1]"Wajald, the Barbarian"'s HP changed
-[1]"Wajald, the Barbarian" loosed "blood rage" buff from [1]"Wajald, the Barbarian"
-[1]"Wajald, the Barbarian" will die
-[1]"Wajald, the Barbarian" died.
-[44]"Izon, the Barbarian"'s HP changed
-[44]"Izon, the Barbarian" was healed for 1 health up to 2/100
+[1]"Igsilii, the Barbarian" recieved "blood rage" buff from [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" joined the battle	(for team 1)
+[2]"Rorytod, the Barbarian" recieved "blood rage" buff from [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (10,10) -> (10,5)
+[2]"Rorytod, the Barbarian" moves (11,1) -> (9,4)
+[1]"Igsilii, the Barbarian" will attack [2]"Rorytod, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" was hited
+[2]"Rorytod, the Barbarian" was damaged for 60 (blocked 21), 100 -> 61/100 HP left
+[2]"Rorytod, the Barbarian"'s HP changed
+[2]"Rorytod, the Barbarian" get +39 DMG buff from "blood rage"
+[2]"Rorytod, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 50 DMG!
+[2]"Rorytod, the Barbarian" will attack [1]"Igsilii, the Barbarian" in a second
+[2]"Rorytod, the Barbarian" attacks [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" was attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" was hited
+[1]"Igsilii, the Barbarian" was damaged for 50 (blocked 18), 100 -> 68/100 HP left
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" get +32 DMG buff from "blood rage"
+[1]"Igsilii, the Barbarian" was already attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" counterattacked [2]"Rorytod, the Barbarian" for 46 DMG!
+[1]"Igsilii, the Barbarian" will attack [2]"Rorytod, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" was hited
+[2]"Rorytod, the Barbarian" was damaged for 46 (blocked 17), 61 -> 32/100 HP left
+[2]"Rorytod, the Barbarian"'s HP changed
+[2]"Rorytod, the Barbarian" get +29 DMG buff from "blood rage"
+[2]"Rorytod, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 40 DMG!
+[2]"Rorytod, the Barbarian" will attack [1]"Igsilii, the Barbarian" in a second
+[2]"Rorytod, the Barbarian" attacks [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" was attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" was hited
+[1]"Igsilii, the Barbarian" was damaged for 40 (blocked 14), 68 -> 42/100 HP left
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" get +26 DMG buff from "blood rage"
+[1]"Igsilii, the Barbarian" was already attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" counterattacked [2]"Rorytod, the Barbarian" for 36 DMG!
+[1]"Igsilii, the Barbarian" will attack [2]"Rorytod, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" was hited
+[2]"Rorytod, the Barbarian" was damaged for 36 (blocked 13), 32 -> 9/100 HP left
+[2]"Rorytod, the Barbarian"'s HP changed
+[2]"Rorytod, the Barbarian" get +23 DMG buff from "blood rage"
+[2]"Rorytod, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 32 DMG!
+[2]"Rorytod, the Barbarian" will attack [1]"Igsilii, the Barbarian" in a second
+[2]"Rorytod, the Barbarian" attacks [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" was attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" was hited
+[1]"Igsilii, the Barbarian" was damaged for 32 (blocked 12), 42 -> 22/100 HP left
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" get +20 DMG buff from "blood rage"
+[1]"Igsilii, the Barbarian" was already attacked by [2]"Rorytod, the Barbarian"
+[1]"Igsilii, the Barbarian" counterattacked [2]"Rorytod, the Barbarian" for 28 DMG!
+[1]"Igsilii, the Barbarian" will attack [2]"Rorytod, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[2]"Rorytod, the Barbarian" was hited
+[2]"Rorytod, the Barbarian" was damaged for 28 (blocked 10), 9 -> 0/100 HP left
+[2]"Rorytod, the Barbarian"'s HP changed
+[2]"Rorytod, the Barbarian" loosed "blood rage" buff from [2]"Rorytod, the Barbarian"
+[2]"Rorytod, the Barbarian" will die
+[2]"Rorytod, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" get +-1 DMG buff from "blood rage"
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 23/100
+[3]"Eteban, the Barbarian" recieved "blood rage" buff from [3]"Eteban, the Barbarian"
+[3]"Eteban, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (10,5) -> (12,2)
+[3]"Eteban, the Barbarian" moves (13,1) -> (11,1)
+[1]"Igsilii, the Barbarian" will attack [3]"Eteban, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [3]"Eteban, the Barbarian"
+[3]"Eteban, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[3]"Eteban, the Barbarian" was hited
+[3]"Eteban, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[3]"Eteban, the Barbarian"'s HP changed
+[3]"Eteban, the Barbarian" get +89 DMG buff from "blood rage"
+[3]"Eteban, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[3]"Eteban, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[3]"Eteban, the Barbarian" will attack [1]"Igsilii, the Barbarian" in a second
+[3]"Eteban, the Barbarian" attacks [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" was attacked by [3]"Eteban, the Barbarian"
+[1]"Igsilii, the Barbarian" was hited
+[1]"Igsilii, the Barbarian" was damaged for 75 (blocked 27), 23 -> 0/100 HP left
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" loosed "blood rage" buff from [1]"Igsilii, the Barbarian"
+[1]"Igsilii, the Barbarian" will die
+[1]"Igsilii, the Barbarian" died.
+[1]"Igsilii, the Barbarian" will attack [3]"Eteban, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [3]"Eteban, the Barbarian"
+[3]"Eteban, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[3]"Eteban, the Barbarian" was hited
+[3]"Eteban, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[3]"Eteban, the Barbarian"'s HP changed
+[3]"Eteban, the Barbarian" loosed "blood rage" buff from [3]"Eteban, the Barbarian"
+[3]"Eteban, the Barbarian" will die
+[3]"Eteban, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 1/100
+[4]"Ovon, the Barbarian" recieved "blood rage" buff from [4]"Ovon, the Barbarian"
+[4]"Ovon, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (12,2) -> (12,7)
+[4]"Ovon, the Barbarian" moves (19,16) -> (17,13)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 2/100
+[1]"Igsilii, the Barbarian" moves (12,7) -> (14,10)
+[4]"Ovon, the Barbarian" moves (17,13) -> (14,11)
+[1]"Igsilii, the Barbarian" will attack [4]"Ovon, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [4]"Ovon, the Barbarian"
+[4]"Ovon, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[4]"Ovon, the Barbarian" was hited
+[4]"Ovon, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[4]"Ovon, the Barbarian"'s HP changed
+[4]"Ovon, the Barbarian" get +89 DMG buff from "blood rage"
+[4]"Ovon, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[4]"Ovon, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [4]"Ovon, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [4]"Ovon, the Barbarian"
+[4]"Ovon, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[4]"Ovon, the Barbarian" was hited
+[4]"Ovon, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[4]"Ovon, the Barbarian"'s HP changed
+[4]"Ovon, the Barbarian" loosed "blood rage" buff from [4]"Ovon, the Barbarian"
+[4]"Ovon, the Barbarian" will die
+[4]"Ovon, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 3/100
+[5]"Wumor, the Barbarian" recieved "blood rage" buff from [5]"Wumor, the Barbarian"
+[5]"Wumor, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (14,10) -> (16,7)
+[5]"Wumor, the Barbarian" moves (19,4) -> (16,6)
+[1]"Igsilii, the Barbarian" will attack [5]"Wumor, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [5]"Wumor, the Barbarian"
+[5]"Wumor, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[5]"Wumor, the Barbarian" was hited
+[5]"Wumor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[5]"Wumor, the Barbarian"'s HP changed
+[5]"Wumor, the Barbarian" get +89 DMG buff from "blood rage"
+[5]"Wumor, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[5]"Wumor, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [5]"Wumor, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [5]"Wumor, the Barbarian"
+[5]"Wumor, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[5]"Wumor, the Barbarian" was hited
+[5]"Wumor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[5]"Wumor, the Barbarian"'s HP changed
+[5]"Wumor, the Barbarian" loosed "blood rage" buff from [5]"Wumor, the Barbarian"
+[5]"Wumor, the Barbarian" will die
+[5]"Wumor, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 4/100
+[6]"Epexondor, the Barbarian" recieved "blood rage" buff from [6]"Epexondor, the Barbarian"
+[6]"Epexondor, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (16,7) -> (11,7)
+[6]"Epexondor, the Barbarian" moves (0,1) -> (5,1)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 5/100
+[1]"Igsilii, the Barbarian" moves (11,7) -> (8,5)
+[6]"Epexondor, the Barbarian" moves (5,1) -> (7,4)
+[1]"Igsilii, the Barbarian" will attack [6]"Epexondor, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [6]"Epexondor, the Barbarian"
+[6]"Epexondor, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[6]"Epexondor, the Barbarian" was hited
+[6]"Epexondor, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[6]"Epexondor, the Barbarian"'s HP changed
+[6]"Epexondor, the Barbarian" get +89 DMG buff from "blood rage"
+[6]"Epexondor, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[6]"Epexondor, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [6]"Epexondor, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [6]"Epexondor, the Barbarian"
+[6]"Epexondor, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[6]"Epexondor, the Barbarian" was hited
+[6]"Epexondor, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[6]"Epexondor, the Barbarian"'s HP changed
+[6]"Epexondor, the Barbarian" loosed "blood rage" buff from [6]"Epexondor, the Barbarian"
+[6]"Epexondor, the Barbarian" will die
+[6]"Epexondor, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 6/100
+[7]"Ibom, the Barbarian" recieved "blood rage" buff from [7]"Ibom, the Barbarian"
+[7]"Ibom, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (8,5) -> (12,5)
+[7]"Ibom, the Barbarian" moves (19,12) -> (16,10)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 7/100
+[1]"Igsilii, the Barbarian" moves (12,5) -> (14,8)
+[7]"Ibom, the Barbarian" moves (16,10) -> (13,8)
+[1]"Igsilii, the Barbarian" will attack [7]"Ibom, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [7]"Ibom, the Barbarian"
+[7]"Ibom, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[7]"Ibom, the Barbarian" was hited
+[7]"Ibom, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[7]"Ibom, the Barbarian"'s HP changed
+[7]"Ibom, the Barbarian" get +89 DMG buff from "blood rage"
+[7]"Ibom, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[7]"Ibom, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [7]"Ibom, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [7]"Ibom, the Barbarian"
+[7]"Ibom, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[7]"Ibom, the Barbarian" was hited
+[7]"Ibom, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[7]"Ibom, the Barbarian"'s HP changed
+[7]"Ibom, the Barbarian" loosed "blood rage" buff from [7]"Ibom, the Barbarian"
+[7]"Ibom, the Barbarian" will die
+[7]"Ibom, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 8/100
+[8]"Zatuxuhsilii, the Barbarian" recieved "blood rage" buff from [8]"Zatuxuhsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (14,8) -> (9,8)
+[8]"Zatuxuhsilii, the Barbarian" moves (1,9) -> (6,9)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 9/100
+[1]"Igsilii, the Barbarian" moves (9,8) -> (5,8)
+[8]"Zatuxuhsilii, the Barbarian" moves (6,9) -> (4,7)
+[1]"Igsilii, the Barbarian" will attack [8]"Zatuxuhsilii, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [8]"Zatuxuhsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" was hited
+[8]"Zatuxuhsilii, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[8]"Zatuxuhsilii, the Barbarian"'s HP changed
+[8]"Zatuxuhsilii, the Barbarian" get +89 DMG buff from "blood rage"
+[8]"Zatuxuhsilii, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [8]"Zatuxuhsilii, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [8]"Zatuxuhsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" was hited
+[8]"Zatuxuhsilii, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[8]"Zatuxuhsilii, the Barbarian"'s HP changed
+[8]"Zatuxuhsilii, the Barbarian" loosed "blood rage" buff from [8]"Zatuxuhsilii, the Barbarian"
+[8]"Zatuxuhsilii, the Barbarian" will die
+[8]"Zatuxuhsilii, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 10/100
+[9]"Upous, the Barbarian" recieved "blood rage" buff from [9]"Upous, the Barbarian"
+[9]"Upous, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (5,8) -> (10,8)
+[9]"Upous, the Barbarian" moves (19,15) -> (15,14)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 11/100
+[1]"Igsilii, the Barbarian" moves (10,8) -> (12,11)
+[9]"Upous, the Barbarian" moves (15,14) -> (12,12)
+[1]"Igsilii, the Barbarian" will attack [9]"Upous, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [9]"Upous, the Barbarian"
+[9]"Upous, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[9]"Upous, the Barbarian" was hited
+[9]"Upous, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[9]"Upous, the Barbarian"'s HP changed
+[9]"Upous, the Barbarian" get +89 DMG buff from "blood rage"
+[9]"Upous, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[9]"Upous, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [9]"Upous, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [9]"Upous, the Barbarian"
+[9]"Upous, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[9]"Upous, the Barbarian" was hited
+[9]"Upous, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[9]"Upous, the Barbarian"'s HP changed
+[9]"Upous, the Barbarian" loosed "blood rage" buff from [9]"Upous, the Barbarian"
+[9]"Upous, the Barbarian" will die
+[9]"Upous, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 12/100
+[10]"Wacey, the Barbarian" recieved "blood rage" buff from [10]"Wacey, the Barbarian"
+[10]"Wacey, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (12,11) -> (11,7)
+[10]"Wacey, the Barbarian" moves (6,1) -> (8,4)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 13/100
+[1]"Igsilii, the Barbarian" moves (11,7) -> (8,5)
+[10]"Wacey, the Barbarian" moves (8,4) -> (7,4)
+[1]"Igsilii, the Barbarian" will attack [10]"Wacey, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [10]"Wacey, the Barbarian"
+[10]"Wacey, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[10]"Wacey, the Barbarian" was hited
+[10]"Wacey, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[10]"Wacey, the Barbarian"'s HP changed
+[10]"Wacey, the Barbarian" get +89 DMG buff from "blood rage"
+[10]"Wacey, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[10]"Wacey, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [10]"Wacey, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [10]"Wacey, the Barbarian"
+[10]"Wacey, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[10]"Wacey, the Barbarian" was hited
+[10]"Wacey, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[10]"Wacey, the Barbarian"'s HP changed
+[10]"Wacey, the Barbarian" loosed "blood rage" buff from [10]"Wacey, the Barbarian"
+[10]"Wacey, the Barbarian" will die
+[10]"Wacey, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 14/100
+[11]"Pegocenier, the Barbarian" recieved "blood rage" buff from [11]"Pegocenier, the Barbarian"
+[11]"Pegocenier, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (8,5) -> (9,9)
+[11]"Pegocenier, the Barbarian" moves (19,19) -> (16,17)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 15/100
+[1]"Igsilii, the Barbarian" moves (9,9) -> (11,12)
+[11]"Pegocenier, the Barbarian" moves (16,17) -> (13,15)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 16/100
+[1]"Igsilii, the Barbarian" moves (11,12) -> (12,14)
+[11]"Pegocenier, the Barbarian" moves (13,15) -> (11,13)
+[1]"Igsilii, the Barbarian" will attack [11]"Pegocenier, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [11]"Pegocenier, the Barbarian"
+[11]"Pegocenier, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[11]"Pegocenier, the Barbarian" was hited
+[11]"Pegocenier, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[11]"Pegocenier, the Barbarian"'s HP changed
+[11]"Pegocenier, the Barbarian" get +89 DMG buff from "blood rage"
+[11]"Pegocenier, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[11]"Pegocenier, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [11]"Pegocenier, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [11]"Pegocenier, the Barbarian"
+[11]"Pegocenier, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[11]"Pegocenier, the Barbarian" was hited
+[11]"Pegocenier, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[11]"Pegocenier, the Barbarian"'s HP changed
+[11]"Pegocenier, the Barbarian" loosed "blood rage" buff from [11]"Pegocenier, the Barbarian"
+[11]"Pegocenier, the Barbarian" will die
+[11]"Pegocenier, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 17/100
+[12]"Zajovywarield, the Barbarian" recieved "blood rage" buff from [12]"Zajovywarield, the Barbarian"
+[12]"Zajovywarield, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (12,14) -> (13,10)
+[12]"Zajovywarield, the Barbarian" moves (19,5) -> (16,7)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 18/100
+[1]"Igsilii, the Barbarian" moves (13,10) -> (15,7)
+[12]"Zajovywarield, the Barbarian" moves (16,7) -> (14,6)
+[1]"Igsilii, the Barbarian" will attack [12]"Zajovywarield, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [12]"Zajovywarield, the Barbarian"
+[12]"Zajovywarield, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[12]"Zajovywarield, the Barbarian" was hited
+[12]"Zajovywarield, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[12]"Zajovywarield, the Barbarian"'s HP changed
+[12]"Zajovywarield, the Barbarian" get +89 DMG buff from "blood rage"
+[12]"Zajovywarield, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[12]"Zajovywarield, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [12]"Zajovywarield, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [12]"Zajovywarield, the Barbarian"
+[12]"Zajovywarield, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[12]"Zajovywarield, the Barbarian" was hited
+[12]"Zajovywarield, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[12]"Zajovywarield, the Barbarian"'s HP changed
+[12]"Zajovywarield, the Barbarian" loosed "blood rage" buff from [12]"Zajovywarield, the Barbarian"
+[12]"Zajovywarield, the Barbarian" will die
+[12]"Zajovywarield, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 19/100
+[13]"Nutabya, the Barbarian" recieved "blood rage" buff from [13]"Nutabya, the Barbarian"
+[13]"Nutabya, the Barbarian" joined the battle	(for team 0)
+[1]"Igsilii, the Barbarian" moves (15,7) -> (12,9)
+[13]"Nutabya, the Barbarian" moves (2,19) -> (4,16)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 20/100
+[1]"Igsilii, the Barbarian" moves (12,9) -> (9,11)
+[13]"Nutabya, the Barbarian" moves (4,16) -> (6,13)
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 21/100
+[1]"Igsilii, the Barbarian" moves (9,11) -> (5,12)
+[13]"Nutabya, the Barbarian" moves (6,13) -> (4,11)
+[1]"Igsilii, the Barbarian" will attack [13]"Nutabya, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [13]"Nutabya, the Barbarian"
+[13]"Nutabya, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[13]"Nutabya, the Barbarian" was hited
+[13]"Nutabya, the Barbarian" was damaged for 137 (blocked 48), 100 -> 11/100 HP left
+[13]"Nutabya, the Barbarian"'s HP changed
+[13]"Nutabya, the Barbarian" get +89 DMG buff from "blood rage"
+[13]"Nutabya, the Barbarian" was already attacked by [1]"Igsilii, the Barbarian"
+[13]"Nutabya, the Barbarian" counterattacked [1]"Igsilii, the Barbarian" for 75 DMG!
+[1]"Igsilii, the Barbarian" will attack [13]"Nutabya, the Barbarian" in a second
+[1]"Igsilii, the Barbarian" attacks [13]"Nutabya, the Barbarian"
+[13]"Nutabya, the Barbarian" was attacked by [1]"Igsilii, the Barbarian"
+[13]"Nutabya, the Barbarian" was hited
+[13]"Nutabya, the Barbarian" was damaged for 137 (blocked 48), 11 -> 0/100 HP left
+[13]"Nutabya, the Barbarian"'s HP changed
+[13]"Nutabya, the Barbarian" loosed "blood rage" buff from [13]"Nutabya, the Barbarian"
+[13]"Nutabya, the Barbarian" will die
+[13]"Nutabya, the Barbarian" died.
+[1]"Igsilii, the Barbarian"'s HP changed
+[1]"Igsilii, the Barbarian" was healed for 1 health up to 22/100

@@ -51,8 +51,6 @@ namespace LibRPHG.PlayerClasses
             base.AfterAttacked(bywho);
             if (this.DistanceTo((Abstraceunit)bywho, false) <= 1)
             {
-                
-
                 int dmg_buff = -(_att_dmg + _att_dmg_mod) / 2;
                 _att_dmg_mod += dmg_buff;
                 LOGS.Add(String.Format("{0} counterattacked {1} for {2} DMG!", this.NameFull, bywho.NameFull, CurrentDamage));
